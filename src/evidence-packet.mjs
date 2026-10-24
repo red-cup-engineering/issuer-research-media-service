@@ -1,7 +1,8 @@
-import { EMPTY_WITNESS_ROOT, identifyJsonSemanticContent } from "@red-cup-engineering/computer-content-address-engineering-services-section/semantic-content-identity";
+import { semanticIdOf } from "@red-cup-engineering/computer-data-engineering-services-section/semiotic-expression-notation/semantic-content-identity";
+import { canonicalJson as canonical } from "@red-cup-engineering/json-services-section/canonical-json";
 
-const semanticId = (value) => identifyJsonSemanticContent({ objectKind: "brokerage.issuer-research-media.record", value, witnessRoot: EMPTY_WITNESS_ROOT }).id;
-const canonical = (v) => v === null || typeof v !== "object" ? JSON.stringify(v) : Array.isArray(v) ? `[${v.map(canonical).join(",")}]` : `{${Object.keys(v).sort().map((k) => `${JSON.stringify(k)}:${canonical(v[k])}`).join(",")}}`;
+const semanticId = semanticIdOf("brokerage.issuer-research-media.record");
+
 const id = (v) => semanticId(v);
 export function validateIssuerEvidenceRequest({ ticker, issuer, asOf, sources, claims, events = [], license = "single-customer-analysis" } = {}) {
   if (typeof ticker !== "string" || ticker.trim() === "" || typeof issuer !== "string" || issuer.trim() === "") throw new TypeError("ticker-and-issuer-required");
