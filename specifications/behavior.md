@@ -1,8 +1,10 @@
 # Behavioral specification
 
 Predecessor: [requirements](requirements.md), R1–R8. Source construction and
-receiving are per unit: the pure kernel is separately admitted; this complete
-operating composition requires its next native fabrication and consumer receipt.
+receiving are per unit: the kernel and prepared supplier have native and
+independent Node receipts; the prepared supplier also has actual workerd
+preparation, redirect-refusal and cache-reader receipts. Controller and public customer
+delivery remain obligations of the complete operating composition.
 
 ## Pure fiscal-period kernel
 
@@ -35,6 +37,11 @@ response, malformed JSON or CIK mismatch refuses before producing a new cohort;
 rate/temporary failure retains retryability and Retry-After. One source failure
 never yields a partially refreshed comparison.
 
+Retry-After preservation applies to transport/rate/temporary source refusal.
+It is retained literally without a supplier scheduling policy. A successful
+HTTP200 response followed by a semantic CIK mismatch currently refuses with no
+retryAfter field; the dated edge receiving diagnostic records that boundary.
+
 The structural User-Agent predicate is trim-nonempty text, no CR/LF and a
 literal @. It proves no mailbox grammar, deliverability or operator identity;
 the actual operator independently receives that identity. Extra trusted host
@@ -57,12 +64,12 @@ evidencePackets and explicit comparability. Aligned actual dates may be
 or missing evidence is `unresolved`. These labels rank no companies and make
 no claim that equal duration kinds imply identical fiscal calendars.
 
-The caller, the existing single EarningClock durable coordinator, performs one
-atomic STATE R2 put only after complete bounded preparation. The supplier writes
-no R2 object. The first existing operation uses this same bucket under the
-market binding ISSUER_EVIDENCE; there is no new provider or host. Single-cohort
-traffic admission remains that ordinary coordinator's duty, never a claim
-established by function-local sleeping.
+The caller, the existing single EarningClock durable coordinator, persists the
+compact cohort atomically only after complete bounded preparation. The supplier
+performs no cache write. The Group instance selects its existing DurableObject
+SQLite storage and supplies the market ISSUER_EVIDENCE body-stream adapter;
+application receiving establishes that adapter. Single-cohort traffic admission
+remains the coordinator's duty, never a claim established by local sleeping.
 
 ## Paid cache reader
 

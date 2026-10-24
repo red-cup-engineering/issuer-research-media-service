@@ -38,15 +38,15 @@ coverage.
 
 The pure reconciliation function is separately fabricated first, with one
 explicit envelope input and native JSON counterexamples. Public request shape
-is only periodKind. The next qualified construction provides a pure request
-validator, trusted background prepared-cohort producer and foreground R2 reader.
+is only periodKind. The received prepared-cohort unit provides a pure request
+validator, trusted background producer and foreground cache reader.
 Their cache object is IssuerRevenuePreparedCohort, version one, with observedAt,
 asOf and results.quarter/results.annual. Each result is a fully composed
 IssuerRevenueComparison retaining both issuer results, source provenance and
 original evidence packets. Foreground checks the configured cache key and
 binding, cohort/version, date coverage and independent snapshot freshness;
 it never requests SEC or recomputes multi-megabyte facts. Field and adapter
-contracts require that next unit's source-bound admission before fabrication.
+contracts are retained in that unit's source-bound admission and receiving receipts.
 JSON operation configuration never grants executable adapters or source URLs.
 Compact cache receiving also checks latest-per-concept witness values against
 the reported current value, while permitting earlier changed-value witnesses.
@@ -54,9 +54,11 @@ It preserves genuine conflicts as ambiguity and checks the exact producer
 packet statement against structured metadata without rehashing the packet.
 The retained first full-module proposal failed independent source review on
 these invariants and remains REFUSED under its original source/specification
-identities; its bytes must not be hand-edited or activated. Corrected living
-requirements need native admission and whole-unit refinement after actual
-host resource admission. Retained-delivery replay purchases no new inference.
+identities; its bytes must not be hand-edited or activated. The corrected requirements were natively admitted and a whole-unit source
+delivery received unchanged through ten native and nineteen independent I/O
+checks. The earlier refused bytes remain inactive. Retained-delivery replay
+purchases no new inference. The exact source and primary-source Node receipts
+are retained under the original owning section's typed data.
 The existing issuer package owns new exports and the unchanged live packet;
 Alpaca delegates its legacy public face through that independent package.
 Package exports and packet relocation are deterministic manifest/source

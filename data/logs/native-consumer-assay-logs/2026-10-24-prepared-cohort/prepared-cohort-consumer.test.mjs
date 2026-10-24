@@ -1,7 +1,7 @@
 import test, { after } from 'node:test';
 import assert from 'node:assert/strict';
 import { addressContent } from '@red-cup-engineering/computer-content-address-engineering-services-section/content-address';
-import { formIssuerEvidencePacket } from '../src/evidence-packet.mjs';
+import { formIssuerEvidencePacket } from '@red-cup-engineering/issuer-research-media-service';
 const originalFetch = globalThis.fetch;
 globalThis.fetch = async () => { throw new Error('unexpected-live-network-during-consumer-receiving'); };
 after(() => { globalThis.fetch = originalFetch; });
@@ -85,7 +85,7 @@ test('complete background acquisition has exact fixed HTTP effects and original 
     const call = adapters.calls[index];
     assert.equal(call.url, 'https://data.sec.gov/api/xbrl/companyfacts/CIK' + cik + '.json');
     assert.equal(call.init.method ?? 'GET', 'GET');
-    assert.equal(call.init.redirect, 'error');
+    assert.equal(call.init.redirect, 'manual');
     assert.ok(call.init.signal instanceof AbortSignal);
     assert.equal(new Headers(call.init.headers).get('User-Agent'), config.userAgent);
     assert.equal(new Headers(call.init.headers).get('Accept'), 'application/json');
@@ -268,4 +268,16 @@ test('configured lowercase tickers preserve report spelling and original packet 
   assert.equal(result, prepared.results.annual);
   assert.deepEqual(result.issuers.map(issuer => issuer.ticker), ['one', 'two']);
   assert.deepEqual(result.evidencePackets.map(packet => packet.ticker), ['ONE', 'TWO']);
+});
+
+
+test('source redirects are rejected once without following Location or acquiring the next issuer', async () => {
+  const calls = [];
+  await assert.rejects(() => prepareIssuerRevenueCohort(configuration(), fixtureAdapters({ fetch: async (url, init) => {
+    calls.push({ url, init });
+    assert.equal(init.redirect, 'manual');
+    return new Response('', { status: 302, headers: { Location: 'https://unqualified.example.invalid/redirect-target' } });
+  } })), error => { unavailable()(error); assert.equal(error.retryable, false); assert.equal(error.reason, 'http-302'); return true; });
+  assert.equal(calls.length, 1);
+  assert.equal(calls[0].url, 'https://data.sec.gov/api/xbrl/companyfacts/CIK0000000001.json');
 });

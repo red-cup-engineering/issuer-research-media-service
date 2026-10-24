@@ -7,4 +7,36 @@
 [![Tips welcome](https://img.shields.io/badge/tips-welcome-d4a017)](https://github.com/561-group/.github/blob/main/TIPS.md)
 <!-- 561-group-standards:badges:end -->
 
-issuer-research-media-service sovereign enterprise
+Source-backed issuer evidence and fiscal-period/revision reconciliation.
+
+The default export surface retains `formIssuerEvidencePacket`. The
+`./revenue-reconciliation` surface provides the pure
+`reconcileIssuerRevenueFacts` kernel. The `./prepared-cohort` surface provides:
+
+- `planIssuerRevenueAcquisition(configuration)` and
+  `validateIssuerRevenueComparisonRequest(body, configuration)`;
+- `prepareIssuerRevenueCohort(configuration, adapters)` for bounded sequential
+  official SEC acquisition and compact quarter/annual evidence;
+- `selectPreparedIssuerRevenueComparison(input)` and
+  `readPreparedIssuerRevenueComparison(body, env, configuration)` for unchanged
+  current cache selection with source, period, revision and packet checks.
+
+Configuration belongs to the operating instance. Public requests select only
+an explicitly offered period kind. The operating owner supplies one global
+coordinator and atomic cache storage; this supplier performs no storage writes.
+The cache reader accepts the configured binding's bounded body stream.
+
+The source-qualified [work order](specifications/prepared-cohort.work-order.md)
+and [behavior](specifications/behavior.md) define the interfaces. The unchanged
+generated edge module passed native preassay, 20 independent Node
+HTTP/stream/cache cases and three actual workerd cases for preparation,
+no-follow redirect refusal and cache-only fulfillment. The dated
+[edge receipt](data/records/fabrication-run-records/2026-10-24-prepared-cohort/edge-refinement/receiving.json)
+retains the exact source and runtime evidence. One earlier Node-qualified
+two-issuer SEC run produced a 7,582-byte
+cohort and a 3,726-byte annual comparison; see the dated
+[primary-source receipt](data/records/primary-source-receiving-records/2026-10-24-prepared-cohort/receipt.json)
+and [output example](data/records/primary-source-receiving-records/2026-10-24-prepared-cohort/annual.json).
+The live SEC example is a Node supplier receipt. The later workerd fixture
+uses bounded local sources; deployment resource admission and customer delivery
+are received by their composing owners.
