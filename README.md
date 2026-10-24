@@ -40,3 +40,9 @@ and [output example](data/records/primary-source-receiving-records/2026-10-24-pr
 The live SEC example is a Node supplier receipt. The later workerd fixture
 uses bounded local sources; deployment resource admission and customer delivery
 are received by their composing owners.
+
+A separate [full-source workerd receipt](data/records/worker-runtime-test-records/2026-10-24-prepared-cohort-full-source/result.json)
+received both retained SEC documents (8,677,207 bytes) through the same native
+module in 2.06 seconds of runtime-test duration. It produced the same compact
+sizes and retained the stale Microsoft quarter. This fixture performs no SEC
+fetch and establishes no fresh source observation or production resource quota.
