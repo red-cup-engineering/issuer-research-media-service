@@ -2,12 +2,12 @@
   "type": "IssuerPreparedCohortNativeConsumerAssayCases",
   "version": 1,
   "sourceOrder": "specifications/prepared-cohort.work-order.md",
-  "scope": "Predeclared independent named-interface/HTTP/R2/controller receiving; actual execution and outputs remain pending. Native JSON plan/selector preassay does not discharge these.",
+  "scope": "Predeclared independent named-interface/HTTP/cache/controller receiving; actual execution and outputs remain pending. Native JSON plan/selector preassay does not discharge these.",
   "fixturePolicy": {
     "source": "synthetic SEC companyfacts; no outside claims or payments",
     "clock": "trusted isolated native test clock fixed to 2026-10-24T12:00:00.000Z; no machine clock changes",
     "network": "fixture Response streams, actual global network disabled in receiver",
-    "storage": "fixture R2ObjectBody streams + get/put call receipts; actual public R2 receiving remains separate",
+    "storage": "Fixture cache-object body streams and get-call receipts; actual existing DurableObject SQLite receiving is a separate consumer obligation.",
     "independence": "These additional receiving case descriptors are not supplied to semantic source provider beyond admitted contract/examples."
   },
   "cases": [
@@ -268,6 +268,16 @@
         "value": null,
         "comparability": "unresolved",
         "ready": true
+      }
+    },
+    {
+      "id": "original-packet-ticker-normalization",
+      "invoke": "prepareIssuerRevenueCohort + selectPreparedIssuerRevenueComparison",
+      "input": "Valid lowercase configured tickers; ordinary complete fixture source responses",
+      "expect": {
+        "reportTicker": "configured original spelling",
+        "packetTicker": "original constructor uppercase normalization",
+        "selectedResult": "unchanged complete annual result"
       }
     }
   ],

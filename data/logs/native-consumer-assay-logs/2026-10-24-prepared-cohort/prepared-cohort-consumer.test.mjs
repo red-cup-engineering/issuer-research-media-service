@@ -14,7 +14,7 @@ const {
 
 // Original consumer receiving cases were declared before source derivation in
 // data/records/native-consumer-assay-records/2026-10-24-prepared-cohort.json.
-// These fixture streams perform no network, R2 write, settlement or live clock change.
+// These fixture streams perform no network, cache write, settlement or live clock change.
 const instant = '2026-10-24T12:00:00.000Z';
 const configuration = () => ({
   issuers: [{ cik: '0000000001', ticker: 'ONE' }, { cik: '0000000002', ticker: 'TWO' }],
@@ -177,7 +177,7 @@ test('actual compact output ceiling refuses a completed oversized result', async
   await assert.rejects(() => prepareIssuerRevenueCohort(config, fixtureAdapters()), unavailable());
 });
 
-test('reader uses one configured R2 read and preserves source and packet values', async () => {
+test('reader uses one configured cache read and preserves source and packet values', async () => {
   const prepared = await cohort();
   assert.equal(selectPreparedIssuerRevenueComparison({ body: { periodKind: 'annual' }, configuration: configuration(), cohort: prepared, now: instant }), prepared.results.annual);
   const { result, gets } = await read(prepared);
@@ -257,4 +257,15 @@ test('genuine same-period conflict remains an explicitly allowed unresolved repo
   assert.equal(selected.issuers[0].status, 'ambiguous');
   assert.equal(selected.issuers[0].value, null);
   assert.deepEqual(selected.issuers[0].witnesses.map(w => w.value).sort((a, b) => a - b), [100, 200]);
+});
+
+
+test('configured lowercase tickers preserve report spelling and original packet normalization', async () => {
+  const config = configuration();
+  config.issuers = config.issuers.map(issuer => ({ ...issuer, ticker: issuer.ticker.toLowerCase() }));
+  const prepared = await prepareIssuerRevenueCohort(config, fixtureAdapters());
+  const result = selectPreparedIssuerRevenueComparison({ body: { periodKind: 'annual' }, configuration: config, cohort: prepared, now: instant });
+  assert.equal(result, prepared.results.annual);
+  assert.deepEqual(result.issuers.map(issuer => issuer.ticker), ['one', 'two']);
+  assert.deepEqual(result.evidencePackets.map(packet => packet.ticker), ['ONE', 'TWO']);
 });
