@@ -72,6 +72,7 @@ async function read(value, body = { periodKind: 'annual' }, config = configurati
 
 test('complete background acquisition has exact fixed HTTP effects and original source/packet identities', async () => {
   const config = configuration(), adapters = fixtureAdapters();
+  config.hostControlMetadata = { fixture: 'trusted extra metadata is not a public override' };
   const originalConfiguration = structuredClone(config);
   const prepared = await prepareIssuerRevenueCohort(config, adapters);
   assert.deepEqual(config, originalConfiguration);
