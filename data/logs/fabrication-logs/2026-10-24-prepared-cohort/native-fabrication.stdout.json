@@ -1,0 +1,2008 @@
+{
+  "specificationDigest": "ni:///sha-256;zbn4SQ9WNdZOfYKUijH2WcQ_G-RV5xB3nLt4i4nqdEk",
+  "plan": {
+    "type": "ArtifactFabricationRealizationPlan",
+    "version": 1,
+    "artifactId": "issuer-revenue-prepared-cohort",
+    "specificationDigest": "ni:///sha-256;zbn4SQ9WNdZOfYKUijH2WcQ_G-RV5xB3nLt4i4nqdEk",
+    "projectionIds": [
+      "jsnode-modules"
+    ],
+    "acceptanceObligationIds": [
+      "io-receiving",
+      "pure-receiving"
+    ],
+    "traceability": [
+      {
+        "type": "ArtifactFabricationTrace",
+        "version": 1,
+        "requirementId": "configuration",
+        "constraintIds": [
+          "async-contract-1",
+          "async-contract-2",
+          "async-contract-3",
+          "async-contract-4",
+          "async-contract-5",
+          "async-contract-6",
+          "async-contract-7",
+          "native-fabrication",
+          "sec-source",
+          "source-demand",
+          "source-integrity",
+          "source-module-interfaces",
+          "source-no-substitutes",
+          "source-pure-effects",
+          "source-supplier-closure"
+        ],
+        "projectionIds": [
+          "jsnode-modules"
+        ],
+        "acceptanceObligationIds": [
+          "pure-receiving"
+        ]
+      },
+      {
+        "type": "ArtifactFabricationTrace",
+        "version": 1,
+        "requirementId": "acquisition-plan",
+        "constraintIds": [
+          "async-contract-1",
+          "async-contract-2",
+          "async-contract-3",
+          "async-contract-4",
+          "async-contract-5",
+          "async-contract-6",
+          "async-contract-7",
+          "native-fabrication",
+          "sec-source",
+          "source-demand",
+          "source-integrity",
+          "source-module-interfaces",
+          "source-no-substitutes",
+          "source-pure-effects",
+          "source-supplier-closure"
+        ],
+        "projectionIds": [
+          "jsnode-modules"
+        ],
+        "acceptanceObligationIds": [
+          "pure-receiving"
+        ]
+      },
+      {
+        "type": "ArtifactFabricationTrace",
+        "version": 1,
+        "requirementId": "public-request",
+        "constraintIds": [
+          "async-contract-1",
+          "async-contract-2",
+          "async-contract-3",
+          "async-contract-4",
+          "async-contract-5",
+          "async-contract-6",
+          "async-contract-7",
+          "native-fabrication",
+          "sec-source",
+          "source-demand",
+          "source-integrity",
+          "source-module-interfaces",
+          "source-no-substitutes",
+          "source-pure-effects",
+          "source-supplier-closure"
+        ],
+        "projectionIds": [
+          "jsnode-modules"
+        ],
+        "acceptanceObligationIds": [
+          "pure-receiving"
+        ]
+      },
+      {
+        "type": "ArtifactFabricationTrace",
+        "version": 1,
+        "requirementId": "selector-input",
+        "constraintIds": [
+          "async-contract-1",
+          "async-contract-2",
+          "async-contract-3",
+          "async-contract-4",
+          "async-contract-5",
+          "async-contract-6",
+          "async-contract-7",
+          "native-fabrication",
+          "sec-source",
+          "source-demand",
+          "source-integrity",
+          "source-module-interfaces",
+          "source-no-substitutes",
+          "source-pure-effects",
+          "source-supplier-closure"
+        ],
+        "projectionIds": [
+          "jsnode-modules"
+        ],
+        "acceptanceObligationIds": [
+          "pure-receiving"
+        ]
+      },
+      {
+        "type": "ArtifactFabricationTrace",
+        "version": 1,
+        "requirementId": "cohort-boundary",
+        "constraintIds": [
+          "async-contract-1",
+          "async-contract-2",
+          "async-contract-3",
+          "async-contract-4",
+          "async-contract-5",
+          "async-contract-6",
+          "async-contract-7",
+          "native-fabrication",
+          "sec-source",
+          "source-demand",
+          "source-integrity",
+          "source-module-interfaces",
+          "source-no-substitutes",
+          "source-pure-effects",
+          "source-supplier-closure"
+        ],
+        "projectionIds": [
+          "jsnode-modules"
+        ],
+        "acceptanceObligationIds": [
+          "pure-receiving"
+        ]
+      },
+      {
+        "type": "ArtifactFabricationTrace",
+        "version": 1,
+        "requirementId": "configured-cohort",
+        "constraintIds": [
+          "async-contract-1",
+          "async-contract-2",
+          "async-contract-3",
+          "async-contract-4",
+          "async-contract-5",
+          "async-contract-6",
+          "async-contract-7",
+          "native-fabrication",
+          "sec-source",
+          "source-demand",
+          "source-integrity",
+          "source-module-interfaces",
+          "source-no-substitutes",
+          "source-pure-effects",
+          "source-supplier-closure"
+        ],
+        "projectionIds": [
+          "jsnode-modules"
+        ],
+        "acceptanceObligationIds": [
+          "pure-receiving"
+        ]
+      },
+      {
+        "type": "ArtifactFabricationTrace",
+        "version": 1,
+        "requirementId": "financial-freshness",
+        "constraintIds": [
+          "async-contract-1",
+          "async-contract-2",
+          "async-contract-3",
+          "async-contract-4",
+          "async-contract-5",
+          "async-contract-6",
+          "async-contract-7",
+          "native-fabrication",
+          "sec-source",
+          "source-demand",
+          "source-integrity",
+          "source-module-interfaces",
+          "source-no-substitutes",
+          "source-pure-effects",
+          "source-supplier-closure"
+        ],
+        "projectionIds": [
+          "jsnode-modules"
+        ],
+        "acceptanceObligationIds": [
+          "pure-receiving"
+        ]
+      },
+      {
+        "type": "ArtifactFabricationTrace",
+        "version": 1,
+        "requirementId": "prepared-packets",
+        "constraintIds": [
+          "async-contract-1",
+          "async-contract-2",
+          "async-contract-3",
+          "async-contract-4",
+          "async-contract-5",
+          "async-contract-6",
+          "async-contract-7",
+          "native-fabrication",
+          "sec-source",
+          "source-demand",
+          "source-integrity",
+          "source-module-interfaces",
+          "source-no-substitutes",
+          "source-pure-effects",
+          "source-supplier-closure"
+        ],
+        "projectionIds": [
+          "jsnode-modules"
+        ],
+        "acceptanceObligationIds": [
+          "pure-receiving"
+        ]
+      },
+      {
+        "type": "ArtifactFabricationTrace",
+        "version": 1,
+        "requirementId": "return-unchanged",
+        "constraintIds": [
+          "async-contract-1",
+          "async-contract-2",
+          "async-contract-3",
+          "async-contract-4",
+          "async-contract-5",
+          "async-contract-6",
+          "async-contract-7",
+          "native-fabrication",
+          "sec-source",
+          "source-demand",
+          "source-integrity",
+          "source-module-interfaces",
+          "source-no-substitutes",
+          "source-pure-effects",
+          "source-supplier-closure"
+        ],
+        "projectionIds": [
+          "jsnode-modules"
+        ],
+        "acceptanceObligationIds": [
+          "pure-receiving"
+        ]
+      },
+      {
+        "type": "ArtifactFabricationTrace",
+        "version": 1,
+        "requirementId": "no-request-override",
+        "constraintIds": [
+          "async-contract-1",
+          "async-contract-2",
+          "async-contract-3",
+          "async-contract-4",
+          "async-contract-5",
+          "async-contract-6",
+          "async-contract-7",
+          "native-fabrication",
+          "sec-source",
+          "source-demand",
+          "source-integrity",
+          "source-module-interfaces",
+          "source-no-substitutes",
+          "source-pure-effects",
+          "source-supplier-closure"
+        ],
+        "projectionIds": [
+          "jsnode-modules"
+        ],
+        "acceptanceObligationIds": [
+          "pure-receiving"
+        ]
+      }
+    ]
+  },
+  "fabrication": {
+    "type": "JsnodeModuleDerivationRefusal",
+    "version": 1,
+    "phase": "derivation",
+    "code": "DERIVATION_REJECTED",
+    "message": "isolated module assay: invalid exact dependencies",
+    "cause": {
+      "type": "JsnodeClosureDerivationRefusal",
+      "version": 1,
+      "code": "DERIVATION_REJECTED",
+      "scope": "module-set",
+      "evidence": "isolated module assay: invalid exact dependencies",
+      "derivations": [
+        {
+          "phase": "clause-assays",
+          "outcome": "derived",
+          "lot": {
+            "workLot": "urn:work-lot:inference:7RT6o7XmdLGe8a7J1arn6M2g5BiAxOYheq2FiV1VyCQ",
+            "provider": "urn:ame:bare-cedar-fog-codex-inference-team",
+            "taskClass": "code-fabrication-assays",
+            "selectedOffer": "urn:offer:direct-endpoint:urn:ame:bare-cedar-fog-codex-inference-team:l3k78btuNzmvmueURzT7MdqkmwlytwQnwHyX9Emsbxk:code-fabrication-assays",
+            "receipt": "ni:///sha-256;Pj3P_l7_qRTDMERkMEqQHkrN8nIHCUlb6zTbnGnlEEE",
+            "receiver": "actor:WWOM5azg-fTrn1Id0YVbz5AhppbnFny_W5Xl-rKgSs4",
+            "model": "default",
+            "configurationIdentity": "ni:///sha-256;l3k78btuNzmvmueURzT7MdqkmwlytwQnwHyX9Emsbxk",
+            "delivery": {
+              "outcome": "candidate-pending-codex-acceptance",
+              "workLot": "urn:work-lot:inference:7RT6o7XmdLGe8a7J1arn6M2g5BiAxOYheq2FiV1VyCQ",
+              "taskClass": "code-fabrication-assays",
+              "receiver": "actor:WWOM5azg-fTrn1Id0YVbz5AhppbnFny_W5Xl-rKgSs4",
+              "provider": "urn:ame:bare-cedar-fog-codex-inference-team",
+              "model": "default",
+              "selectedOffer": "urn:offer:direct-endpoint:urn:ame:bare-cedar-fog-codex-inference-team:l3k78btuNzmvmueURzT7MdqkmwlytwQnwHyX9Emsbxk:code-fabrication-assays",
+              "receipt": {
+                "id": "ni:///sha-256;Pj3P_l7_qRTDMERkMEqQHkrN8nIHCUlb6zTbnGnlEEE"
+              },
+              "candidate": {
+                "id": "exchange-20261024-192538-1fe095",
+                "object": "chat.completion",
+                "model": "default",
+                "choices": [
+                  {
+                    "index": 0,
+                    "message": {
+                      "role": "assistant",
+                      "content": "{\"cases\":[{\"operation\":\"plan-issuer-revenue-acquisition\",\"name\":\"Minimum bounds, reversed issuer order, structural user agent and ignored host metadata\",\"clauses\":[\"configuration\",\"acquisition-plan\"],\"input\":{\"issuers\":[{\"cik\":\"0000000002\",\"ticker\":\"two\"},{\"cik\":\"0000000001\",\"ticker\":\"one\"}],\"maximumIssuers\":2,\"userAgent\":\"@\",\"maximumBytes\":1,\"timeoutMs\":1,\"minimumIntervalMs\":100,\"maximumAgeDays\":{\"quarter\":1,\"annual\":1},\"cacheKey\":\"x\",\"maximumSnapshotAgeMs\":1,\"maximumCohortBytes\":1,\"allowedPeriodKinds\":[\"quarter\",\"annual\"],\"allowAmbiguousEvidence\":false,\"enabled\":false,\"resourceAdmission\":null,\"provider\":\"https://example.invalid\"},\"output\":{\"type\":\"IssuerRevenueAcquisitionPlan\",\"version\":1,\"minimumIntervalMs\":100,\"maximumCohortBytes\":1,\"requests\":[{\"cik\":\"0000000002\",\"ticker\":\"two\",\"url\":\"https://data.sec.gov/api/xbrl/companyfacts/CIK0000000002.json\",\"headers\":{\"User-Agent\":\"@\",\"Accept\":\"application/json\"},\"timeoutMs\":1,\"maximumBytes\":1},{\"cik\":\"0000000001\",\"ticker\":\"one\",\"url\":\"https://data.sec.gov/api/xbrl/companyfacts/CIK0000000001.json\",\"headers\":{\"User-Agent\":\"@\",\"Accept\":\"application/json\"},\"timeoutMs\":1,\"maximumBytes\":1}]},\"throws\":null},{\"operation\":\"plan-issuer-revenue-acquisition\",\"name\":\"Duplicate configured CIK refuses\",\"clauses\":[\"configuration\"],\"input\":{\"issuers\":[{\"cik\":\"0000000001\",\"ticker\":\"ONE\"},{\"cik\":\"0000000001\",\"ticker\":\"TWO\"}],\"maximumIssuers\":2,\"userAgent\":\"@\",\"maximumBytes\":1000,\"timeoutMs\":1000,\"minimumIntervalMs\":100,\"maximumAgeDays\":{\"quarter\":150,\"annual\":550},\"cacheKey\":\"x\",\"maximumSnapshotAgeMs\":3600000,\"maximumCohortBytes\":100000,\"allowedPeriodKinds\":[\"annual\"],\"allowAmbiguousEvidence\":true},\"output\":null,\"throws\":\"TypeError\"},{\"operation\":\"plan-issuer-revenue-acquisition\",\"name\":\"Header newline refuses\",\"clauses\":[\"configuration\"],\"input\":{\"issuers\":[{\"cik\":\"0000000001\",\"ticker\":\"ONE\"},{\"cik\":\"0000000002\",\"ticker\":\"TWO\"}],\"maximumIssuers\":2,\"userAgent\":\"a@b\\n\",\"maximumBytes\":1000,\"timeoutMs\":1000,\"minimumIntervalMs\":100,\"maximumAgeDays\":{\"quarter\":150,\"annual\":550},\"cacheKey\":\"x\",\"maximumSnapshotAgeMs\":3600000,\"maximumCohortBytes\":100000,\"allowedPeriodKinds\":[\"annual\"],\"allowAmbiguousEvidence\":true},\"output\":null,\"throws\":\"TypeError\"},{\"operation\":\"select-prepared-issuer-revenue-comparison\",\"name\":\"Public cache override refuses before unavailable cohort\",\"clauses\":[\"public-request\",\"selector-input\",\"no-request-override\"],\"input\":{\"body\":{\"periodKind\":\"annual\",\"cacheKey\":\"attacker\"},\"configuration\":{\"issuers\":[{\"cik\":\"0000000001\",\"ticker\":\"ONE\"},{\"cik\":\"0000000002\",\"ticker\":\"TWO\"}],\"maximumIssuers\":2,\"userAgent\":\"@\",\"maximumBytes\":1000,\"timeoutMs\":1000,\"minimumIntervalMs\":100,\"maximumAgeDays\":{\"quarter\":150,\"annual\":550},\"cacheKey\":\"x\",\"maximumSnapshotAgeMs\":3600000,\"maximumCohortBytes\":100000,\"allowedPeriodKinds\":[\"annual\"],\"allowAmbiguousEvidence\":true},\"cohort\":null,\"now\":\"2026-10-24T12:00:00.000Z\"},\"output\":null,\"throws\":\"TypeError\"},{\"operation\":\"select-prepared-issuer-revenue-comparison\",\"name\":\"Unconfigured quarter refuses before cohort selection\",\"clauses\":[\"public-request\",\"no-request-override\"],\"input\":{\"body\":{\"periodKind\":\"quarter\"},\"configuration\":{\"issuers\":[{\"cik\":\"0000000001\",\"ticker\":\"ONE\"},{\"cik\":\"0000000002\",\"ticker\":\"TWO\"}],\"maximumIssuers\":2,\"userAgent\":\"@\",\"maximumBytes\":1000,\"timeoutMs\":1000,\"minimumIntervalMs\":100,\"maximumAgeDays\":{\"quarter\":150,\"annual\":550},\"cacheKey\":\"x\",\"maximumSnapshotAgeMs\":3600000,\"maximumCohortBytes\":100000,\"allowedPeriodKinds\":[\"annual\"],\"allowAmbiguousEvidence\":true},\"cohort\":null,\"now\":\"2026-10-24T12:00:00.000Z\"},\"output\":null,\"throws\":\"TypeError\"},{\"operation\":\"select-prepared-issuer-revenue-comparison\",\"name\":\"Noncanonical explicit instant is an argument error\",\"clauses\":[\"selector-input\"],\"input\":{\"body\":{\"periodKind\":\"annual\"},\"configuration\":{\"issuers\":[{\"cik\":\"0000000001\",\"ticker\":\"ONE\"},{\"cik\":\"0000000002\",\"ticker\":\"TWO\"}],\"maximumIssuers\":2,\"userAgent\":\"@\",\"maximumBytes\":1000,\"timeoutMs\":1000,\"minimumIntervalMs\":100,\"maximumAgeDays\":{\"quarter\":150,\"annual\":550},\"cacheKey\":\"x\",\"maximumSnapshotAgeMs\":3600000,\"maximumCohortBytes\":100000,\"allowedPeriodKinds\":[\"annual\"],\"allowAmbiguousEvidence\":true},\"cohort\":null,\"now\":\"2026-10-24T12:00:00Z\"},\"output\":null,\"throws\":\"TypeError\"},{\"operation\":\"select-prepared-issuer-revenue-comparison\",\"name\":\"Missing prepared cohort is unavailable\",\"clauses\":[\"selector-input\",\"cohort-boundary\"],\"input\":{\"body\":{\"periodKind\":\"annual\"},\"configuration\":{\"issuers\":[{\"cik\":\"0000000001\",\"ticker\":\"ONE\"},{\"cik\":\"0000000002\",\"ticker\":\"TWO\"}],\"maximumIssuers\":2,\"userAgent\":\"@\",\"maximumBytes\":1000,\"timeoutMs\":1000,\"minimumIntervalMs\":100,\"maximumAgeDays\":{\"quarter\":150,\"annual\":550},\"cacheKey\":\"x\",\"maximumSnapshotAgeMs\":3600000,\"maximumCohortBytes\":100000,\"allowedPeriodKinds\":[\"annual\"],\"allowAmbiguousEvidence\":true},\"cohort\":null,\"now\":\"2026-10-24T12:00:00.000Z\"},\"output\":null,\"throws\":\"Error\"},{\"operation\":\"select-prepared-issuer-revenue-comparison\",\"name\":\"Aligned current result at exact snapshot and financial age boundaries retains received packet identities\",\"clauses\":[\"configuration\",\"public-request\",\"selector-input\",\"cohort-boundary\",\"configured-cohort\",\"financial-freshness\",\"prepared-packets\",\"return-unchanged\"],\"input\":{\"body\":{\"periodKind\":\"annual\"},\"configuration\":{\"issuers\":[{\"cik\":\"0000000001\",\"ticker\":\"ONE\"},{\"cik\":\"0000000002\",\"ticker\":\"TWO\"}],\"maximumIssuers\":2,\"userAgent\":\"@\",\"maximumBytes\":1000,\"timeoutMs\":1000,\"minimumIntervalMs\":100,\"maximumAgeDays\":{\"quarter\":150,\"annual\":1},\"cacheKey\":\"x\",\"maximumSnapshotAgeMs\":3600000,\"maximumCohortBytes\":100000,\"allowedPeriodKinds\":[\"annual\"],\"allowAmbiguousEvidence\":true},\"now\":\"2026-01-01T13:00:00.000Z\",\"cohort\":{\"type\":\"IssuerRevenuePreparedCohort\",\"version\":1,\"observedAt\":\"2026-01-01T12:00:00.000Z\",\"asOf\":\"2026-01-01\",\"results\":{\"quarter\":null,\"annual\":{\"type\":\"IssuerRevenueComparison\",\"version\":1,\"observedAt\":\"2026-01-01T12:00:00.000Z\",\"asOf\":\"2026-01-01\",\"periodKind\":\"annual\",\"datePolicy\":\"filing-date-cutoff-on-received-sources\",\"comparability\":\"aligned-periods\",\"issuers\":[{\"type\":\"IssuerRevenueReconciliation\",\"version\":1,\"cik\":\"0000000001\",\"ticker\":\"ONE\",\"issuer\":\"One\",\"asOf\":\"2026-01-01\",\"periodKind\":\"annual\",\"status\":\"current\",\"unit\":\"USD\",\"period\":{\"start\":\"2025-01-01\",\"end\":\"2025-12-31\",\"durationDays\":365},\"value\":100,\"revision\":\"none\",\"witnesses\":[{\"concept\":\"Revenues\",\"start\":\"2025-01-01\",\"end\":\"2025-12-31\",\"durationDays\":365,\"value\":100,\"unit\":\"USD\",\"form\":\"10-K/A\",\"filed\":\"2026-01-01\",\"accession\":\"a\"}],\"source\":{\"uri\":\"https://data.sec.gov/api/xbrl/companyfacts/CIK0000000001.json\",\"digest\":\"ni:///sha-256;MkvyA65d5RjSzklIn8d2s4cnUEXMTFvzZKoY-cLdEz0\",\"bytes\":1000,\"observedAt\":\"2026-01-01T12:00:00.000Z\"}},{\"type\":\"IssuerRevenueReconciliation\",\"version\":1,\"cik\":\"0000000002\",\"ticker\":\"TWO\",\"issuer\":\"Two\",\"asOf\":\"2026-01-01\",\"periodKind\":\"annual\",\"status\":\"current\",\"unit\":\"USD\",\"period\":{\"start\":\"2025-01-01\",\"end\":\"2025-12-31\",\"durationDays\":365},\"value\":200,\"revision\":\"none\",\"witnesses\":[{\"concept\":\"Revenues\",\"start\":\"2025-01-01\",\"end\":\"2025-12-31\",\"durationDays\":365,\"value\":200,\"unit\":\"USD\",\"form\":\"10-K\",\"filed\":\"2026-01-01\",\"accession\":\"b\"}],\"source\":{\"uri\":\"https://data.sec.gov/api/xbrl/companyfacts/CIK0000000002.json\",\"digest\":\"ni:///sha-256;evTmrsvr4OBrxePjrnoREKgGyzUdcOnXZd6tsfmVpR0\",\"bytes\":1000,\"observedAt\":\"2026-01-01T12:00:00.000Z\"}}],\"evidencePackets\":[{\"type\":\"IssuerEvidencePacket\",\"version\":1,\"id\":\"ni:///sha-256;2vAABVR8yuDKCZMXbdEEZ31mQilO23nBAPpCiRCh_kM\",\"ticker\":\"ONE\",\"issuer\":\"One\",\"asOf\":\"2026-01-01\",\"brokerageEffect\":false,\"sources\":[{\"uri\":\"https://data.sec.gov/api/xbrl/companyfacts/CIK0000000001.json\",\"digest\":\"ni:///sha-256;MkvyA65d5RjSzklIn8d2s4cnUEXMTFvzZKoY-cLdEz0\",\"observedAt\":\"2026-01-01T12:00:00.000Z\"}],\"claims\":[{\"statement\":\"Received annual result.\",\"sourceDigests\":[\"ni:///sha-256;MkvyA65d5RjSzklIn8d2s4cnUEXMTFvzZKoY-cLdEz0\"]}]},{\"type\":\"IssuerEvidencePacket\",\"version\":1,\"id\":\"ni:///sha-256;tVwnjNJrF3yqshUTKiIwDspJ8MIoXDNxgaUBKXtIcU8\",\"ticker\":\"TWO\",\"issuer\":\"Two\",\"asOf\":\"2026-01-01\",\"brokerageEffect\":false,\"sources\":[{\"uri\":\"https://data.sec.gov/api/xbrl/companyfacts/CIK0000000002.json\",\"digest\":\"ni:///sha-256;evTmrsvr4OBrxePjrnoREKgGyzUdcOnXZd6tsfmVpR0\",\"observedAt\":\"2026-01-01T12:00:00.000Z\"}],\"claims\":[{\"statement\":\"Received annual result.\",\"sourceDigests\":[\"ni:///sha-256;evTmrsvr4OBrxePjrnoREKgGyzUdcOnXZd6tsfmVpR0\"]}]}]}}}},\"output\":{\"type\":\"IssuerRevenueComparison\",\"version\":1,\"observedAt\":\"2026-01-01T12:00:00.000Z\",\"asOf\":\"2026-01-01\",\"periodKind\":\"annual\",\"datePolicy\":\"filing-date-cutoff-on-received-sources\",\"comparability\":\"aligned-periods\",\"issuers\":[{\"type\":\"IssuerRevenueReconciliation\",\"version\":1,\"cik\":\"0000000001\",\"ticker\":\"ONE\",\"issuer\":\"One\",\"asOf\":\"2026-01-01\",\"periodKind\":\"annual\",\"status\":\"current\",\"unit\":\"USD\",\"period\":{\"start\":\"2025-01-01\",\"end\":\"2025-12-31\",\"durationDays\":365},\"value\":100,\"revision\":\"none\",\"witnesses\":[{\"concept\":\"Revenues\",\"start\":\"2025-01-01\",\"end\":\"2025-12-31\",\"durationDays\":365,\"value\":100,\"unit\":\"USD\",\"form\":\"10-K/A\",\"filed\":\"2026-01-01\",\"accession\":\"a\"}],\"source\":{\"uri\":\"https://data.sec.gov/api/xbrl/companyfacts/CIK0000000001.json\",\"digest\":\"ni:///sha-256;MkvyA65d5RjSzklIn8d2s4cnUEXMTFvzZKoY-cLdEz0\",\"bytes\":1000,\"observedAt\":\"2026-01-01T12:00:00.000Z\"}},{\"type\":\"IssuerRevenueReconciliation\",\"version\":1,\"cik\":\"0000000002\",\"ticker\":\"TWO\",\"issuer\":\"Two\",\"asOf\":\"2026-01-01\",\"periodKind\":\"annual\",\"status\":\"current\",\"unit\":\"USD\",\"period\":{\"start\":\"2025-01-01\",\"end\":\"2025-12-31\",\"durationDays\":365},\"value\":200,\"revision\":\"none\",\"witnesses\":[{\"concept\":\"Revenues\",\"start\":\"2025-01-01\",\"end\":\"2025-12-31\",\"durationDays\":365,\"value\":200,\"unit\":\"USD\",\"form\":\"10-K\",\"filed\":\"2026-01-01\",\"accession\":\"b\"}],\"source\":{\"uri\":\"https://data.sec.gov/api/xbrl/companyfacts/CIK0000000002.json\",\"digest\":\"ni:///sha-256;evTmrsvr4OBrxePjrnoREKgGyzUdcOnXZd6tsfmVpR0\",\"bytes\":1000,\"observedAt\":\"2026-01-01T12:00:00.000Z\"}}],\"evidencePackets\":[{\"type\":\"IssuerEvidencePacket\",\"version\":1,\"id\":\"ni:///sha-256;2vAABVR8yuDKCZMXbdEEZ31mQilO23nBAPpCiRCh_kM\",\"ticker\":\"ONE\",\"issuer\":\"One\",\"asOf\":\"2026-01-01\",\"brokerageEffect\":false,\"sources\":[{\"uri\":\"https://data.sec.gov/api/xbrl/companyfacts/CIK0000000001.json\",\"digest\":\"ni:///sha-256;MkvyA65d5RjSzklIn8d2s4cnUEXMTFvzZKoY-cLdEz0\",\"observedAt\":\"2026-01-01T12:00:00.000Z\"}],\"claims\":[{\"statement\":\"Received annual result.\",\"sourceDigests\":[\"ni:///sha-256;MkvyA65d5RjSzklIn8d2s4cnUEXMTFvzZKoY-cLdEz0\"]}]},{\"type\":\"IssuerEvidencePacket\",\"version\":1,\"id\":\"ni:///sha-256;tVwnjNJrF3yqshUTKiIwDspJ8MIoXDNxgaUBKXtIcU8\",\"ticker\":\"TWO\",\"issuer\":\"Two\",\"asOf\":\"2026-01-01\",\"brokerageEffect\":false,\"sources\":[{\"uri\":\"https://data.sec.gov/api/xbrl/companyfacts/CIK0000000002.json\",\"digest\":\"ni:///sha-256;evTmrsvr4OBrxePjrnoREKgGyzUdcOnXZd6tsfmVpR0\",\"observedAt\":\"2026-01-01T12:00:00.000Z\"}],\"claims\":[{\"statement\":\"Received annual result.\",\"sourceDigests\":[\"ni:///sha-256;evTmrsvr4OBrxePjrnoREKgGyzUdcOnXZd6tsfmVpR0\"]}]}]},\"throws\":null}],\"question\":null}",
+                      "tool_calls": []
+                    },
+                    "finish_reason": "unknown"
+                  }
+                ],
+                "usage": {
+                  "prompt_tokens": 48891,
+                  "completion_tokens": 3932
+                }
+              },
+              "endpointClass": "local-command-inference",
+              "configurationIdentity": "ni:///sha-256;l3k78btuNzmvmueURzT7MdqkmwlytwQnwHyX9Emsbxk",
+              "configuration": {
+                "provider": "urn:ame:bare-cedar-fog-codex-inference-team",
+                "model": "default",
+                "endpoint": "command:codex-exec",
+                "executionClass": "local-command-inference",
+                "mode": "assistant-turn:codex-exec:json-envelope:v1"
+              },
+              "selectionRule": "direct-endpoint-customer-ordered-pareto-route-after-a2a-market-residue",
+              "consideration": [
+                {
+                  "kind": "credit",
+                  "asset": "urn:union:consideration:provider-invocation",
+                  "unit": "provider-invocation",
+                  "amount": {
+                    "numerator": "1",
+                    "denominator": "1"
+                  }
+                }
+              ],
+              "declaredResources": [
+                {
+                  "resource": "provider-attention",
+                  "unit": "bounded-lot",
+                  "amount": {
+                    "numerator": "1",
+                    "denominator": "1"
+                  }
+                }
+              ],
+              "measuredResources": {
+                "scope": {
+                  "providerIdentity": "urn:ame:bare-cedar-fog-codex-inference-team",
+                  "accountIdentity": null,
+                  "windowIdentity": null,
+                  "measurementCoverage": "completed-exchanges"
+                },
+                "resources": [
+                  {
+                    "resource": "requests",
+                    "unit": "request",
+                    "amount": {
+                      "numerator": "1",
+                      "denominator": "1"
+                    }
+                  },
+                  {
+                    "resource": "input-tokens",
+                    "unit": "token",
+                    "amount": {
+                      "numerator": "48891",
+                      "denominator": "1"
+                    }
+                  },
+                  {
+                    "resource": "output-tokens",
+                    "unit": "token",
+                    "amount": {
+                      "numerator": "3932",
+                      "denominator": "1"
+                    }
+                  },
+                  {
+                    "resource": "duration",
+                    "unit": "millisecond",
+                    "amount": {
+                      "numerator": "115329",
+                      "denominator": "1"
+                    }
+                  }
+                ],
+                "partialResources": [],
+                "callerObservedResources": [],
+                "uncertainty": [
+                  "total-token-usage-incomplete",
+                  "provider-reported-cost-incomplete",
+                  "account-window-identity-unknown"
+                ]
+              },
+              "settlement": "none-direct-endpoint-lane-carries-no-signed-compact-or-chain-settlement",
+              "durationMs": 115329,
+              "providerEvidence": {
+                "outputs": [
+                  {
+                    "id": "exchange-20261024-192538-1fe095",
+                    "object": "chat.completion",
+                    "model": "default",
+                    "choices": [
+                      {
+                        "index": 0,
+                        "message": {
+                          "role": "assistant",
+                          "content": "{\"cases\":[{\"operation\":\"plan-issuer-revenue-acquisition\",\"name\":\"Minimum bounds, reversed issuer order, structural user agent and ignored host metadata\",\"clauses\":[\"configuration\",\"acquisition-plan\"],\"input\":{\"issuers\":[{\"cik\":\"0000000002\",\"ticker\":\"two\"},{\"cik\":\"0000000001\",\"ticker\":\"one\"}],\"maximumIssuers\":2,\"userAgent\":\"@\",\"maximumBytes\":1,\"timeoutMs\":1,\"minimumIntervalMs\":100,\"maximumAgeDays\":{\"quarter\":1,\"annual\":1},\"cacheKey\":\"x\",\"maximumSnapshotAgeMs\":1,\"maximumCohortBytes\":1,\"allowedPeriodKinds\":[\"quarter\",\"annual\"],\"allowAmbiguousEvidence\":false,\"enabled\":false,\"resourceAdmission\":null,\"provider\":\"https://example.invalid\"},\"output\":{\"type\":\"IssuerRevenueAcquisitionPlan\",\"version\":1,\"minimumIntervalMs\":100,\"maximumCohortBytes\":1,\"requests\":[{\"cik\":\"0000000002\",\"ticker\":\"two\",\"url\":\"https://data.sec.gov/api/xbrl/companyfacts/CIK0000000002.json\",\"headers\":{\"User-Agent\":\"@\",\"Accept\":\"application/json\"},\"timeoutMs\":1,\"maximumBytes\":1},{\"cik\":\"0000000001\",\"ticker\":\"one\",\"url\":\"https://data.sec.gov/api/xbrl/companyfacts/CIK0000000001.json\",\"headers\":{\"User-Agent\":\"@\",\"Accept\":\"application/json\"},\"timeoutMs\":1,\"maximumBytes\":1}]},\"throws\":null},{\"operation\":\"plan-issuer-revenue-acquisition\",\"name\":\"Duplicate configured CIK refuses\",\"clauses\":[\"configuration\"],\"input\":{\"issuers\":[{\"cik\":\"0000000001\",\"ticker\":\"ONE\"},{\"cik\":\"0000000001\",\"ticker\":\"TWO\"}],\"maximumIssuers\":2,\"userAgent\":\"@\",\"maximumBytes\":1000,\"timeoutMs\":1000,\"minimumIntervalMs\":100,\"maximumAgeDays\":{\"quarter\":150,\"annual\":550},\"cacheKey\":\"x\",\"maximumSnapshotAgeMs\":3600000,\"maximumCohortBytes\":100000,\"allowedPeriodKinds\":[\"annual\"],\"allowAmbiguousEvidence\":true},\"output\":null,\"throws\":\"TypeError\"},{\"operation\":\"plan-issuer-revenue-acquisition\",\"name\":\"Header newline refuses\",\"clauses\":[\"configuration\"],\"input\":{\"issuers\":[{\"cik\":\"0000000001\",\"ticker\":\"ONE\"},{\"cik\":\"0000000002\",\"ticker\":\"TWO\"}],\"maximumIssuers\":2,\"userAgent\":\"a@b\\n\",\"maximumBytes\":1000,\"timeoutMs\":1000,\"minimumIntervalMs\":100,\"maximumAgeDays\":{\"quarter\":150,\"annual\":550},\"cacheKey\":\"x\",\"maximumSnapshotAgeMs\":3600000,\"maximumCohortBytes\":100000,\"allowedPeriodKinds\":[\"annual\"],\"allowAmbiguousEvidence\":true},\"output\":null,\"throws\":\"TypeError\"},{\"operation\":\"select-prepared-issuer-revenue-comparison\",\"name\":\"Public cache override refuses before unavailable cohort\",\"clauses\":[\"public-request\",\"selector-input\",\"no-request-override\"],\"input\":{\"body\":{\"periodKind\":\"annual\",\"cacheKey\":\"attacker\"},\"configuration\":{\"issuers\":[{\"cik\":\"0000000001\",\"ticker\":\"ONE\"},{\"cik\":\"0000000002\",\"ticker\":\"TWO\"}],\"maximumIssuers\":2,\"userAgent\":\"@\",\"maximumBytes\":1000,\"timeoutMs\":1000,\"minimumIntervalMs\":100,\"maximumAgeDays\":{\"quarter\":150,\"annual\":550},\"cacheKey\":\"x\",\"maximumSnapshotAgeMs\":3600000,\"maximumCohortBytes\":100000,\"allowedPeriodKinds\":[\"annual\"],\"allowAmbiguousEvidence\":true},\"cohort\":null,\"now\":\"2026-10-24T12:00:00.000Z\"},\"output\":null,\"throws\":\"TypeError\"},{\"operation\":\"select-prepared-issuer-revenue-comparison\",\"name\":\"Unconfigured quarter refuses before cohort selection\",\"clauses\":[\"public-request\",\"no-request-override\"],\"input\":{\"body\":{\"periodKind\":\"quarter\"},\"configuration\":{\"issuers\":[{\"cik\":\"0000000001\",\"ticker\":\"ONE\"},{\"cik\":\"0000000002\",\"ticker\":\"TWO\"}],\"maximumIssuers\":2,\"userAgent\":\"@\",\"maximumBytes\":1000,\"timeoutMs\":1000,\"minimumIntervalMs\":100,\"maximumAgeDays\":{\"quarter\":150,\"annual\":550},\"cacheKey\":\"x\",\"maximumSnapshotAgeMs\":3600000,\"maximumCohortBytes\":100000,\"allowedPeriodKinds\":[\"annual\"],\"allowAmbiguousEvidence\":true},\"cohort\":null,\"now\":\"2026-10-24T12:00:00.000Z\"},\"output\":null,\"throws\":\"TypeError\"},{\"operation\":\"select-prepared-issuer-revenue-comparison\",\"name\":\"Noncanonical explicit instant is an argument error\",\"clauses\":[\"selector-input\"],\"input\":{\"body\":{\"periodKind\":\"annual\"},\"configuration\":{\"issuers\":[{\"cik\":\"0000000001\",\"ticker\":\"ONE\"},{\"cik\":\"0000000002\",\"ticker\":\"TWO\"}],\"maximumIssuers\":2,\"userAgent\":\"@\",\"maximumBytes\":1000,\"timeoutMs\":1000,\"minimumIntervalMs\":100,\"maximumAgeDays\":{\"quarter\":150,\"annual\":550},\"cacheKey\":\"x\",\"maximumSnapshotAgeMs\":3600000,\"maximumCohortBytes\":100000,\"allowedPeriodKinds\":[\"annual\"],\"allowAmbiguousEvidence\":true},\"cohort\":null,\"now\":\"2026-10-24T12:00:00Z\"},\"output\":null,\"throws\":\"TypeError\"},{\"operation\":\"select-prepared-issuer-revenue-comparison\",\"name\":\"Missing prepared cohort is unavailable\",\"clauses\":[\"selector-input\",\"cohort-boundary\"],\"input\":{\"body\":{\"periodKind\":\"annual\"},\"configuration\":{\"issuers\":[{\"cik\":\"0000000001\",\"ticker\":\"ONE\"},{\"cik\":\"0000000002\",\"ticker\":\"TWO\"}],\"maximumIssuers\":2,\"userAgent\":\"@\",\"maximumBytes\":1000,\"timeoutMs\":1000,\"minimumIntervalMs\":100,\"maximumAgeDays\":{\"quarter\":150,\"annual\":550},\"cacheKey\":\"x\",\"maximumSnapshotAgeMs\":3600000,\"maximumCohortBytes\":100000,\"allowedPeriodKinds\":[\"annual\"],\"allowAmbiguousEvidence\":true},\"cohort\":null,\"now\":\"2026-10-24T12:00:00.000Z\"},\"output\":null,\"throws\":\"Error\"},{\"operation\":\"select-prepared-issuer-revenue-comparison\",\"name\":\"Aligned current result at exact snapshot and financial age boundaries retains received packet identities\",\"clauses\":[\"configuration\",\"public-request\",\"selector-input\",\"cohort-boundary\",\"configured-cohort\",\"financial-freshness\",\"prepared-packets\",\"return-unchanged\"],\"input\":{\"body\":{\"periodKind\":\"annual\"},\"configuration\":{\"issuers\":[{\"cik\":\"0000000001\",\"ticker\":\"ONE\"},{\"cik\":\"0000000002\",\"ticker\":\"TWO\"}],\"maximumIssuers\":2,\"userAgent\":\"@\",\"maximumBytes\":1000,\"timeoutMs\":1000,\"minimumIntervalMs\":100,\"maximumAgeDays\":{\"quarter\":150,\"annual\":1},\"cacheKey\":\"x\",\"maximumSnapshotAgeMs\":3600000,\"maximumCohortBytes\":100000,\"allowedPeriodKinds\":[\"annual\"],\"allowAmbiguousEvidence\":true},\"now\":\"2026-01-01T13:00:00.000Z\",\"cohort\":{\"type\":\"IssuerRevenuePreparedCohort\",\"version\":1,\"observedAt\":\"2026-01-01T12:00:00.000Z\",\"asOf\":\"2026-01-01\",\"results\":{\"quarter\":null,\"annual\":{\"type\":\"IssuerRevenueComparison\",\"version\":1,\"observedAt\":\"2026-01-01T12:00:00.000Z\",\"asOf\":\"2026-01-01\",\"periodKind\":\"annual\",\"datePolicy\":\"filing-date-cutoff-on-received-sources\",\"comparability\":\"aligned-periods\",\"issuers\":[{\"type\":\"IssuerRevenueReconciliation\",\"version\":1,\"cik\":\"0000000001\",\"ticker\":\"ONE\",\"issuer\":\"One\",\"asOf\":\"2026-01-01\",\"periodKind\":\"annual\",\"status\":\"current\",\"unit\":\"USD\",\"period\":{\"start\":\"2025-01-01\",\"end\":\"2025-12-31\",\"durationDays\":365},\"value\":100,\"revision\":\"none\",\"witnesses\":[{\"concept\":\"Revenues\",\"start\":\"2025-01-01\",\"end\":\"2025-12-31\",\"durationDays\":365,\"value\":100,\"unit\":\"USD\",\"form\":\"10-K/A\",\"filed\":\"2026-01-01\",\"accession\":\"a\"}],\"source\":{\"uri\":\"https://data.sec.gov/api/xbrl/companyfacts/CIK0000000001.json\",\"digest\":\"ni:///sha-256;MkvyA65d5RjSzklIn8d2s4cnUEXMTFvzZKoY-cLdEz0\",\"bytes\":1000,\"observedAt\":\"2026-01-01T12:00:00.000Z\"}},{\"type\":\"IssuerRevenueReconciliation\",\"version\":1,\"cik\":\"0000000002\",\"ticker\":\"TWO\",\"issuer\":\"Two\",\"asOf\":\"2026-01-01\",\"periodKind\":\"annual\",\"status\":\"current\",\"unit\":\"USD\",\"period\":{\"start\":\"2025-01-01\",\"end\":\"2025-12-31\",\"durationDays\":365},\"value\":200,\"revision\":\"none\",\"witnesses\":[{\"concept\":\"Revenues\",\"start\":\"2025-01-01\",\"end\":\"2025-12-31\",\"durationDays\":365,\"value\":200,\"unit\":\"USD\",\"form\":\"10-K\",\"filed\":\"2026-01-01\",\"accession\":\"b\"}],\"source\":{\"uri\":\"https://data.sec.gov/api/xbrl/companyfacts/CIK0000000002.json\",\"digest\":\"ni:///sha-256;evTmrsvr4OBrxePjrnoREKgGyzUdcOnXZd6tsfmVpR0\",\"bytes\":1000,\"observedAt\":\"2026-01-01T12:00:00.000Z\"}}],\"evidencePackets\":[{\"type\":\"IssuerEvidencePacket\",\"version\":1,\"id\":\"ni:///sha-256;2vAABVR8yuDKCZMXbdEEZ31mQilO23nBAPpCiRCh_kM\",\"ticker\":\"ONE\",\"issuer\":\"One\",\"asOf\":\"2026-01-01\",\"brokerageEffect\":false,\"sources\":[{\"uri\":\"https://data.sec.gov/api/xbrl/companyfacts/CIK0000000001.json\",\"digest\":\"ni:///sha-256;MkvyA65d5RjSzklIn8d2s4cnUEXMTFvzZKoY-cLdEz0\",\"observedAt\":\"2026-01-01T12:00:00.000Z\"}],\"claims\":[{\"statement\":\"Received annual result.\",\"sourceDigests\":[\"ni:///sha-256;MkvyA65d5RjSzklIn8d2s4cnUEXMTFvzZKoY-cLdEz0\"]}]},{\"type\":\"IssuerEvidencePacket\",\"version\":1,\"id\":\"ni:///sha-256;tVwnjNJrF3yqshUTKiIwDspJ8MIoXDNxgaUBKXtIcU8\",\"ticker\":\"TWO\",\"issuer\":\"Two\",\"asOf\":\"2026-01-01\",\"brokerageEffect\":false,\"sources\":[{\"uri\":\"https://data.sec.gov/api/xbrl/companyfacts/CIK0000000002.json\",\"digest\":\"ni:///sha-256;evTmrsvr4OBrxePjrnoREKgGyzUdcOnXZd6tsfmVpR0\",\"observedAt\":\"2026-01-01T12:00:00.000Z\"}],\"claims\":[{\"statement\":\"Received annual result.\",\"sourceDigests\":[\"ni:///sha-256;evTmrsvr4OBrxePjrnoREKgGyzUdcOnXZd6tsfmVpR0\"]}]}]}}}},\"output\":{\"type\":\"IssuerRevenueComparison\",\"version\":1,\"observedAt\":\"2026-01-01T12:00:00.000Z\",\"asOf\":\"2026-01-01\",\"periodKind\":\"annual\",\"datePolicy\":\"filing-date-cutoff-on-received-sources\",\"comparability\":\"aligned-periods\",\"issuers\":[{\"type\":\"IssuerRevenueReconciliation\",\"version\":1,\"cik\":\"0000000001\",\"ticker\":\"ONE\",\"issuer\":\"One\",\"asOf\":\"2026-01-01\",\"periodKind\":\"annual\",\"status\":\"current\",\"unit\":\"USD\",\"period\":{\"start\":\"2025-01-01\",\"end\":\"2025-12-31\",\"durationDays\":365},\"value\":100,\"revision\":\"none\",\"witnesses\":[{\"concept\":\"Revenues\",\"start\":\"2025-01-01\",\"end\":\"2025-12-31\",\"durationDays\":365,\"value\":100,\"unit\":\"USD\",\"form\":\"10-K/A\",\"filed\":\"2026-01-01\",\"accession\":\"a\"}],\"source\":{\"uri\":\"https://data.sec.gov/api/xbrl/companyfacts/CIK0000000001.json\",\"digest\":\"ni:///sha-256;MkvyA65d5RjSzklIn8d2s4cnUEXMTFvzZKoY-cLdEz0\",\"bytes\":1000,\"observedAt\":\"2026-01-01T12:00:00.000Z\"}},{\"type\":\"IssuerRevenueReconciliation\",\"version\":1,\"cik\":\"0000000002\",\"ticker\":\"TWO\",\"issuer\":\"Two\",\"asOf\":\"2026-01-01\",\"periodKind\":\"annual\",\"status\":\"current\",\"unit\":\"USD\",\"period\":{\"start\":\"2025-01-01\",\"end\":\"2025-12-31\",\"durationDays\":365},\"value\":200,\"revision\":\"none\",\"witnesses\":[{\"concept\":\"Revenues\",\"start\":\"2025-01-01\",\"end\":\"2025-12-31\",\"durationDays\":365,\"value\":200,\"unit\":\"USD\",\"form\":\"10-K\",\"filed\":\"2026-01-01\",\"accession\":\"b\"}],\"source\":{\"uri\":\"https://data.sec.gov/api/xbrl/companyfacts/CIK0000000002.json\",\"digest\":\"ni:///sha-256;evTmrsvr4OBrxePjrnoREKgGyzUdcOnXZd6tsfmVpR0\",\"bytes\":1000,\"observedAt\":\"2026-01-01T12:00:00.000Z\"}}],\"evidencePackets\":[{\"type\":\"IssuerEvidencePacket\",\"version\":1,\"id\":\"ni:///sha-256;2vAABVR8yuDKCZMXbdEEZ31mQilO23nBAPpCiRCh_kM\",\"ticker\":\"ONE\",\"issuer\":\"One\",\"asOf\":\"2026-01-01\",\"brokerageEffect\":false,\"sources\":[{\"uri\":\"https://data.sec.gov/api/xbrl/companyfacts/CIK0000000001.json\",\"digest\":\"ni:///sha-256;MkvyA65d5RjSzklIn8d2s4cnUEXMTFvzZKoY-cLdEz0\",\"observedAt\":\"2026-01-01T12:00:00.000Z\"}],\"claims\":[{\"statement\":\"Received annual result.\",\"sourceDigests\":[\"ni:///sha-256;MkvyA65d5RjSzklIn8d2s4cnUEXMTFvzZKoY-cLdEz0\"]}]},{\"type\":\"IssuerEvidencePacket\",\"version\":1,\"id\":\"ni:///sha-256;tVwnjNJrF3yqshUTKiIwDspJ8MIoXDNxgaUBKXtIcU8\",\"ticker\":\"TWO\",\"issuer\":\"Two\",\"asOf\":\"2026-01-01\",\"brokerageEffect\":false,\"sources\":[{\"uri\":\"https://data.sec.gov/api/xbrl/companyfacts/CIK0000000002.json\",\"digest\":\"ni:///sha-256;evTmrsvr4OBrxePjrnoREKgGyzUdcOnXZd6tsfmVpR0\",\"observedAt\":\"2026-01-01T12:00:00.000Z\"}],\"claims\":[{\"statement\":\"Received annual result.\",\"sourceDigests\":[\"ni:///sha-256;evTmrsvr4OBrxePjrnoREKgGyzUdcOnXZd6tsfmVpR0\"]}]}]},\"throws\":null}],\"question\":null}",
+                          "tool_calls": []
+                        },
+                        "finish_reason": "unknown"
+                      }
+                    ],
+                    "usage": {
+                      "prompt_tokens": 48891,
+                      "completion_tokens": 3932
+                    }
+                  }
+                ],
+                "toolInvocations": [],
+                "exchanges": [
+                  {
+                    "finishReason": "unknown",
+                    "usage": {
+                      "promptTokens": 48891,
+                      "outputTokens": 3932,
+                      "totalTokens": null,
+                      "reportedCost": null
+                    },
+                    "message": {
+                      "role": "assistant",
+                      "content": "{\"cases\":[{\"operation\":\"plan-issuer-revenue-acquisition\",\"name\":\"Minimum bounds, reversed issuer order, structural user agent and ignored host metadata\",\"clauses\":[\"configuration\",\"acquisition-plan\"],\"input\":{\"issuers\":[{\"cik\":\"0000000002\",\"ticker\":\"two\"},{\"cik\":\"0000000001\",\"ticker\":\"one\"}],\"maximumIssuers\":2,\"userAgent\":\"@\",\"maximumBytes\":1,\"timeoutMs\":1,\"minimumIntervalMs\":100,\"maximumAgeDays\":{\"quarter\":1,\"annual\":1},\"cacheKey\":\"x\",\"maximumSnapshotAgeMs\":1,\"maximumCohortBytes\":1,\"allowedPeriodKinds\":[\"quarter\",\"annual\"],\"allowAmbiguousEvidence\":false,\"enabled\":false,\"resourceAdmission\":null,\"provider\":\"https://example.invalid\"},\"output\":{\"type\":\"IssuerRevenueAcquisitionPlan\",\"version\":1,\"minimumIntervalMs\":100,\"maximumCohortBytes\":1,\"requests\":[{\"cik\":\"0000000002\",\"ticker\":\"two\",\"url\":\"https://data.sec.gov/api/xbrl/companyfacts/CIK0000000002.json\",\"headers\":{\"User-Agent\":\"@\",\"Accept\":\"application/json\"},\"timeoutMs\":1,\"maximumBytes\":1},{\"cik\":\"0000000001\",\"ticker\":\"one\",\"url\":\"https://data.sec.gov/api/xbrl/companyfacts/CIK0000000001.json\",\"headers\":{\"User-Agent\":\"@\",\"Accept\":\"application/json\"},\"timeoutMs\":1,\"maximumBytes\":1}]},\"throws\":null},{\"operation\":\"plan-issuer-revenue-acquisition\",\"name\":\"Duplicate configured CIK refuses\",\"clauses\":[\"configuration\"],\"input\":{\"issuers\":[{\"cik\":\"0000000001\",\"ticker\":\"ONE\"},{\"cik\":\"0000000001\",\"ticker\":\"TWO\"}],\"maximumIssuers\":2,\"userAgent\":\"@\",\"maximumBytes\":1000,\"timeoutMs\":1000,\"minimumIntervalMs\":100,\"maximumAgeDays\":{\"quarter\":150,\"annual\":550},\"cacheKey\":\"x\",\"maximumSnapshotAgeMs\":3600000,\"maximumCohortBytes\":100000,\"allowedPeriodKinds\":[\"annual\"],\"allowAmbiguousEvidence\":true},\"output\":null,\"throws\":\"TypeError\"},{\"operation\":\"plan-issuer-revenue-acquisition\",\"name\":\"Header newline refuses\",\"clauses\":[\"configuration\"],\"input\":{\"issuers\":[{\"cik\":\"0000000001\",\"ticker\":\"ONE\"},{\"cik\":\"0000000002\",\"ticker\":\"TWO\"}],\"maximumIssuers\":2,\"userAgent\":\"a@b\\n\",\"maximumBytes\":1000,\"timeoutMs\":1000,\"minimumIntervalMs\":100,\"maximumAgeDays\":{\"quarter\":150,\"annual\":550},\"cacheKey\":\"x\",\"maximumSnapshotAgeMs\":3600000,\"maximumCohortBytes\":100000,\"allowedPeriodKinds\":[\"annual\"],\"allowAmbiguousEvidence\":true},\"output\":null,\"throws\":\"TypeError\"},{\"operation\":\"select-prepared-issuer-revenue-comparison\",\"name\":\"Public cache override refuses before unavailable cohort\",\"clauses\":[\"public-request\",\"selector-input\",\"no-request-override\"],\"input\":{\"body\":{\"periodKind\":\"annual\",\"cacheKey\":\"attacker\"},\"configuration\":{\"issuers\":[{\"cik\":\"0000000001\",\"ticker\":\"ONE\"},{\"cik\":\"0000000002\",\"ticker\":\"TWO\"}],\"maximumIssuers\":2,\"userAgent\":\"@\",\"maximumBytes\":1000,\"timeoutMs\":1000,\"minimumIntervalMs\":100,\"maximumAgeDays\":{\"quarter\":150,\"annual\":550},\"cacheKey\":\"x\",\"maximumSnapshotAgeMs\":3600000,\"maximumCohortBytes\":100000,\"allowedPeriodKinds\":[\"annual\"],\"allowAmbiguousEvidence\":true},\"cohort\":null,\"now\":\"2026-10-24T12:00:00.000Z\"},\"output\":null,\"throws\":\"TypeError\"},{\"operation\":\"select-prepared-issuer-revenue-comparison\",\"name\":\"Unconfigured quarter refuses before cohort selection\",\"clauses\":[\"public-request\",\"no-request-override\"],\"input\":{\"body\":{\"periodKind\":\"quarter\"},\"configuration\":{\"issuers\":[{\"cik\":\"0000000001\",\"ticker\":\"ONE\"},{\"cik\":\"0000000002\",\"ticker\":\"TWO\"}],\"maximumIssuers\":2,\"userAgent\":\"@\",\"maximumBytes\":1000,\"timeoutMs\":1000,\"minimumIntervalMs\":100,\"maximumAgeDays\":{\"quarter\":150,\"annual\":550},\"cacheKey\":\"x\",\"maximumSnapshotAgeMs\":3600000,\"maximumCohortBytes\":100000,\"allowedPeriodKinds\":[\"annual\"],\"allowAmbiguousEvidence\":true},\"cohort\":null,\"now\":\"2026-10-24T12:00:00.000Z\"},\"output\":null,\"throws\":\"TypeError\"},{\"operation\":\"select-prepared-issuer-revenue-comparison\",\"name\":\"Noncanonical explicit instant is an argument error\",\"clauses\":[\"selector-input\"],\"input\":{\"body\":{\"periodKind\":\"annual\"},\"configuration\":{\"issuers\":[{\"cik\":\"0000000001\",\"ticker\":\"ONE\"},{\"cik\":\"0000000002\",\"ticker\":\"TWO\"}],\"maximumIssuers\":2,\"userAgent\":\"@\",\"maximumBytes\":1000,\"timeoutMs\":1000,\"minimumIntervalMs\":100,\"maximumAgeDays\":{\"quarter\":150,\"annual\":550},\"cacheKey\":\"x\",\"maximumSnapshotAgeMs\":3600000,\"maximumCohortBytes\":100000,\"allowedPeriodKinds\":[\"annual\"],\"allowAmbiguousEvidence\":true},\"cohort\":null,\"now\":\"2026-10-24T12:00:00Z\"},\"output\":null,\"throws\":\"TypeError\"},{\"operation\":\"select-prepared-issuer-revenue-comparison\",\"name\":\"Missing prepared cohort is unavailable\",\"clauses\":[\"selector-input\",\"cohort-boundary\"],\"input\":{\"body\":{\"periodKind\":\"annual\"},\"configuration\":{\"issuers\":[{\"cik\":\"0000000001\",\"ticker\":\"ONE\"},{\"cik\":\"0000000002\",\"ticker\":\"TWO\"}],\"maximumIssuers\":2,\"userAgent\":\"@\",\"maximumBytes\":1000,\"timeoutMs\":1000,\"minimumIntervalMs\":100,\"maximumAgeDays\":{\"quarter\":150,\"annual\":550},\"cacheKey\":\"x\",\"maximumSnapshotAgeMs\":3600000,\"maximumCohortBytes\":100000,\"allowedPeriodKinds\":[\"annual\"],\"allowAmbiguousEvidence\":true},\"cohort\":null,\"now\":\"2026-10-24T12:00:00.000Z\"},\"output\":null,\"throws\":\"Error\"},{\"operation\":\"select-prepared-issuer-revenue-comparison\",\"name\":\"Aligned current result at exact snapshot and financial age boundaries retains received packet identities\",\"clauses\":[\"configuration\",\"public-request\",\"selector-input\",\"cohort-boundary\",\"configured-cohort\",\"financial-freshness\",\"prepared-packets\",\"return-unchanged\"],\"input\":{\"body\":{\"periodKind\":\"annual\"},\"configuration\":{\"issuers\":[{\"cik\":\"0000000001\",\"ticker\":\"ONE\"},{\"cik\":\"0000000002\",\"ticker\":\"TWO\"}],\"maximumIssuers\":2,\"userAgent\":\"@\",\"maximumBytes\":1000,\"timeoutMs\":1000,\"minimumIntervalMs\":100,\"maximumAgeDays\":{\"quarter\":150,\"annual\":1},\"cacheKey\":\"x\",\"maximumSnapshotAgeMs\":3600000,\"maximumCohortBytes\":100000,\"allowedPeriodKinds\":[\"annual\"],\"allowAmbiguousEvidence\":true},\"now\":\"2026-01-01T13:00:00.000Z\",\"cohort\":{\"type\":\"IssuerRevenuePreparedCohort\",\"version\":1,\"observedAt\":\"2026-01-01T12:00:00.000Z\",\"asOf\":\"2026-01-01\",\"results\":{\"quarter\":null,\"annual\":{\"type\":\"IssuerRevenueComparison\",\"version\":1,\"observedAt\":\"2026-01-01T12:00:00.000Z\",\"asOf\":\"2026-01-01\",\"periodKind\":\"annual\",\"datePolicy\":\"filing-date-cutoff-on-received-sources\",\"comparability\":\"aligned-periods\",\"issuers\":[{\"type\":\"IssuerRevenueReconciliation\",\"version\":1,\"cik\":\"0000000001\",\"ticker\":\"ONE\",\"issuer\":\"One\",\"asOf\":\"2026-01-01\",\"periodKind\":\"annual\",\"status\":\"current\",\"unit\":\"USD\",\"period\":{\"start\":\"2025-01-01\",\"end\":\"2025-12-31\",\"durationDays\":365},\"value\":100,\"revision\":\"none\",\"witnesses\":[{\"concept\":\"Revenues\",\"start\":\"2025-01-01\",\"end\":\"2025-12-31\",\"durationDays\":365,\"value\":100,\"unit\":\"USD\",\"form\":\"10-K/A\",\"filed\":\"2026-01-01\",\"accession\":\"a\"}],\"source\":{\"uri\":\"https://data.sec.gov/api/xbrl/companyfacts/CIK0000000001.json\",\"digest\":\"ni:///sha-256;MkvyA65d5RjSzklIn8d2s4cnUEXMTFvzZKoY-cLdEz0\",\"bytes\":1000,\"observedAt\":\"2026-01-01T12:00:00.000Z\"}},{\"type\":\"IssuerRevenueReconciliation\",\"version\":1,\"cik\":\"0000000002\",\"ticker\":\"TWO\",\"issuer\":\"Two\",\"asOf\":\"2026-01-01\",\"periodKind\":\"annual\",\"status\":\"current\",\"unit\":\"USD\",\"period\":{\"start\":\"2025-01-01\",\"end\":\"2025-12-31\",\"durationDays\":365},\"value\":200,\"revision\":\"none\",\"witnesses\":[{\"concept\":\"Revenues\",\"start\":\"2025-01-01\",\"end\":\"2025-12-31\",\"durationDays\":365,\"value\":200,\"unit\":\"USD\",\"form\":\"10-K\",\"filed\":\"2026-01-01\",\"accession\":\"b\"}],\"source\":{\"uri\":\"https://data.sec.gov/api/xbrl/companyfacts/CIK0000000002.json\",\"digest\":\"ni:///sha-256;evTmrsvr4OBrxePjrnoREKgGyzUdcOnXZd6tsfmVpR0\",\"bytes\":1000,\"observedAt\":\"2026-01-01T12:00:00.000Z\"}}],\"evidencePackets\":[{\"type\":\"IssuerEvidencePacket\",\"version\":1,\"id\":\"ni:///sha-256;2vAABVR8yuDKCZMXbdEEZ31mQilO23nBAPpCiRCh_kM\",\"ticker\":\"ONE\",\"issuer\":\"One\",\"asOf\":\"2026-01-01\",\"brokerageEffect\":false,\"sources\":[{\"uri\":\"https://data.sec.gov/api/xbrl/companyfacts/CIK0000000001.json\",\"digest\":\"ni:///sha-256;MkvyA65d5RjSzklIn8d2s4cnUEXMTFvzZKoY-cLdEz0\",\"observedAt\":\"2026-01-01T12:00:00.000Z\"}],\"claims\":[{\"statement\":\"Received annual result.\",\"sourceDigests\":[\"ni:///sha-256;MkvyA65d5RjSzklIn8d2s4cnUEXMTFvzZKoY-cLdEz0\"]}]},{\"type\":\"IssuerEvidencePacket\",\"version\":1,\"id\":\"ni:///sha-256;tVwnjNJrF3yqshUTKiIwDspJ8MIoXDNxgaUBKXtIcU8\",\"ticker\":\"TWO\",\"issuer\":\"Two\",\"asOf\":\"2026-01-01\",\"brokerageEffect\":false,\"sources\":[{\"uri\":\"https://data.sec.gov/api/xbrl/companyfacts/CIK0000000002.json\",\"digest\":\"ni:///sha-256;evTmrsvr4OBrxePjrnoREKgGyzUdcOnXZd6tsfmVpR0\",\"observedAt\":\"2026-01-01T12:00:00.000Z\"}],\"claims\":[{\"statement\":\"Received annual result.\",\"sourceDigests\":[\"ni:///sha-256;evTmrsvr4OBrxePjrnoREKgGyzUdcOnXZd6tsfmVpR0\"]}]}]}}}},\"output\":{\"type\":\"IssuerRevenueComparison\",\"version\":1,\"observedAt\":\"2026-01-01T12:00:00.000Z\",\"asOf\":\"2026-01-01\",\"periodKind\":\"annual\",\"datePolicy\":\"filing-date-cutoff-on-received-sources\",\"comparability\":\"aligned-periods\",\"issuers\":[{\"type\":\"IssuerRevenueReconciliation\",\"version\":1,\"cik\":\"0000000001\",\"ticker\":\"ONE\",\"issuer\":\"One\",\"asOf\":\"2026-01-01\",\"periodKind\":\"annual\",\"status\":\"current\",\"unit\":\"USD\",\"period\":{\"start\":\"2025-01-01\",\"end\":\"2025-12-31\",\"durationDays\":365},\"value\":100,\"revision\":\"none\",\"witnesses\":[{\"concept\":\"Revenues\",\"start\":\"2025-01-01\",\"end\":\"2025-12-31\",\"durationDays\":365,\"value\":100,\"unit\":\"USD\",\"form\":\"10-K/A\",\"filed\":\"2026-01-01\",\"accession\":\"a\"}],\"source\":{\"uri\":\"https://data.sec.gov/api/xbrl/companyfacts/CIK0000000001.json\",\"digest\":\"ni:///sha-256;MkvyA65d5RjSzklIn8d2s4cnUEXMTFvzZKoY-cLdEz0\",\"bytes\":1000,\"observedAt\":\"2026-01-01T12:00:00.000Z\"}},{\"type\":\"IssuerRevenueReconciliation\",\"version\":1,\"cik\":\"0000000002\",\"ticker\":\"TWO\",\"issuer\":\"Two\",\"asOf\":\"2026-01-01\",\"periodKind\":\"annual\",\"status\":\"current\",\"unit\":\"USD\",\"period\":{\"start\":\"2025-01-01\",\"end\":\"2025-12-31\",\"durationDays\":365},\"value\":200,\"revision\":\"none\",\"witnesses\":[{\"concept\":\"Revenues\",\"start\":\"2025-01-01\",\"end\":\"2025-12-31\",\"durationDays\":365,\"value\":200,\"unit\":\"USD\",\"form\":\"10-K\",\"filed\":\"2026-01-01\",\"accession\":\"b\"}],\"source\":{\"uri\":\"https://data.sec.gov/api/xbrl/companyfacts/CIK0000000002.json\",\"digest\":\"ni:///sha-256;evTmrsvr4OBrxePjrnoREKgGyzUdcOnXZd6tsfmVpR0\",\"bytes\":1000,\"observedAt\":\"2026-01-01T12:00:00.000Z\"}}],\"evidencePackets\":[{\"type\":\"IssuerEvidencePacket\",\"version\":1,\"id\":\"ni:///sha-256;2vAABVR8yuDKCZMXbdEEZ31mQilO23nBAPpCiRCh_kM\",\"ticker\":\"ONE\",\"issuer\":\"One\",\"asOf\":\"2026-01-01\",\"brokerageEffect\":false,\"sources\":[{\"uri\":\"https://data.sec.gov/api/xbrl/companyfacts/CIK0000000001.json\",\"digest\":\"ni:///sha-256;MkvyA65d5RjSzklIn8d2s4cnUEXMTFvzZKoY-cLdEz0\",\"observedAt\":\"2026-01-01T12:00:00.000Z\"}],\"claims\":[{\"statement\":\"Received annual result.\",\"sourceDigests\":[\"ni:///sha-256;MkvyA65d5RjSzklIn8d2s4cnUEXMTFvzZKoY-cLdEz0\"]}]},{\"type\":\"IssuerEvidencePacket\",\"version\":1,\"id\":\"ni:///sha-256;tVwnjNJrF3yqshUTKiIwDspJ8MIoXDNxgaUBKXtIcU8\",\"ticker\":\"TWO\",\"issuer\":\"Two\",\"asOf\":\"2026-01-01\",\"brokerageEffect\":false,\"sources\":[{\"uri\":\"https://data.sec.gov/api/xbrl/companyfacts/CIK0000000002.json\",\"digest\":\"ni:///sha-256;evTmrsvr4OBrxePjrnoREKgGyzUdcOnXZd6tsfmVpR0\",\"observedAt\":\"2026-01-01T12:00:00.000Z\"}],\"claims\":[{\"statement\":\"Received annual result.\",\"sourceDigests\":[\"ni:///sha-256;evTmrsvr4OBrxePjrnoREKgGyzUdcOnXZd6tsfmVpR0\"]}]}]},\"throws\":null}],\"question\":null}",
+                      "tool_calls": []
+                    }
+                  }
+                ],
+                "tokenUsage": [
+                  {
+                    "promptTokens": 48891,
+                    "outputTokens": 3932,
+                    "totalTokens": null,
+                    "reportedCost": null
+                  }
+                ],
+                "measuredResources": {
+                  "scope": {
+                    "providerIdentity": "urn:ame:bare-cedar-fog-codex-inference-team",
+                    "accountIdentity": null,
+                    "windowIdentity": null,
+                    "measurementCoverage": "completed-exchanges"
+                  },
+                  "resources": [
+                    {
+                      "resource": "requests",
+                      "unit": "request",
+                      "amount": {
+                        "numerator": "1",
+                        "denominator": "1"
+                      }
+                    },
+                    {
+                      "resource": "input-tokens",
+                      "unit": "token",
+                      "amount": {
+                        "numerator": "48891",
+                        "denominator": "1"
+                      }
+                    },
+                    {
+                      "resource": "output-tokens",
+                      "unit": "token",
+                      "amount": {
+                        "numerator": "3932",
+                        "denominator": "1"
+                      }
+                    },
+                    {
+                      "resource": "duration",
+                      "unit": "millisecond",
+                      "amount": {
+                        "numerator": "115329",
+                        "denominator": "1"
+                      }
+                    }
+                  ],
+                  "partialResources": [],
+                  "callerObservedResources": [],
+                  "uncertainty": [
+                    "total-token-usage-incomplete",
+                    "provider-reported-cost-incomplete",
+                    "account-window-identity-unknown"
+                  ]
+                },
+                "sharedBudgetRemaining": {}
+              },
+              "customerAssay": "chat-completion-turn-accepted",
+              "providerSchemaEnforcement": {
+                "attempted": false
+              },
+              "directLaneRefusals": [],
+              "integrationAccepted": false,
+              "receiverAcceptanceRequired": true,
+              "nextAct": "Codex may decide its own routine purchase and delivery outcome after an executable assay without Leader approval; only a later effect on another Actor crosses into that Actor's induction boundary.",
+              "contextOptimization": {
+                "mode": "automatic",
+                "estimated": true,
+                "budget": null,
+                "beforeBytes": 62421,
+                "afterBytes": 62421,
+                "retained": [
+                  "objective",
+                  "chat-completion"
+                ],
+                "dropped": [],
+                "rawRecall": []
+              },
+              "timing": {
+                "solicitation": 0,
+                "routeDecision": 5313,
+                "execution": 121695,
+                "assay": 0,
+                "receipt": 0,
+                "total": 147214
+              },
+              "acceptanceScope": "delivery-to-codex-customer-office-only",
+              "placement": {
+                "type": "WorkPlacementEvidenceProjection",
+                "version": 1,
+                "decisionType": "WorkPlacementDecision",
+                "disposition": "selected",
+                "selected": {
+                  "offerId": "urn:offer:direct-endpoint:urn:ame:bare-cedar-fog-codex-inference-team:l3k78btuNzmvmueURzT7MdqkmwlytwQnwHyX9Emsbxk:code-fabrication-assays",
+                  "provider": "urn:ame:bare-cedar-fog-codex-inference-team",
+                  "executionClass": "local-command-inference",
+                  "mode": "execute",
+                  "reuseReceipt": null,
+                  "plannedResources": [
+                    {
+                      "amount": {
+                        "numerator": "424529",
+                        "denominator": "6"
+                      },
+                      "resource": "duration",
+                      "unit": "millisecond"
+                    },
+                    {
+                      "amount": {
+                        "numerator": "124382",
+                        "denominator": "3"
+                      },
+                      "resource": "input-tokens",
+                      "unit": "token"
+                    },
+                    {
+                      "amount": {
+                        "numerator": "1343",
+                        "denominator": "6"
+                      },
+                      "resource": "output-tokens",
+                      "unit": "token"
+                    },
+                    {
+                      "amount": {
+                        "numerator": "1",
+                        "denominator": "1"
+                      },
+                      "resource": "requests",
+                      "unit": "request"
+                    }
+                  ],
+                  "observationBasis": {
+                    "attempts": 6,
+                    "accepted": 0,
+                    "resourceBasis": "mean-per-attempt-including-refusals",
+                    "acceptedServiceEnergyIntensity": "unknown-no-source-admitted-meter-and-independent-service-denominator",
+                    "receipts": [
+                      "ni:///sha-256;7SogVZyMuVZmEV-dhmKLUYME7GGARv4s2JN-3839n2s",
+                      "ni:///sha-256;E4JrJzUNUt0QLIrcRBZs2r8koH9aCUuUwlhuk1CKPho",
+                      "ni:///sha-256;FcgksnNDH26SayqDCpa0oGzWH4M8bIOcDltKEkxc2Mo",
+                      "ni:///sha-256;SyMIUCmfrg9Mi5mnthJbN1LYDJ5zr7PC8qruq5QEl60",
+                      "ni:///sha-256;n0fv48n5VyMzKRGOUxQAD66ihdEvq7EiHh8QvAKgJDY",
+                      "ni:///sha-256;vlLTIFdOUC0wBMLDxRzGDDizDhXU9STvaK73whC6H7o"
+                    ],
+                    "qualityPrior": {
+                      "observations": 0,
+                      "accepted": 0,
+                      "sourceReceipts": []
+                    }
+                  }
+                },
+                "attemptPlan": [
+                  {
+                    "rank": 0,
+                    "relation": "single",
+                    "offers": [
+                      {
+                        "offerId": "urn:offer:direct-endpoint:urn:ame:bare-cedar-fog-codex-inference-team:l3k78btuNzmvmueURzT7MdqkmwlytwQnwHyX9Emsbxk:code-fabrication-assays",
+                        "provider": "urn:ame:bare-cedar-fog-codex-inference-team",
+                        "executionClass": "local-command-inference",
+                        "mode": "execute",
+                        "reuseReceipt": null,
+                        "plannedResources": [
+                          {
+                            "amount": {
+                              "numerator": "424529",
+                              "denominator": "6"
+                            },
+                            "resource": "duration",
+                            "unit": "millisecond"
+                          },
+                          {
+                            "amount": {
+                              "numerator": "124382",
+                              "denominator": "3"
+                            },
+                            "resource": "input-tokens",
+                            "unit": "token"
+                          },
+                          {
+                            "amount": {
+                              "numerator": "1343",
+                              "denominator": "6"
+                            },
+                            "resource": "output-tokens",
+                            "unit": "token"
+                          },
+                          {
+                            "amount": {
+                              "numerator": "1",
+                              "denominator": "1"
+                            },
+                            "resource": "requests",
+                            "unit": "request"
+                          }
+                        ],
+                        "observationBasis": {
+                          "attempts": 6,
+                          "accepted": 0,
+                          "resourceBasis": "mean-per-attempt-including-refusals",
+                          "acceptedServiceEnergyIntensity": "unknown-no-source-admitted-meter-and-independent-service-denominator",
+                          "receipts": [
+                            "ni:///sha-256;7SogVZyMuVZmEV-dhmKLUYME7GGARv4s2JN-3839n2s",
+                            "ni:///sha-256;E4JrJzUNUt0QLIrcRBZs2r8koH9aCUuUwlhuk1CKPho",
+                            "ni:///sha-256;FcgksnNDH26SayqDCpa0oGzWH4M8bIOcDltKEkxc2Mo",
+                            "ni:///sha-256;SyMIUCmfrg9Mi5mnthJbN1LYDJ5zr7PC8qruq5QEl60",
+                            "ni:///sha-256;n0fv48n5VyMzKRGOUxQAD66ihdEvq7EiHh8QvAKgJDY",
+                            "ni:///sha-256;vlLTIFdOUC0wBMLDxRzGDDizDhXU9STvaK73whC6H7o"
+                          ],
+                          "qualityPrior": {
+                            "observations": 0,
+                            "accepted": 0,
+                            "sourceReceipts": []
+                          }
+                        }
+                      }
+                    ],
+                    "execution": "explicit-sequential-authority-required",
+                    "implicitFallbackPermitted": false,
+                    "speculativeExecutionPermitted": false,
+                    "stopCondition": "customer-assayed-acceptance"
+                  }
+                ],
+                "refusals": [],
+                "rationale": [
+                  "exact-feasibility-first",
+                  "fresh-execution-required",
+                  "customer-ordered-pareto-selection",
+                  "provider-and-model-identities-are-provenance-only"
+                ],
+                "offers": [
+                  {
+                    "type": "NormalizedWorkOffer",
+                    "id": "urn:offer:direct-endpoint:urn:ame:bare-cedar-fog-codex-inference-team:l3k78btuNzmvmueURzT7MdqkmwlytwQnwHyX9Emsbxk:code-fabrication-assays",
+                    "provider": "urn:ame:bare-cedar-fog-codex-inference-team",
+                    "executionClass": "local-command-inference",
+                    "operation": "code-fabrication-assays",
+                    "implementationIdentity": "ni:///sha-256;l3k78btuNzmvmueURzT7MdqkmwlytwQnwHyX9Emsbxk",
+                    "configurationIdentity": "ni:///sha-256;l3k78btuNzmvmueURzT7MdqkmwlytwQnwHyX9Emsbxk",
+                    "capabilities": [
+                      "chat",
+                      "reasoning",
+                      "long-context",
+                      "json-output",
+                      "json-schema-output",
+                      "code",
+                      "classification",
+                      "extraction",
+                      "summarization",
+                      "inquiry",
+                      "software-engineering",
+                      "code-review",
+                      "text-output",
+                      "tool-calling"
+                    ],
+                    "qualityTiers": [
+                      "frontier-subscription"
+                    ],
+                    "authorityScopes": [
+                      "urn:scope:bounded-inference-candidate"
+                    ],
+                    "effects": [
+                      "read-only"
+                    ],
+                    "idempotence": [
+                      "idempotent"
+                    ],
+                    "dataConstraints": [],
+                    "custodyConstraints": [],
+                    "outputContractIdentities": [
+                      "ni:///sha-256;7IAXjNB0Sjczx3UutNZuD-puIhF9MCOp5lLHPi30PYc"
+                    ],
+                    "availability": "available",
+                    "availableCapacity": 1,
+                    "bounds": {},
+                    "consideration": [
+                      {
+                        "kind": "credit",
+                        "asset": "urn:union:consideration:provider-invocation",
+                        "unit": "provider-invocation",
+                        "amount": {
+                          "numerator": "1",
+                          "denominator": "1"
+                        }
+                      },
+                      {
+                        "kind": "currency",
+                        "asset": "urn:currency:usd",
+                        "unit": "cent",
+                        "amount": {
+                          "numerator": "0",
+                          "denominator": "1"
+                        }
+                      }
+                    ],
+                    "declaredResources": [
+                      {
+                        "resource": "provider-attention",
+                        "unit": "bounded-lot",
+                        "amount": {
+                          "numerator": "1",
+                          "denominator": "1"
+                        }
+                      }
+                    ],
+                    "semantics": {
+                      "reuse": "none"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          "cases": [
+            {
+              "operation": "plan-issuer-revenue-acquisition",
+              "name": "Minimum bounds, reversed issuer order, structural user agent and ignored host metadata",
+              "clauses": [
+                "configuration",
+                "acquisition-plan"
+              ],
+              "input": {
+                "issuers": [
+                  {
+                    "cik": "0000000002",
+                    "ticker": "two"
+                  },
+                  {
+                    "cik": "0000000001",
+                    "ticker": "one"
+                  }
+                ],
+                "maximumIssuers": 2,
+                "userAgent": "@",
+                "maximumBytes": 1,
+                "timeoutMs": 1,
+                "minimumIntervalMs": 100,
+                "maximumAgeDays": {
+                  "quarter": 1,
+                  "annual": 1
+                },
+                "cacheKey": "x",
+                "maximumSnapshotAgeMs": 1,
+                "maximumCohortBytes": 1,
+                "allowedPeriodKinds": [
+                  "quarter",
+                  "annual"
+                ],
+                "allowAmbiguousEvidence": false,
+                "enabled": false,
+                "resourceAdmission": null,
+                "provider": "https://example.invalid"
+              },
+              "output": {
+                "type": "IssuerRevenueAcquisitionPlan",
+                "version": 1,
+                "minimumIntervalMs": 100,
+                "maximumCohortBytes": 1,
+                "requests": [
+                  {
+                    "cik": "0000000002",
+                    "ticker": "two",
+                    "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000000002.json",
+                    "headers": {
+                      "User-Agent": "@",
+                      "Accept": "application/json"
+                    },
+                    "timeoutMs": 1,
+                    "maximumBytes": 1
+                  },
+                  {
+                    "cik": "0000000001",
+                    "ticker": "one",
+                    "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000000001.json",
+                    "headers": {
+                      "User-Agent": "@",
+                      "Accept": "application/json"
+                    },
+                    "timeoutMs": 1,
+                    "maximumBytes": 1
+                  }
+                ]
+              },
+              "throws": null
+            },
+            {
+              "operation": "plan-issuer-revenue-acquisition",
+              "name": "Duplicate configured CIK refuses",
+              "clauses": [
+                "configuration"
+              ],
+              "input": {
+                "issuers": [
+                  {
+                    "cik": "0000000001",
+                    "ticker": "ONE"
+                  },
+                  {
+                    "cik": "0000000001",
+                    "ticker": "TWO"
+                  }
+                ],
+                "maximumIssuers": 2,
+                "userAgent": "@",
+                "maximumBytes": 1000,
+                "timeoutMs": 1000,
+                "minimumIntervalMs": 100,
+                "maximumAgeDays": {
+                  "quarter": 150,
+                  "annual": 550
+                },
+                "cacheKey": "x",
+                "maximumSnapshotAgeMs": 3600000,
+                "maximumCohortBytes": 100000,
+                "allowedPeriodKinds": [
+                  "annual"
+                ],
+                "allowAmbiguousEvidence": true
+              },
+              "output": null,
+              "throws": "TypeError"
+            },
+            {
+              "operation": "plan-issuer-revenue-acquisition",
+              "name": "Header newline refuses",
+              "clauses": [
+                "configuration"
+              ],
+              "input": {
+                "issuers": [
+                  {
+                    "cik": "0000000001",
+                    "ticker": "ONE"
+                  },
+                  {
+                    "cik": "0000000002",
+                    "ticker": "TWO"
+                  }
+                ],
+                "maximumIssuers": 2,
+                "userAgent": "a@b\n",
+                "maximumBytes": 1000,
+                "timeoutMs": 1000,
+                "minimumIntervalMs": 100,
+                "maximumAgeDays": {
+                  "quarter": 150,
+                  "annual": 550
+                },
+                "cacheKey": "x",
+                "maximumSnapshotAgeMs": 3600000,
+                "maximumCohortBytes": 100000,
+                "allowedPeriodKinds": [
+                  "annual"
+                ],
+                "allowAmbiguousEvidence": true
+              },
+              "output": null,
+              "throws": "TypeError"
+            },
+            {
+              "operation": "select-prepared-issuer-revenue-comparison",
+              "name": "Public cache override refuses before unavailable cohort",
+              "clauses": [
+                "public-request",
+                "selector-input",
+                "no-request-override"
+              ],
+              "input": {
+                "body": {
+                  "periodKind": "annual",
+                  "cacheKey": "attacker"
+                },
+                "configuration": {
+                  "issuers": [
+                    {
+                      "cik": "0000000001",
+                      "ticker": "ONE"
+                    },
+                    {
+                      "cik": "0000000002",
+                      "ticker": "TWO"
+                    }
+                  ],
+                  "maximumIssuers": 2,
+                  "userAgent": "@",
+                  "maximumBytes": 1000,
+                  "timeoutMs": 1000,
+                  "minimumIntervalMs": 100,
+                  "maximumAgeDays": {
+                    "quarter": 150,
+                    "annual": 550
+                  },
+                  "cacheKey": "x",
+                  "maximumSnapshotAgeMs": 3600000,
+                  "maximumCohortBytes": 100000,
+                  "allowedPeriodKinds": [
+                    "annual"
+                  ],
+                  "allowAmbiguousEvidence": true
+                },
+                "cohort": null,
+                "now": "2026-10-24T12:00:00.000Z"
+              },
+              "output": null,
+              "throws": "TypeError"
+            },
+            {
+              "operation": "select-prepared-issuer-revenue-comparison",
+              "name": "Unconfigured quarter refuses before cohort selection",
+              "clauses": [
+                "public-request",
+                "no-request-override"
+              ],
+              "input": {
+                "body": {
+                  "periodKind": "quarter"
+                },
+                "configuration": {
+                  "issuers": [
+                    {
+                      "cik": "0000000001",
+                      "ticker": "ONE"
+                    },
+                    {
+                      "cik": "0000000002",
+                      "ticker": "TWO"
+                    }
+                  ],
+                  "maximumIssuers": 2,
+                  "userAgent": "@",
+                  "maximumBytes": 1000,
+                  "timeoutMs": 1000,
+                  "minimumIntervalMs": 100,
+                  "maximumAgeDays": {
+                    "quarter": 150,
+                    "annual": 550
+                  },
+                  "cacheKey": "x",
+                  "maximumSnapshotAgeMs": 3600000,
+                  "maximumCohortBytes": 100000,
+                  "allowedPeriodKinds": [
+                    "annual"
+                  ],
+                  "allowAmbiguousEvidence": true
+                },
+                "cohort": null,
+                "now": "2026-10-24T12:00:00.000Z"
+              },
+              "output": null,
+              "throws": "TypeError"
+            },
+            {
+              "operation": "select-prepared-issuer-revenue-comparison",
+              "name": "Noncanonical explicit instant is an argument error",
+              "clauses": [
+                "selector-input"
+              ],
+              "input": {
+                "body": {
+                  "periodKind": "annual"
+                },
+                "configuration": {
+                  "issuers": [
+                    {
+                      "cik": "0000000001",
+                      "ticker": "ONE"
+                    },
+                    {
+                      "cik": "0000000002",
+                      "ticker": "TWO"
+                    }
+                  ],
+                  "maximumIssuers": 2,
+                  "userAgent": "@",
+                  "maximumBytes": 1000,
+                  "timeoutMs": 1000,
+                  "minimumIntervalMs": 100,
+                  "maximumAgeDays": {
+                    "quarter": 150,
+                    "annual": 550
+                  },
+                  "cacheKey": "x",
+                  "maximumSnapshotAgeMs": 3600000,
+                  "maximumCohortBytes": 100000,
+                  "allowedPeriodKinds": [
+                    "annual"
+                  ],
+                  "allowAmbiguousEvidence": true
+                },
+                "cohort": null,
+                "now": "2026-10-24T12:00:00Z"
+              },
+              "output": null,
+              "throws": "TypeError"
+            },
+            {
+              "operation": "select-prepared-issuer-revenue-comparison",
+              "name": "Missing prepared cohort is unavailable",
+              "clauses": [
+                "selector-input",
+                "cohort-boundary"
+              ],
+              "input": {
+                "body": {
+                  "periodKind": "annual"
+                },
+                "configuration": {
+                  "issuers": [
+                    {
+                      "cik": "0000000001",
+                      "ticker": "ONE"
+                    },
+                    {
+                      "cik": "0000000002",
+                      "ticker": "TWO"
+                    }
+                  ],
+                  "maximumIssuers": 2,
+                  "userAgent": "@",
+                  "maximumBytes": 1000,
+                  "timeoutMs": 1000,
+                  "minimumIntervalMs": 100,
+                  "maximumAgeDays": {
+                    "quarter": 150,
+                    "annual": 550
+                  },
+                  "cacheKey": "x",
+                  "maximumSnapshotAgeMs": 3600000,
+                  "maximumCohortBytes": 100000,
+                  "allowedPeriodKinds": [
+                    "annual"
+                  ],
+                  "allowAmbiguousEvidence": true
+                },
+                "cohort": null,
+                "now": "2026-10-24T12:00:00.000Z"
+              },
+              "output": null,
+              "throws": "Error"
+            },
+            {
+              "operation": "select-prepared-issuer-revenue-comparison",
+              "name": "Aligned current result at exact snapshot and financial age boundaries retains received packet identities",
+              "clauses": [
+                "configuration",
+                "public-request",
+                "selector-input",
+                "cohort-boundary",
+                "configured-cohort",
+                "financial-freshness",
+                "prepared-packets",
+                "return-unchanged"
+              ],
+              "input": {
+                "body": {
+                  "periodKind": "annual"
+                },
+                "configuration": {
+                  "issuers": [
+                    {
+                      "cik": "0000000001",
+                      "ticker": "ONE"
+                    },
+                    {
+                      "cik": "0000000002",
+                      "ticker": "TWO"
+                    }
+                  ],
+                  "maximumIssuers": 2,
+                  "userAgent": "@",
+                  "maximumBytes": 1000,
+                  "timeoutMs": 1000,
+                  "minimumIntervalMs": 100,
+                  "maximumAgeDays": {
+                    "quarter": 150,
+                    "annual": 1
+                  },
+                  "cacheKey": "x",
+                  "maximumSnapshotAgeMs": 3600000,
+                  "maximumCohortBytes": 100000,
+                  "allowedPeriodKinds": [
+                    "annual"
+                  ],
+                  "allowAmbiguousEvidence": true
+                },
+                "now": "2026-01-01T13:00:00.000Z",
+                "cohort": {
+                  "type": "IssuerRevenuePreparedCohort",
+                  "version": 1,
+                  "observedAt": "2026-01-01T12:00:00.000Z",
+                  "asOf": "2026-01-01",
+                  "results": {
+                    "quarter": null,
+                    "annual": {
+                      "type": "IssuerRevenueComparison",
+                      "version": 1,
+                      "observedAt": "2026-01-01T12:00:00.000Z",
+                      "asOf": "2026-01-01",
+                      "periodKind": "annual",
+                      "datePolicy": "filing-date-cutoff-on-received-sources",
+                      "comparability": "aligned-periods",
+                      "issuers": [
+                        {
+                          "type": "IssuerRevenueReconciliation",
+                          "version": 1,
+                          "cik": "0000000001",
+                          "ticker": "ONE",
+                          "issuer": "One",
+                          "asOf": "2026-01-01",
+                          "periodKind": "annual",
+                          "status": "current",
+                          "unit": "USD",
+                          "period": {
+                            "start": "2025-01-01",
+                            "end": "2025-12-31",
+                            "durationDays": 365
+                          },
+                          "value": 100,
+                          "revision": "none",
+                          "witnesses": [
+                            {
+                              "concept": "Revenues",
+                              "start": "2025-01-01",
+                              "end": "2025-12-31",
+                              "durationDays": 365,
+                              "value": 100,
+                              "unit": "USD",
+                              "form": "10-K/A",
+                              "filed": "2026-01-01",
+                              "accession": "a"
+                            }
+                          ],
+                          "source": {
+                            "uri": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000000001.json",
+                            "digest": "ni:///sha-256;MkvyA65d5RjSzklIn8d2s4cnUEXMTFvzZKoY-cLdEz0",
+                            "bytes": 1000,
+                            "observedAt": "2026-01-01T12:00:00.000Z"
+                          }
+                        },
+                        {
+                          "type": "IssuerRevenueReconciliation",
+                          "version": 1,
+                          "cik": "0000000002",
+                          "ticker": "TWO",
+                          "issuer": "Two",
+                          "asOf": "2026-01-01",
+                          "periodKind": "annual",
+                          "status": "current",
+                          "unit": "USD",
+                          "period": {
+                            "start": "2025-01-01",
+                            "end": "2025-12-31",
+                            "durationDays": 365
+                          },
+                          "value": 200,
+                          "revision": "none",
+                          "witnesses": [
+                            {
+                              "concept": "Revenues",
+                              "start": "2025-01-01",
+                              "end": "2025-12-31",
+                              "durationDays": 365,
+                              "value": 200,
+                              "unit": "USD",
+                              "form": "10-K",
+                              "filed": "2026-01-01",
+                              "accession": "b"
+                            }
+                          ],
+                          "source": {
+                            "uri": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000000002.json",
+                            "digest": "ni:///sha-256;evTmrsvr4OBrxePjrnoREKgGyzUdcOnXZd6tsfmVpR0",
+                            "bytes": 1000,
+                            "observedAt": "2026-01-01T12:00:00.000Z"
+                          }
+                        }
+                      ],
+                      "evidencePackets": [
+                        {
+                          "type": "IssuerEvidencePacket",
+                          "version": 1,
+                          "id": "ni:///sha-256;2vAABVR8yuDKCZMXbdEEZ31mQilO23nBAPpCiRCh_kM",
+                          "ticker": "ONE",
+                          "issuer": "One",
+                          "asOf": "2026-01-01",
+                          "brokerageEffect": false,
+                          "sources": [
+                            {
+                              "uri": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000000001.json",
+                              "digest": "ni:///sha-256;MkvyA65d5RjSzklIn8d2s4cnUEXMTFvzZKoY-cLdEz0",
+                              "observedAt": "2026-01-01T12:00:00.000Z"
+                            }
+                          ],
+                          "claims": [
+                            {
+                              "statement": "Received annual result.",
+                              "sourceDigests": [
+                                "ni:///sha-256;MkvyA65d5RjSzklIn8d2s4cnUEXMTFvzZKoY-cLdEz0"
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "IssuerEvidencePacket",
+                          "version": 1,
+                          "id": "ni:///sha-256;tVwnjNJrF3yqshUTKiIwDspJ8MIoXDNxgaUBKXtIcU8",
+                          "ticker": "TWO",
+                          "issuer": "Two",
+                          "asOf": "2026-01-01",
+                          "brokerageEffect": false,
+                          "sources": [
+                            {
+                              "uri": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000000002.json",
+                              "digest": "ni:///sha-256;evTmrsvr4OBrxePjrnoREKgGyzUdcOnXZd6tsfmVpR0",
+                              "observedAt": "2026-01-01T12:00:00.000Z"
+                            }
+                          ],
+                          "claims": [
+                            {
+                              "statement": "Received annual result.",
+                              "sourceDigests": [
+                                "ni:///sha-256;evTmrsvr4OBrxePjrnoREKgGyzUdcOnXZd6tsfmVpR0"
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                }
+              },
+              "output": {
+                "type": "IssuerRevenueComparison",
+                "version": 1,
+                "observedAt": "2026-01-01T12:00:00.000Z",
+                "asOf": "2026-01-01",
+                "periodKind": "annual",
+                "datePolicy": "filing-date-cutoff-on-received-sources",
+                "comparability": "aligned-periods",
+                "issuers": [
+                  {
+                    "type": "IssuerRevenueReconciliation",
+                    "version": 1,
+                    "cik": "0000000001",
+                    "ticker": "ONE",
+                    "issuer": "One",
+                    "asOf": "2026-01-01",
+                    "periodKind": "annual",
+                    "status": "current",
+                    "unit": "USD",
+                    "period": {
+                      "start": "2025-01-01",
+                      "end": "2025-12-31",
+                      "durationDays": 365
+                    },
+                    "value": 100,
+                    "revision": "none",
+                    "witnesses": [
+                      {
+                        "concept": "Revenues",
+                        "start": "2025-01-01",
+                        "end": "2025-12-31",
+                        "durationDays": 365,
+                        "value": 100,
+                        "unit": "USD",
+                        "form": "10-K/A",
+                        "filed": "2026-01-01",
+                        "accession": "a"
+                      }
+                    ],
+                    "source": {
+                      "uri": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000000001.json",
+                      "digest": "ni:///sha-256;MkvyA65d5RjSzklIn8d2s4cnUEXMTFvzZKoY-cLdEz0",
+                      "bytes": 1000,
+                      "observedAt": "2026-01-01T12:00:00.000Z"
+                    }
+                  },
+                  {
+                    "type": "IssuerRevenueReconciliation",
+                    "version": 1,
+                    "cik": "0000000002",
+                    "ticker": "TWO",
+                    "issuer": "Two",
+                    "asOf": "2026-01-01",
+                    "periodKind": "annual",
+                    "status": "current",
+                    "unit": "USD",
+                    "period": {
+                      "start": "2025-01-01",
+                      "end": "2025-12-31",
+                      "durationDays": 365
+                    },
+                    "value": 200,
+                    "revision": "none",
+                    "witnesses": [
+                      {
+                        "concept": "Revenues",
+                        "start": "2025-01-01",
+                        "end": "2025-12-31",
+                        "durationDays": 365,
+                        "value": 200,
+                        "unit": "USD",
+                        "form": "10-K",
+                        "filed": "2026-01-01",
+                        "accession": "b"
+                      }
+                    ],
+                    "source": {
+                      "uri": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000000002.json",
+                      "digest": "ni:///sha-256;evTmrsvr4OBrxePjrnoREKgGyzUdcOnXZd6tsfmVpR0",
+                      "bytes": 1000,
+                      "observedAt": "2026-01-01T12:00:00.000Z"
+                    }
+                  }
+                ],
+                "evidencePackets": [
+                  {
+                    "type": "IssuerEvidencePacket",
+                    "version": 1,
+                    "id": "ni:///sha-256;2vAABVR8yuDKCZMXbdEEZ31mQilO23nBAPpCiRCh_kM",
+                    "ticker": "ONE",
+                    "issuer": "One",
+                    "asOf": "2026-01-01",
+                    "brokerageEffect": false,
+                    "sources": [
+                      {
+                        "uri": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000000001.json",
+                        "digest": "ni:///sha-256;MkvyA65d5RjSzklIn8d2s4cnUEXMTFvzZKoY-cLdEz0",
+                        "observedAt": "2026-01-01T12:00:00.000Z"
+                      }
+                    ],
+                    "claims": [
+                      {
+                        "statement": "Received annual result.",
+                        "sourceDigests": [
+                          "ni:///sha-256;MkvyA65d5RjSzklIn8d2s4cnUEXMTFvzZKoY-cLdEz0"
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "IssuerEvidencePacket",
+                    "version": 1,
+                    "id": "ni:///sha-256;tVwnjNJrF3yqshUTKiIwDspJ8MIoXDNxgaUBKXtIcU8",
+                    "ticker": "TWO",
+                    "issuer": "Two",
+                    "asOf": "2026-01-01",
+                    "brokerageEffect": false,
+                    "sources": [
+                      {
+                        "uri": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000000002.json",
+                        "digest": "ni:///sha-256;evTmrsvr4OBrxePjrnoREKgGyzUdcOnXZd6tsfmVpR0",
+                        "observedAt": "2026-01-01T12:00:00.000Z"
+                      }
+                    ],
+                    "claims": [
+                      {
+                        "statement": "Received annual result.",
+                        "sourceDigests": [
+                          "ni:///sha-256;evTmrsvr4OBrxePjrnoREKgGyzUdcOnXZd6tsfmVpR0"
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              "throws": null
+            }
+          ]
+        },
+        {
+          "operation": "plan-issuer-revenue-acquisition",
+          "operations": [
+            "plan-issuer-revenue-acquisition",
+            "select-prepared-issuer-revenue-comparison"
+          ],
+          "module": "src/prepared-cohort.mjs",
+          "attempt": 1,
+          "lot": {
+            "workLot": "urn:work-lot:inference:KUZ5CTg6v_pUltf5W-6NijUrrKcXnYIVwOJKoGwaBJM",
+            "provider": "urn:ame:bare-cedar-fog-codex-inference-team",
+            "taskClass": "code-fabrication",
+            "selectedOffer": "urn:offer:direct-endpoint:urn:ame:bare-cedar-fog-codex-inference-team:l3k78btuNzmvmueURzT7MdqkmwlytwQnwHyX9Emsbxk:code-fabrication",
+            "receipt": "ni:///sha-256;PK20qDUvk1drb6wAiVkGuYfTRK2L0uC9QrLtpFwDI4o",
+            "receiver": "actor:WWOM5azg-fTrn1Id0YVbz5AhppbnFny_W5Xl-rKgSs4",
+            "model": "default",
+            "configurationIdentity": "ni:///sha-256;l3k78btuNzmvmueURzT7MdqkmwlytwQnwHyX9Emsbxk",
+            "delivery": {
+              "outcome": "candidate-pending-codex-acceptance",
+              "workLot": "urn:work-lot:inference:KUZ5CTg6v_pUltf5W-6NijUrrKcXnYIVwOJKoGwaBJM",
+              "taskClass": "code-fabrication",
+              "receiver": "actor:WWOM5azg-fTrn1Id0YVbz5AhppbnFny_W5Xl-rKgSs4",
+              "provider": "urn:ame:bare-cedar-fog-codex-inference-team",
+              "model": "default",
+              "selectedOffer": "urn:offer:direct-endpoint:urn:ame:bare-cedar-fog-codex-inference-team:l3k78btuNzmvmueURzT7MdqkmwlytwQnwHyX9Emsbxk:code-fabrication",
+              "receipt": {
+                "id": "ni:///sha-256;PK20qDUvk1drb6wAiVkGuYfTRK2L0uC9QrLtpFwDI4o"
+              },
+              "candidate": {
+                "id": "exchange-20261024-192809-3b4669",
+                "object": "chat.completion",
+                "model": "default",
+                "choices": [
+                  {
+                    "index": 0,
+                    "message": {
+                      "role": "assistant",
+                      "content": "{\"source\":\"import { formIssuerEvidencePacket } from '@red-cup-engineering/issuer-research-media-service';\\nimport { reconcileIssuerRevenueFacts } from '@red-cup-engineering/issuer-research-media-service/revenue-reconciliation';\\nimport { addressContent } from '@red-cup-engineering/computer-content-address-engineering-services-section/content-address';\\nimport { isNiUri } from '@red-cup-engineering/uri-services-section/ni-uri';\\n\\n/*\\n * src/prepared-cohort.mjs — issuer-revenue-prepared-cohort, specification v2.\\n * Source: specifications/prepared-cohort.work-order.md:1–63,\\n * sha256:e75971efd344abd8b712d549f3b3a0c7185c8554ac0557c9f2a8a3990c2b4098;\\n * specification NI: ni:///sha-256;zbn4SQ9WNdZOfYKUijH2WcQ_G-RV5xB3nLt4i4nqdEk.\\n * Normative authority and applicability:\\n * source-integrity (line 15): Data source custody, raw-carrier RFC6920,\\n * https://www.rfc-editor.org/rfc/rfc6920, applies to raw-byte addressing and\\n * packet citations: observation/reporting dates differ; original constructor IDs.\\n * source-demand (17): Red Cup Engineering, a48f45313af1e7525041d17ac3ff9a7ccdf24580,\\n * ./behavior.md, applies to this independent issuer owner/supplier. Science's paid\\n * stale-SEC-tag study and scoped companyfacts observations ground the original\\n * Group/Coesite annual AAPL/MSFT offer; no USD20/day forecast or earned revenue.\\n * sec-source (18): US SEC, current API/fair-access docs,\\n * https://www.sec.gov/search-filings/edgar-application-programming-interfaces,\\n * applies to official acquisition: identifying User-Agent and aggregate fair\\n * access; local spacing cannot establish fleet-global coordinator admission.\\n * native-fabrication (19): Red Cup Engineering, computer-systems-fabrication-engine\\n * v0.4.14; jsnode-package v0.5.1-dev.1 source d1e4905,\\n * https://github.com/red-cup-engineering/computer-systems-fabrication-engineering-services-section,\\n * applies to source-free fullmodule derivation/preassay: additional exports are\\n * authorized; pure JSON examples certify no I/O effects; no fake fixture mode.\\n * async-contract-1..7 (20–26): Issuer research Engineering, prepared-cohort design,\\n * ./behavior.md; applies to additional named async interfaces and independent I/O\\n * acceptance. Trusted background preparation validates config/clock, fixes UTC\\n * day, uses sequential single GETs with completed-acquisition spacing, fixed\\n * headers/origin, redirect:error and full acquisition timeout; no retry. Errors\\n * preserve literal Retry-After; bounds apply to actual bytes; fatal UTF8/JSON.\\n * Address actual raw bytes; reuse native kernel and packet supplier. Retain only\\n * compact both-period outputs per source; preserve missing/stale/ambiguous states.\\n * Complete bounded cohort only, no storage write. Existing controller owns\\n * atomic publication, budgets, single EarningClock coordinator and settlement.\\n * Storage consumer reads its trusted key once, bounds actual R2 bytes, never\\n * falls back to SEC or reissues packets. Independent source/storage, deployment\\n * CPU/edge/DO closure and outside customer receiving precede commercial promotion.\\n * source-module-interfaces, source-supplier-closure, source-pure-effects,\\n * source-no-substitutes (27–30): Issuer research Engineering, full module source\\n * contract, ./design.md; mandatory generated-source constraints independently\\n * received under io-receiving, outside JSON case-ID assay. Five named interfaces;\\n * native self-reference is not self-dependency; declared suppliers only. Pure\\n * plan/selector have no implicit clock, network, filesystem, env, credential,\\n * inference, payment, mutation or writes. No duplicate parser/kernel/packet\\n * identity/canonical JSON, broker/rate-limit platform, procurement, hidden retry,\\n * copied raw facts, ranking, prediction, investment instruction or quote conversion.\\n * Requirements v2: configuration(3), acquisition-plan(4), public-request(5),\\n * selector-input(6), cohort-boundary(7), configured-cohort(8), financial-freshness(9),\\n * prepared-packets(10), return-unchanged(11); prohibition no-request-override(13).\\n * Each traces to ALL constraints above, jsnode-modules projection(46–48), and\\n * pure-receiving(50–52): independent positive/counterexample plan/selector tests\\n * for request/config, cache age/future/identity, missing/stale/ambiguity, period\\n * age and packet citations, purity and exact unchanged ready-result return.\\n * io-receiving(50–52) remains separately required: actual headers/URL/redirect/\\n * signal, GET count/spacing, failures/malformed/oversize/timeout/midnight without\\n * partial cache, original-byte NI, kernel/packet reuse, compact bound/private-byte\\n * absence, R2 key/count/bounds, nonsettled unavailable, coordinator/budgets/atomic\\n * storage, deployment closure and independent customer acceptance. No test or\\n * acceptance result is asserted here.\\n * Claims(34–44): bounded-operation; configured count 2..5 and interval >=100ms\\n * are source-owned restrictions, not capacity/quota claims. Dependencies are\\n * measured source candidates: issuer service 0.1.3-dev.1 at a48f453 (not registry\\n * publication), content-address 0.2.0, uri 0.1.3. Received kernel digest\\n * sha256:603fe0d654e3b899f785c51ad9d00c2ca028237ca16988f344aa39e749e9e298\\n * fixes inclusive quarter 70..110 and annual 330..380 calendar days; actual dates,\\n * never fy/fp. Concepts: Revenues, SalesRevenueNet,\\n * RevenueFromContractWithCustomerExcludingAssessedTax under us-gaap USD; eligible\\n * forms 10-Q,10-Q/A,10-K,10-K/A. Supplier implementations remain authoritative.\\n */\\nconst DAY = 86400000;\\nconst kinds = ['quarter', 'annual'];\\nconst record = x => x !== null && typeof x === 'object' && !Array.isArray(x);\\nconst text = x => typeof x === 'string' && x.trim().length > 0;\\nconst positive = x => Number.isSafeInteger(x) && x > 0;\\nconst url = cik => 'https://data.sec.gov/api/xbrl/companyfacts/CIK' + cik + '.json';\\nfunction configurationCheck(c) {\\n  const bad = () => { throw new TypeError('Invalid trusted issuer revenue configuration'); };\\n  if (!record(c) || !Number.isInteger(c.maximumIssuers) || c.maximumIssuers < 2 || c.maximumIssuers > 5) bad();\\n  if (!Array.isArray(c.issuers) || c.issuers.length < 2 || c.issuers.length > c.maximumIssuers) bad();\\n  const seen = new Set();\\n  for (const i of c.issuers) {\\n    if (!record(i) || typeof i.cik !== 'string' || !/^\\\\d{10}$/.test(i.cik) || seen.has(i.cik) || !text(i.ticker)) bad();\\n    seen.add(i.cik);\\n  }\\n  if (!text(c.userAgent) || /[\\\\r\\\\n]/.test(c.userAgent) || !c.userAgent.includes('@')) bad();\\n  for (const key of ['maximumBytes','timeoutMs','maximumSnapshotAgeMs','maximumCohortBytes']) if (!positive(c[key])) bad();\\n  if (!record(c.maximumAgeDays) || !positive(c.maximumAgeDays.quarter) || !positive(c.maximumAgeDays.annual)) bad();\\n  if (!Number.isInteger(c.minimumIntervalMs) || c.minimumIntervalMs < 100 || !text(c.cacheKey)) bad();\\n  if (!Array.isArray(c.allowedPeriodKinds) || !c.allowedPeriodKinds.length || new Set(c.allowedPeriodKinds).size !== c.allowedPeriodKinds.length || !c.allowedPeriodKinds.every(k => kinds.includes(k)) || typeof c.allowAmbiguousEvidence !== 'boolean') bad();\\n}\\nfunction instant(v) {\\n  if (typeof v === 'number' && Number.isFinite(v) && Number.isInteger(v) && Number.isFinite(new Date(v).getTime())) return v;\\n  if (typeof v === 'string' && /^\\\\d{4}-\\\\d{2}-\\\\d{2}T\\\\d{2}:\\\\d{2}:\\\\d{2}\\\\.\\\\d{3}Z$/.test(v)) {\\n    const n = Date.parse(v);\\n    if (Number.isFinite(n) && new Date(n).toISOString() === v) return n;\\n  }\\n  throw new TypeError('Invalid explicit UTC instant');\\n}\\nfunction stamp(n) {\\n  const s = new Date(n).toISOString();\\n  if (!/^\\\\d{4}-/.test(s)) throw new TypeError('UTC instant outside supported calendar');\\n  return s;\\n}\\nfunction observed(v) {\\n  if (typeof v !== 'string') throw new Error('Invalid observation');\\n  return instant(v);\\n}\\nfunction date(v) {\\n  if (typeof v !== 'string' || !/^\\\\d{4}-\\\\d{2}-\\\\d{2}$/.test(v)) throw new Error('Invalid date');\\n  const n = Date.parse(v + 'T00:00:00.000Z');\\n  if (!Number.isFinite(n) || new Date(n).toISOString().slice(0,10) !== v) throw new Error('Invalid date');\\n  return n;\\n}\\nfunction unavailable() {\\n  return Object.assign(new Error('Prepared issuer revenue comparison unavailable'), {code:'issuer-revenue-unavailable',status:503,retryable:true});\\n}\\nfunction sourceError(reason, retryable, retryAfter) {\\n  const e = Object.assign(new Error('Issuer revenue source unavailable: ' + reason), {code:'issuer-revenue-source-unavailable',status:503,retryable,reason});\\n  if (typeof retryAfter === 'string') e.retryAfter = retryAfter;\\n  return e;\\n}\\nfunction demand(v) { if (!v) throw new Error('Invalid prepared boundary'); }\\nfunction ni(v) { return text(v) && isNiUri(v); }\\nfunction comparability(issuers) {\\n  if (!issuers.every(i => i.status === 'current')) return 'unresolved';\\n  const p = issuers[0].period;\\n  return issuers.every(i => i.period && p && i.period.start === p.start && i.period.end === p.end) ? 'aligned-periods' : 'different-periods';\\n}\\nfunction periodCheck(p, kind, asOf, today, maximumAgeDays) {\\n  demand(record(p));\\n  const a = date(p.start), b = date(p.end);\\n  const days = (b-a)/DAY+1;\\n  const [lo,hi] = kind === 'quarter' ? [70,110] : [330,380];\\n  demand(a <= b && b <= asOf && b <= today && p.durationDays === days && days >= lo && days <= hi && (today-b)/DAY <= maximumAgeDays);\\n}\\nfunction samePeriod(a,b) { return a.start === b.start && a.end === b.end && a.durationDays === b.durationDays; }\\n\\n/** Pure trusted configuration validation and bounded official SEC acquisition plan; grants no execution or quota.\\n * @param {*} configuration Host-owned supplier configuration.\\n * @returns {object} Fresh IssuerRevenueAcquisitionPlan.\\n */\\nexport function planIssuerRevenueAcquisition(configuration) {\\n  configurationCheck(configuration);\\n  const c = configuration;\\n  return {type:'IssuerRevenueAcquisitionPlan',version:1,minimumIntervalMs:c.minimumIntervalMs,maximumCohortBytes:c.maximumCohortBytes,requests:c.issuers.map(i => ({cik:i.cik,ticker:i.ticker,url:url(i.cik),headers:{'User-Agent':c.userAgent,Accept:'application/json'},timeoutMs:c.timeoutMs,maximumBytes:c.maximumBytes}))};\\n}\\n\\n/** Validate the only public request field after complete trusted configuration validation; performs no I/O.\\n * @param {*} body Public request record containing only periodKind.\\n * @param {*} configuration Host-owned supplier configuration.\\n * @returns {{periodKind:string}} Fresh admitted request.\\n */\\nexport function validateIssuerRevenueComparisonRequest(body, configuration) {\\n  configurationCheck(configuration);\\n  if (!record(body) || Reflect.ownKeys(body).length !== 1 || !Object.hasOwn(body,'periodKind') || !configuration.allowedPeriodKinds.includes(body.periodKind)) throw new TypeError('Only an explicitly allowed periodKind is admitted');\\n  return {periodKind:body.periodKind};\\n}\\n\\n/** Pure typed cache-boundary and freshness admission; returns the exact selected received result without reissuing evidence.\\n * @param {*} input Explicit body, configuration, cohort and now.\\n * @returns {object} The unchanged admitted IssuerRevenueComparison; otherwise throws.\\n */\\nexport function selectPreparedIssuerRevenueComparison(input) {\\n  const {body,configuration:c,cohort,now} = input ?? {};\\n  const {periodKind:k} = validateIssuerRevenueComparisonRequest(body,c);\\n  const n = instant(now);\\n  const todayString = stamp(n).slice(0,10);\\n  try {\\n    const today = date(todayString);\\n    demand(record(cohort) && cohort.type === 'IssuerRevenuePreparedCohort' && cohort.version === 1);\\n    const t = observed(cohort.observedAt), asOf = date(cohort.asOf);\\n    demand(cohort.asOf === cohort.observedAt.slice(0,10) && t <= n && n-t <= c.maximumSnapshotAgeMs);\\n    demand(record(cohort.results) && Object.hasOwn(cohort.results,'quarter') && Object.hasOwn(cohort.results,'annual'));\\n    const r = cohort.results[k];\\n    demand(record(r) && r.type === 'IssuerRevenueComparison' && r.version === 1 && r.observedAt === cohort.observedAt && r.asOf === cohort.asOf && r.periodKind === k && r.datePolicy === 'filing-date-cutoff-on-received-sources');\\n    demand(Array.isArray(r.issuers) && Array.isArray(r.evidencePackets) && r.issuers.length === c.issuers.length && r.evidencePackets.length === c.issuers.length);\\n    for (let j=0;j<c.issuers.length;j++) {\\n      const configured = c.issuers[j], i = r.issuers[j], p = r.evidencePackets[j];\\n      demand(record(i) && i.type === 'IssuerRevenueReconciliation' && i.version === 1 && i.cik === configured.cik && i.ticker === configured.ticker && i.asOf === cohort.asOf && i.periodKind === k && text(i.issuer) && i.unit === 'USD');\\n      const s = i.source;\\n      demand(record(s) && s.uri === url(configured.cik) && ni(s.digest) && positive(s.bytes) && s.bytes <= c.maximumBytes);\\n      const st = observed(s.observedAt);\\n      demand(st <= t && n-st <= c.maximumSnapshotAgeMs);\\n      demand(i.status === 'current' || (i.status === 'ambiguous' && c.allowAmbiguousEvidence));\\n      demand(Array.isArray(i.witnesses) && i.witnesses.length > 0);\\n      for (const w of i.witnesses) {\\n        periodCheck(w,k,asOf,today,c.maximumAgeDays[k]);\\n        demand(Number.isFinite(w.value) && w.unit === 'USD' && ['10-Q','10-Q/A','10-K','10-K/A'].includes(w.form) && date(w.filed) <= asOf && text(w.accession) && text(w.concept));\\n      }\\n      if (i.status === 'current') demand(Number.isFinite(i.value) && i.period !== null);\\n      else demand(i.value === null && i.revision === 'ambiguous');\\n      if (i.period !== null) {\\n        periodCheck(i.period,k,asOf,today,c.maximumAgeDays[k]);\\n        demand(i.witnesses.every(w => samePeriod(w,i.period)));\\n      } else {\\n        demand(i.status === 'ambiguous' && new Set(i.witnesses.map(w => w.end)).size === 1 && new Set(i.witnesses.map(w => w.start)).size > 1);\\n      }\\n      demand(record(p) && p.type === 'IssuerEvidencePacket' && p.version === 1 && p.ticker === String(configured.ticker).toUpperCase() && p.issuer === i.issuer && p.asOf === r.asOf && ni(p.id) && p.brokerageEffect === false);\\n      demand(Array.isArray(p.sources) && p.sources.length === 1);\\n      const ps = p.sources[0];\\n      demand(record(ps) && ps.uri === s.uri && ps.digest === s.digest && ps.observedAt === s.observedAt);\\n      demand(Array.isArray(p.claims) && p.claims.length > 0 && p.claims.every(cl => record(cl) && text(cl.statement) && Array.isArray(cl.sourceDigests) && cl.sourceDigests.length > 0 && cl.sourceDigests.every(d => d === s.digest)));\\n    }\\n    demand(r.comparability === comparability(r.issuers));\\n    return r;\\n  } catch { throw unavailable(); }\\n}\\n\\nasync function boundedBytes(stream, limit, signal) {\\n  if (!stream || typeof stream.getReader !== 'function') throw new Error('invalid-stream');\\n  const reader = stream.getReader();\\n  const parts = [];\\n  let size = 0;\\n  let rejectAbort;\\n  const aborted = new Promise((_,reject) => { rejectAbort = reject; });\\n  const onAbort = () => {\\n    rejectAbort(signal.reason ?? new Error('timeout'));\\n    Promise.resolve().then(() => reader.cancel(signal.reason)).catch(() => {});\\n  };\\n  if (signal) {\\n    signal.addEventListener('abort',onAbort,{once:true});\\n    if (signal.aborted) onAbort();\\n  }\\n  try {\\n    while (true) {\\n      const item = await (signal ? Promise.race([reader.read(),aborted]) : reader.read());\\n      if (item.done) break;\\n      if (!(item.value instanceof Uint8Array)) throw new Error('invalid-stream');\\n      size += item.value.byteLength;\\n      if (size > limit) {\\n        Promise.resolve().then(() => reader.cancel('byte-overflow')).catch(() => {});\\n        throw new Error('byte-overflow');\\n      }\\n      parts.push(item.value.slice());\\n    }\\n    const bytes = new Uint8Array(size);\\n    let offset = 0;\\n    for (const p of parts) { bytes.set(p,offset); offset += p.byteLength; }\\n    return bytes;\\n  } finally {\\n    if (signal) signal.removeEventListener('abort',onAbort);\\n    try { reader.releaseLock(); } catch {}\\n  }\\n}\\nfunction parseBytes(bytes) { return JSON.parse(new TextDecoder('utf-8',{fatal:true}).decode(bytes)); }\\nasync function ordinarySleep(ms) {\\n  let remaining = ms;\\n  while (remaining > 0) {\\n    const part = Math.min(remaining,2147483647);\\n    await new Promise(resolve => setTimeout(resolve,part));\\n    remaining -= part;\\n  }\\n}\\nasync function acquire(request, fetcher) {\\n  let retryAfter;\\n  let signal;\\n  try {\\n    signal = AbortSignal.timeout(request.timeoutMs);\\n    let response;\\n    const aborted = new Promise((_,reject) => {\\n      const rejectNow = () => reject(signal.reason);\\n      signal.addEventListener('abort',rejectNow,{once:true});\\n    });\\n    response = await Promise.race([Promise.resolve().then(() => fetcher(request.url,{method:'GET',headers:request.headers,redirect:'error',signal})),aborted]);\\n    retryAfter = response.headers?.get?.('Retry-After');\\n    if (response.status !== 200) {\\n      Promise.resolve().then(() => response.body?.cancel()).catch(() => {});\\n      throw sourceError('http-'+String(response.status),response.status === 429 || response.status >= 500,retryAfter);\\n    }\\n    const header = response.headers?.get?.('Content-Length');\\n    if (typeof header === 'string' && /^\\\\d+$/.test(header) && BigInt(header) > BigInt(request.maximumBytes)) {\\n      Promise.resolve().then(() => response.body?.cancel()).catch(() => {});\\n      throw sourceError('byte-overflow',false,retryAfter);\\n    }\\n    const bytes = await boundedBytes(response.body,request.maximumBytes,signal);\\n    signal.throwIfAborted();\\n    return bytes;\\n  } catch (e) {\\n    if (e?.code === 'issuer-revenue-source-unavailable') throw e;\\n    if (signal?.aborted) throw sourceError('timeout',true,retryAfter);\\n    if (e?.message === 'byte-overflow' || e?.message === 'invalid-stream') throw sourceError(e.message,false,retryAfter);\\n    throw sourceError('network',true,retryAfter);\\n  }\\n}\\n\\n/** Prepare one complete compact both-period cohort through trusted sequential official-source acquisition. No cache write or retry.\\n * @param {*} configuration Host-owned supplier configuration.\\n * @param {object} [adapters={}] Trusted fetch, now and sleep adapters.\\n * @returns {Promise<object>} Complete bounded IssuerRevenuePreparedCohort; source refusals throw.\\n */\\nexport async function prepareIssuerRevenueCohort(configuration, adapters = {}) {\\n  const plan = planIssuerRevenueAcquisition(configuration);\\n  if (!record(adapters)) throw new TypeError('Invalid trusted adapters');\\n  const clock = adapters.now ?? Date.now;\\n  const fetcher = adapters.fetch ?? globalThis.fetch;\\n  const sleep = adapters.sleep ?? ordinarySleep;\\n  if (typeof clock !== 'function' || typeof fetcher !== 'function' || typeof sleep !== 'function') throw new TypeError('Invalid trusted adapters');\\n  const started = instant(clock());\\n  const asOf = stamp(started).slice(0,10);\\n  let last = started;\\n  function observation() {\\n    let n, s;\\n    try { n = instant(clock()); s = stamp(n); } catch { throw sourceError('invalid-clock',false); }\\n    if (s.slice(0,10) !== asOf) throw sourceError('utc-day-changed',true);\\n    if (n < last) throw sourceError('clock-regressed',false);\\n    last = n;\\n    return s;\\n  }\\n  const results = {quarter:{issuers:[],evidencePackets:[]},annual:{issuers:[],evidencePackets:[]}};\\n  for (let j=0;j<plan.requests.length;j++) {\\n    if (j > 0) {\\n      try { await sleep(plan.minimumIntervalMs); } catch { throw sourceError('spacing-failed',true); }\\n    }\\n    const request = plan.requests[j];\\n    await (async () => {\\n      const bytes = await acquire(request,fetcher);\\n      const observedAt = observation();\\n      let companyfacts;\\n      try { companyfacts = parseBytes(bytes); } catch { throw sourceError('malformed-source',false); }\\n      let address;\\n      try {\\n        address = await addressContent(bytes,{mediaType:'application/json'});\\n        demand(address.kind === 'semiotic-content.raw-carrier-address' && address.version === 1 && address.algorithm === 'sha-256' && address.size === bytes.byteLength && address.mediaType === 'application/json' && ni(address.ni));\\n      } catch { throw sourceError('invalid-source-address',false); }\\n      const source = {uri:request.url,digest:address.ni,bytes:address.size,observedAt};\\n      for (const periodKind of kinds) {\\n        let kernel;\\n        try { kernel = reconcileIssuerRevenueFacts({cik:request.cik,asOf,periodKind,maximumAgeDays:configuration.maximumAgeDays[periodKind],companyfacts}); } catch { throw sourceError('invalid-source-identity',false); }\\n        const result = {...kernel,ticker:request.ticker,source:{...source}};\\n        const statement = 'Received SEC companyfacts and reconciled '+periodKind+' USD revenue; status='+result.status+'; period='+(result.period ? result.period.start+'..'+result.period.end : 'none')+'; value='+String(result.value)+'; revision='+result.revision+'.';\\n        let packet;\\n        try { packet = await formIssuerEvidencePacket({ticker:request.ticker,issuer:result.issuer,asOf,sources:[{uri:source.uri,observedAt:source.observedAt,digest:source.digest}],claims:[{statement,sourceDigests:[source.digest]}]}); } catch { throw sourceError('packet-construction-failed',false); }\\n        results[periodKind].issuers.push(result);\\n        results[periodKind].evidencePackets.push(packet);\\n      }\\n    })();\\n  }\\n  const observedAt = observation();\\n  for (const periodKind of kinds) {\\n    const compact = results[periodKind];\\n    results[periodKind] = {type:'IssuerRevenueComparison',version:1,observedAt,asOf,periodKind,datePolicy:'filing-date-cutoff-on-received-sources',comparability:comparability(compact.issuers),issuers:compact.issuers,evidencePackets:compact.evidencePackets};\\n  }\\n  const cohort = {type:'IssuerRevenuePreparedCohort',version:1,observedAt,asOf,results};\\n  try {\\n    if (new TextEncoder().encode(JSON.stringify(cohort)).byteLength > configuration.maximumCohortBytes) throw new Error('overflow');\\n  } catch { throw sourceError('compact-output-overflow',false); }\\n  return cohort;\\n}\\n\\n/** Read the trusted prepared cache once and admit its unchanged selected result; no source fallback or storage write.\\n * @param {*} body Public periodKind-only request.\\n * @param {*} env Host environment supplying ISSUER_EVIDENCE.get.\\n * @param {*} configuration Host-owned supplier configuration.\\n * @returns {Promise<object>} Unchanged ready comparison; unavailable cache throws retryable 503.\\n */\\nexport async function readPreparedIssuerRevenueComparison(body, env, configuration) {\\n  const request = validateIssuerRevenueComparisonRequest(body,configuration);\\n  let cohort;\\n  try {\\n    const binding = env?.ISSUER_EVIDENCE;\\n    if (!binding || typeof binding.get !== 'function') throw new Error('missing-binding');\\n    const object = await binding.get(configuration.cacheKey);\\n    if (!object) throw new Error('missing-cache');\\n    if (object.size !== undefined && (!Number.isSafeInteger(object.size) || object.size < 0 || object.size > configuration.maximumCohortBytes)) {\\n      Promise.resolve().then(() => object.body?.cancel()).catch(() => {});\\n      throw new Error('byte-overflow');\\n    }\\n    cohort = parseBytes(await boundedBytes(object.body,configuration.maximumCohortBytes));\\n  } catch { throw unavailable(); }\\n  return selectPreparedIssuerRevenueComparison({body:request,configuration,cohort,now:Date.now()});\\n}\\n\",\"question\":null}",
+                      "tool_calls": []
+                    },
+                    "finish_reason": "unknown"
+                  }
+                ],
+                "usage": {
+                  "prompt_tokens": 48459,
+                  "completion_tokens": 6557
+                }
+              },
+              "endpointClass": "local-command-inference",
+              "configurationIdentity": "ni:///sha-256;l3k78btuNzmvmueURzT7MdqkmwlytwQnwHyX9Emsbxk",
+              "configuration": {
+                "provider": "urn:ame:bare-cedar-fog-codex-inference-team",
+                "model": "default",
+                "endpoint": "command:codex-exec",
+                "executionClass": "local-command-inference",
+                "mode": "assistant-turn:codex-exec:json-envelope:v1"
+              },
+              "selectionRule": "direct-endpoint-customer-ordered-pareto-route-after-a2a-market-residue",
+              "consideration": [
+                {
+                  "kind": "credit",
+                  "asset": "urn:union:consideration:provider-invocation",
+                  "unit": "provider-invocation",
+                  "amount": {
+                    "numerator": "1",
+                    "denominator": "1"
+                  }
+                }
+              ],
+              "declaredResources": [
+                {
+                  "resource": "provider-attention",
+                  "unit": "bounded-lot",
+                  "amount": {
+                    "numerator": "1",
+                    "denominator": "1"
+                  }
+                }
+              ],
+              "measuredResources": {
+                "scope": {
+                  "providerIdentity": "urn:ame:bare-cedar-fog-codex-inference-team",
+                  "accountIdentity": null,
+                  "windowIdentity": null,
+                  "measurementCoverage": "completed-exchanges"
+                },
+                "resources": [
+                  {
+                    "resource": "requests",
+                    "unit": "request",
+                    "amount": {
+                      "numerator": "1",
+                      "denominator": "1"
+                    }
+                  },
+                  {
+                    "resource": "input-tokens",
+                    "unit": "token",
+                    "amount": {
+                      "numerator": "48459",
+                      "denominator": "1"
+                    }
+                  },
+                  {
+                    "resource": "output-tokens",
+                    "unit": "token",
+                    "amount": {
+                      "numerator": "6557",
+                      "denominator": "1"
+                    }
+                  },
+                  {
+                    "resource": "duration",
+                    "unit": "millisecond",
+                    "amount": {
+                      "numerator": "113377",
+                      "denominator": "1"
+                    }
+                  }
+                ],
+                "partialResources": [],
+                "callerObservedResources": [],
+                "uncertainty": [
+                  "total-token-usage-incomplete",
+                  "provider-reported-cost-incomplete",
+                  "account-window-identity-unknown"
+                ]
+              },
+              "settlement": "none-direct-endpoint-lane-carries-no-signed-compact-or-chain-settlement",
+              "durationMs": 113377,
+              "providerEvidence": {
+                "outputs": [
+                  {
+                    "id": "exchange-20261024-192809-3b4669",
+                    "object": "chat.completion",
+                    "model": "default",
+                    "choices": [
+                      {
+                        "index": 0,
+                        "message": {
+                          "role": "assistant",
+                          "content": "{\"source\":\"import { formIssuerEvidencePacket } from '@red-cup-engineering/issuer-research-media-service';\\nimport { reconcileIssuerRevenueFacts } from '@red-cup-engineering/issuer-research-media-service/revenue-reconciliation';\\nimport { addressContent } from '@red-cup-engineering/computer-content-address-engineering-services-section/content-address';\\nimport { isNiUri } from '@red-cup-engineering/uri-services-section/ni-uri';\\n\\n/*\\n * src/prepared-cohort.mjs — issuer-revenue-prepared-cohort, specification v2.\\n * Source: specifications/prepared-cohort.work-order.md:1–63,\\n * sha256:e75971efd344abd8b712d549f3b3a0c7185c8554ac0557c9f2a8a3990c2b4098;\\n * specification NI: ni:///sha-256;zbn4SQ9WNdZOfYKUijH2WcQ_G-RV5xB3nLt4i4nqdEk.\\n * Normative authority and applicability:\\n * source-integrity (line 15): Data source custody, raw-carrier RFC6920,\\n * https://www.rfc-editor.org/rfc/rfc6920, applies to raw-byte addressing and\\n * packet citations: observation/reporting dates differ; original constructor IDs.\\n * source-demand (17): Red Cup Engineering, a48f45313af1e7525041d17ac3ff9a7ccdf24580,\\n * ./behavior.md, applies to this independent issuer owner/supplier. Science's paid\\n * stale-SEC-tag study and scoped companyfacts observations ground the original\\n * Group/Coesite annual AAPL/MSFT offer; no USD20/day forecast or earned revenue.\\n * sec-source (18): US SEC, current API/fair-access docs,\\n * https://www.sec.gov/search-filings/edgar-application-programming-interfaces,\\n * applies to official acquisition: identifying User-Agent and aggregate fair\\n * access; local spacing cannot establish fleet-global coordinator admission.\\n * native-fabrication (19): Red Cup Engineering, computer-systems-fabrication-engine\\n * v0.4.14; jsnode-package v0.5.1-dev.1 source d1e4905,\\n * https://github.com/red-cup-engineering/computer-systems-fabrication-engineering-services-section,\\n * applies to source-free fullmodule derivation/preassay: additional exports are\\n * authorized; pure JSON examples certify no I/O effects; no fake fixture mode.\\n * async-contract-1..7 (20–26): Issuer research Engineering, prepared-cohort design,\\n * ./behavior.md; applies to additional named async interfaces and independent I/O\\n * acceptance. Trusted background preparation validates config/clock, fixes UTC\\n * day, uses sequential single GETs with completed-acquisition spacing, fixed\\n * headers/origin, redirect:error and full acquisition timeout; no retry. Errors\\n * preserve literal Retry-After; bounds apply to actual bytes; fatal UTF8/JSON.\\n * Address actual raw bytes; reuse native kernel and packet supplier. Retain only\\n * compact both-period outputs per source; preserve missing/stale/ambiguous states.\\n * Complete bounded cohort only, no storage write. Existing controller owns\\n * atomic publication, budgets, single EarningClock coordinator and settlement.\\n * Storage consumer reads its trusted key once, bounds actual R2 bytes, never\\n * falls back to SEC or reissues packets. Independent source/storage, deployment\\n * CPU/edge/DO closure and outside customer receiving precede commercial promotion.\\n * source-module-interfaces, source-supplier-closure, source-pure-effects,\\n * source-no-substitutes (27–30): Issuer research Engineering, full module source\\n * contract, ./design.md; mandatory generated-source constraints independently\\n * received under io-receiving, outside JSON case-ID assay. Five named interfaces;\\n * native self-reference is not self-dependency; declared suppliers only. Pure\\n * plan/selector have no implicit clock, network, filesystem, env, credential,\\n * inference, payment, mutation or writes. No duplicate parser/kernel/packet\\n * identity/canonical JSON, broker/rate-limit platform, procurement, hidden retry,\\n * copied raw facts, ranking, prediction, investment instruction or quote conversion.\\n * Requirements v2: configuration(3), acquisition-plan(4), public-request(5),\\n * selector-input(6), cohort-boundary(7), configured-cohort(8), financial-freshness(9),\\n * prepared-packets(10), return-unchanged(11); prohibition no-request-override(13).\\n * Each traces to ALL constraints above, jsnode-modules projection(46–48), and\\n * pure-receiving(50–52): independent positive/counterexample plan/selector tests\\n * for request/config, cache age/future/identity, missing/stale/ambiguity, period\\n * age and packet citations, purity and exact unchanged ready-result return.\\n * io-receiving(50–52) remains separately required: actual headers/URL/redirect/\\n * signal, GET count/spacing, failures/malformed/oversize/timeout/midnight without\\n * partial cache, original-byte NI, kernel/packet reuse, compact bound/private-byte\\n * absence, R2 key/count/bounds, nonsettled unavailable, coordinator/budgets/atomic\\n * storage, deployment closure and independent customer acceptance. No test or\\n * acceptance result is asserted here.\\n * Claims(34–44): bounded-operation; configured count 2..5 and interval >=100ms\\n * are source-owned restrictions, not capacity/quota claims. Dependencies are\\n * measured source candidates: issuer service 0.1.3-dev.1 at a48f453 (not registry\\n * publication), content-address 0.2.0, uri 0.1.3. Received kernel digest\\n * sha256:603fe0d654e3b899f785c51ad9d00c2ca028237ca16988f344aa39e749e9e298\\n * fixes inclusive quarter 70..110 and annual 330..380 calendar days; actual dates,\\n * never fy/fp. Concepts: Revenues, SalesRevenueNet,\\n * RevenueFromContractWithCustomerExcludingAssessedTax under us-gaap USD; eligible\\n * forms 10-Q,10-Q/A,10-K,10-K/A. Supplier implementations remain authoritative.\\n */\\nconst DAY = 86400000;\\nconst kinds = ['quarter', 'annual'];\\nconst record = x => x !== null && typeof x === 'object' && !Array.isArray(x);\\nconst text = x => typeof x === 'string' && x.trim().length > 0;\\nconst positive = x => Number.isSafeInteger(x) && x > 0;\\nconst url = cik => 'https://data.sec.gov/api/xbrl/companyfacts/CIK' + cik + '.json';\\nfunction configurationCheck(c) {\\n  const bad = () => { throw new TypeError('Invalid trusted issuer revenue configuration'); };\\n  if (!record(c) || !Number.isInteger(c.maximumIssuers) || c.maximumIssuers < 2 || c.maximumIssuers > 5) bad();\\n  if (!Array.isArray(c.issuers) || c.issuers.length < 2 || c.issuers.length > c.maximumIssuers) bad();\\n  const seen = new Set();\\n  for (const i of c.issuers) {\\n    if (!record(i) || typeof i.cik !== 'string' || !/^\\\\d{10}$/.test(i.cik) || seen.has(i.cik) || !text(i.ticker)) bad();\\n    seen.add(i.cik);\\n  }\\n  if (!text(c.userAgent) || /[\\\\r\\\\n]/.test(c.userAgent) || !c.userAgent.includes('@')) bad();\\n  for (const key of ['maximumBytes','timeoutMs','maximumSnapshotAgeMs','maximumCohortBytes']) if (!positive(c[key])) bad();\\n  if (!record(c.maximumAgeDays) || !positive(c.maximumAgeDays.quarter) || !positive(c.maximumAgeDays.annual)) bad();\\n  if (!Number.isInteger(c.minimumIntervalMs) || c.minimumIntervalMs < 100 || !text(c.cacheKey)) bad();\\n  if (!Array.isArray(c.allowedPeriodKinds) || !c.allowedPeriodKinds.length || new Set(c.allowedPeriodKinds).size !== c.allowedPeriodKinds.length || !c.allowedPeriodKinds.every(k => kinds.includes(k)) || typeof c.allowAmbiguousEvidence !== 'boolean') bad();\\n}\\nfunction instant(v) {\\n  if (typeof v === 'number' && Number.isFinite(v) && Number.isInteger(v) && Number.isFinite(new Date(v).getTime())) return v;\\n  if (typeof v === 'string' && /^\\\\d{4}-\\\\d{2}-\\\\d{2}T\\\\d{2}:\\\\d{2}:\\\\d{2}\\\\.\\\\d{3}Z$/.test(v)) {\\n    const n = Date.parse(v);\\n    if (Number.isFinite(n) && new Date(n).toISOString() === v) return n;\\n  }\\n  throw new TypeError('Invalid explicit UTC instant');\\n}\\nfunction stamp(n) {\\n  const s = new Date(n).toISOString();\\n  if (!/^\\\\d{4}-/.test(s)) throw new TypeError('UTC instant outside supported calendar');\\n  return s;\\n}\\nfunction observed(v) {\\n  if (typeof v !== 'string') throw new Error('Invalid observation');\\n  return instant(v);\\n}\\nfunction date(v) {\\n  if (typeof v !== 'string' || !/^\\\\d{4}-\\\\d{2}-\\\\d{2}$/.test(v)) throw new Error('Invalid date');\\n  const n = Date.parse(v + 'T00:00:00.000Z');\\n  if (!Number.isFinite(n) || new Date(n).toISOString().slice(0,10) !== v) throw new Error('Invalid date');\\n  return n;\\n}\\nfunction unavailable() {\\n  return Object.assign(new Error('Prepared issuer revenue comparison unavailable'), {code:'issuer-revenue-unavailable',status:503,retryable:true});\\n}\\nfunction sourceError(reason, retryable, retryAfter) {\\n  const e = Object.assign(new Error('Issuer revenue source unavailable: ' + reason), {code:'issuer-revenue-source-unavailable',status:503,retryable,reason});\\n  if (typeof retryAfter === 'string') e.retryAfter = retryAfter;\\n  return e;\\n}\\nfunction demand(v) { if (!v) throw new Error('Invalid prepared boundary'); }\\nfunction ni(v) { return text(v) && isNiUri(v); }\\nfunction comparability(issuers) {\\n  if (!issuers.every(i => i.status === 'current')) return 'unresolved';\\n  const p = issuers[0].period;\\n  return issuers.every(i => i.period && p && i.period.start === p.start && i.period.end === p.end) ? 'aligned-periods' : 'different-periods';\\n}\\nfunction periodCheck(p, kind, asOf, today, maximumAgeDays) {\\n  demand(record(p));\\n  const a = date(p.start), b = date(p.end);\\n  const days = (b-a)/DAY+1;\\n  const [lo,hi] = kind === 'quarter' ? [70,110] : [330,380];\\n  demand(a <= b && b <= asOf && b <= today && p.durationDays === days && days >= lo && days <= hi && (today-b)/DAY <= maximumAgeDays);\\n}\\nfunction samePeriod(a,b) { return a.start === b.start && a.end === b.end && a.durationDays === b.durationDays; }\\n\\n/** Pure trusted configuration validation and bounded official SEC acquisition plan; grants no execution or quota.\\n * @param {*} configuration Host-owned supplier configuration.\\n * @returns {object} Fresh IssuerRevenueAcquisitionPlan.\\n */\\nexport function planIssuerRevenueAcquisition(configuration) {\\n  configurationCheck(configuration);\\n  const c = configuration;\\n  return {type:'IssuerRevenueAcquisitionPlan',version:1,minimumIntervalMs:c.minimumIntervalMs,maximumCohortBytes:c.maximumCohortBytes,requests:c.issuers.map(i => ({cik:i.cik,ticker:i.ticker,url:url(i.cik),headers:{'User-Agent':c.userAgent,Accept:'application/json'},timeoutMs:c.timeoutMs,maximumBytes:c.maximumBytes}))};\\n}\\n\\n/** Validate the only public request field after complete trusted configuration validation; performs no I/O.\\n * @param {*} body Public request record containing only periodKind.\\n * @param {*} configuration Host-owned supplier configuration.\\n * @returns {{periodKind:string}} Fresh admitted request.\\n */\\nexport function validateIssuerRevenueComparisonRequest(body, configuration) {\\n  configurationCheck(configuration);\\n  if (!record(body) || Reflect.ownKeys(body).length !== 1 || !Object.hasOwn(body,'periodKind') || !configuration.allowedPeriodKinds.includes(body.periodKind)) throw new TypeError('Only an explicitly allowed periodKind is admitted');\\n  return {periodKind:body.periodKind};\\n}\\n\\n/** Pure typed cache-boundary and freshness admission; returns the exact selected received result without reissuing evidence.\\n * @param {*} input Explicit body, configuration, cohort and now.\\n * @returns {object} The unchanged admitted IssuerRevenueComparison; otherwise throws.\\n */\\nexport function selectPreparedIssuerRevenueComparison(input) {\\n  const {body,configuration:c,cohort,now} = input ?? {};\\n  const {periodKind:k} = validateIssuerRevenueComparisonRequest(body,c);\\n  const n = instant(now);\\n  const todayString = stamp(n).slice(0,10);\\n  try {\\n    const today = date(todayString);\\n    demand(record(cohort) && cohort.type === 'IssuerRevenuePreparedCohort' && cohort.version === 1);\\n    const t = observed(cohort.observedAt), asOf = date(cohort.asOf);\\n    demand(cohort.asOf === cohort.observedAt.slice(0,10) && t <= n && n-t <= c.maximumSnapshotAgeMs);\\n    demand(record(cohort.results) && Object.hasOwn(cohort.results,'quarter') && Object.hasOwn(cohort.results,'annual'));\\n    const r = cohort.results[k];\\n    demand(record(r) && r.type === 'IssuerRevenueComparison' && r.version === 1 && r.observedAt === cohort.observedAt && r.asOf === cohort.asOf && r.periodKind === k && r.datePolicy === 'filing-date-cutoff-on-received-sources');\\n    demand(Array.isArray(r.issuers) && Array.isArray(r.evidencePackets) && r.issuers.length === c.issuers.length && r.evidencePackets.length === c.issuers.length);\\n    for (let j=0;j<c.issuers.length;j++) {\\n      const configured = c.issuers[j], i = r.issuers[j], p = r.evidencePackets[j];\\n      demand(record(i) && i.type === 'IssuerRevenueReconciliation' && i.version === 1 && i.cik === configured.cik && i.ticker === configured.ticker && i.asOf === cohort.asOf && i.periodKind === k && text(i.issuer) && i.unit === 'USD');\\n      const s = i.source;\\n      demand(record(s) && s.uri === url(configured.cik) && ni(s.digest) && positive(s.bytes) && s.bytes <= c.maximumBytes);\\n      const st = observed(s.observedAt);\\n      demand(st <= t && n-st <= c.maximumSnapshotAgeMs);\\n      demand(i.status === 'current' || (i.status === 'ambiguous' && c.allowAmbiguousEvidence));\\n      demand(Array.isArray(i.witnesses) && i.witnesses.length > 0);\\n      for (const w of i.witnesses) {\\n        periodCheck(w,k,asOf,today,c.maximumAgeDays[k]);\\n        demand(Number.isFinite(w.value) && w.unit === 'USD' && ['10-Q','10-Q/A','10-K','10-K/A'].includes(w.form) && date(w.filed) <= asOf && text(w.accession) && text(w.concept));\\n      }\\n      if (i.status === 'current') demand(Number.isFinite(i.value) && i.period !== null);\\n      else demand(i.value === null && i.revision === 'ambiguous');\\n      if (i.period !== null) {\\n        periodCheck(i.period,k,asOf,today,c.maximumAgeDays[k]);\\n        demand(i.witnesses.every(w => samePeriod(w,i.period)));\\n      } else {\\n        demand(i.status === 'ambiguous' && new Set(i.witnesses.map(w => w.end)).size === 1 && new Set(i.witnesses.map(w => w.start)).size > 1);\\n      }\\n      demand(record(p) && p.type === 'IssuerEvidencePacket' && p.version === 1 && p.ticker === String(configured.ticker).toUpperCase() && p.issuer === i.issuer && p.asOf === r.asOf && ni(p.id) && p.brokerageEffect === false);\\n      demand(Array.isArray(p.sources) && p.sources.length === 1);\\n      const ps = p.sources[0];\\n      demand(record(ps) && ps.uri === s.uri && ps.digest === s.digest && ps.observedAt === s.observedAt);\\n      demand(Array.isArray(p.claims) && p.claims.length > 0 && p.claims.every(cl => record(cl) && text(cl.statement) && Array.isArray(cl.sourceDigests) && cl.sourceDigests.length > 0 && cl.sourceDigests.every(d => d === s.digest)));\\n    }\\n    demand(r.comparability === comparability(r.issuers));\\n    return r;\\n  } catch { throw unavailable(); }\\n}\\n\\nasync function boundedBytes(stream, limit, signal) {\\n  if (!stream || typeof stream.getReader !== 'function') throw new Error('invalid-stream');\\n  const reader = stream.getReader();\\n  const parts = [];\\n  let size = 0;\\n  let rejectAbort;\\n  const aborted = new Promise((_,reject) => { rejectAbort = reject; });\\n  const onAbort = () => {\\n    rejectAbort(signal.reason ?? new Error('timeout'));\\n    Promise.resolve().then(() => reader.cancel(signal.reason)).catch(() => {});\\n  };\\n  if (signal) {\\n    signal.addEventListener('abort',onAbort,{once:true});\\n    if (signal.aborted) onAbort();\\n  }\\n  try {\\n    while (true) {\\n      const item = await (signal ? Promise.race([reader.read(),aborted]) : reader.read());\\n      if (item.done) break;\\n      if (!(item.value instanceof Uint8Array)) throw new Error('invalid-stream');\\n      size += item.value.byteLength;\\n      if (size > limit) {\\n        Promise.resolve().then(() => reader.cancel('byte-overflow')).catch(() => {});\\n        throw new Error('byte-overflow');\\n      }\\n      parts.push(item.value.slice());\\n    }\\n    const bytes = new Uint8Array(size);\\n    let offset = 0;\\n    for (const p of parts) { bytes.set(p,offset); offset += p.byteLength; }\\n    return bytes;\\n  } finally {\\n    if (signal) signal.removeEventListener('abort',onAbort);\\n    try { reader.releaseLock(); } catch {}\\n  }\\n}\\nfunction parseBytes(bytes) { return JSON.parse(new TextDecoder('utf-8',{fatal:true}).decode(bytes)); }\\nasync function ordinarySleep(ms) {\\n  let remaining = ms;\\n  while (remaining > 0) {\\n    const part = Math.min(remaining,2147483647);\\n    await new Promise(resolve => setTimeout(resolve,part));\\n    remaining -= part;\\n  }\\n}\\nasync function acquire(request, fetcher) {\\n  let retryAfter;\\n  let signal;\\n  try {\\n    signal = AbortSignal.timeout(request.timeoutMs);\\n    let response;\\n    const aborted = new Promise((_,reject) => {\\n      const rejectNow = () => reject(signal.reason);\\n      signal.addEventListener('abort',rejectNow,{once:true});\\n    });\\n    response = await Promise.race([Promise.resolve().then(() => fetcher(request.url,{method:'GET',headers:request.headers,redirect:'error',signal})),aborted]);\\n    retryAfter = response.headers?.get?.('Retry-After');\\n    if (response.status !== 200) {\\n      Promise.resolve().then(() => response.body?.cancel()).catch(() => {});\\n      throw sourceError('http-'+String(response.status),response.status === 429 || response.status >= 500,retryAfter);\\n    }\\n    const header = response.headers?.get?.('Content-Length');\\n    if (typeof header === 'string' && /^\\\\d+$/.test(header) && BigInt(header) > BigInt(request.maximumBytes)) {\\n      Promise.resolve().then(() => response.body?.cancel()).catch(() => {});\\n      throw sourceError('byte-overflow',false,retryAfter);\\n    }\\n    const bytes = await boundedBytes(response.body,request.maximumBytes,signal);\\n    signal.throwIfAborted();\\n    return bytes;\\n  } catch (e) {\\n    if (e?.code === 'issuer-revenue-source-unavailable') throw e;\\n    if (signal?.aborted) throw sourceError('timeout',true,retryAfter);\\n    if (e?.message === 'byte-overflow' || e?.message === 'invalid-stream') throw sourceError(e.message,false,retryAfter);\\n    throw sourceError('network',true,retryAfter);\\n  }\\n}\\n\\n/** Prepare one complete compact both-period cohort through trusted sequential official-source acquisition. No cache write or retry.\\n * @param {*} configuration Host-owned supplier configuration.\\n * @param {object} [adapters={}] Trusted fetch, now and sleep adapters.\\n * @returns {Promise<object>} Complete bounded IssuerRevenuePreparedCohort; source refusals throw.\\n */\\nexport async function prepareIssuerRevenueCohort(configuration, adapters = {}) {\\n  const plan = planIssuerRevenueAcquisition(configuration);\\n  if (!record(adapters)) throw new TypeError('Invalid trusted adapters');\\n  const clock = adapters.now ?? Date.now;\\n  const fetcher = adapters.fetch ?? globalThis.fetch;\\n  const sleep = adapters.sleep ?? ordinarySleep;\\n  if (typeof clock !== 'function' || typeof fetcher !== 'function' || typeof sleep !== 'function') throw new TypeError('Invalid trusted adapters');\\n  const started = instant(clock());\\n  const asOf = stamp(started).slice(0,10);\\n  let last = started;\\n  function observation() {\\n    let n, s;\\n    try { n = instant(clock()); s = stamp(n); } catch { throw sourceError('invalid-clock',false); }\\n    if (s.slice(0,10) !== asOf) throw sourceError('utc-day-changed',true);\\n    if (n < last) throw sourceError('clock-regressed',false);\\n    last = n;\\n    return s;\\n  }\\n  const results = {quarter:{issuers:[],evidencePackets:[]},annual:{issuers:[],evidencePackets:[]}};\\n  for (let j=0;j<plan.requests.length;j++) {\\n    if (j > 0) {\\n      try { await sleep(plan.minimumIntervalMs); } catch { throw sourceError('spacing-failed',true); }\\n    }\\n    const request = plan.requests[j];\\n    await (async () => {\\n      const bytes = await acquire(request,fetcher);\\n      const observedAt = observation();\\n      let companyfacts;\\n      try { companyfacts = parseBytes(bytes); } catch { throw sourceError('malformed-source',false); }\\n      let address;\\n      try {\\n        address = await addressContent(bytes,{mediaType:'application/json'});\\n        demand(address.kind === 'semiotic-content.raw-carrier-address' && address.version === 1 && address.algorithm === 'sha-256' && address.size === bytes.byteLength && address.mediaType === 'application/json' && ni(address.ni));\\n      } catch { throw sourceError('invalid-source-address',false); }\\n      const source = {uri:request.url,digest:address.ni,bytes:address.size,observedAt};\\n      for (const periodKind of kinds) {\\n        let kernel;\\n        try { kernel = reconcileIssuerRevenueFacts({cik:request.cik,asOf,periodKind,maximumAgeDays:configuration.maximumAgeDays[periodKind],companyfacts}); } catch { throw sourceError('invalid-source-identity',false); }\\n        const result = {...kernel,ticker:request.ticker,source:{...source}};\\n        const statement = 'Received SEC companyfacts and reconciled '+periodKind+' USD revenue; status='+result.status+'; period='+(result.period ? result.period.start+'..'+result.period.end : 'none')+'; value='+String(result.value)+'; revision='+result.revision+'.';\\n        let packet;\\n        try { packet = await formIssuerEvidencePacket({ticker:request.ticker,issuer:result.issuer,asOf,sources:[{uri:source.uri,observedAt:source.observedAt,digest:source.digest}],claims:[{statement,sourceDigests:[source.digest]}]}); } catch { throw sourceError('packet-construction-failed',false); }\\n        results[periodKind].issuers.push(result);\\n        results[periodKind].evidencePackets.push(packet);\\n      }\\n    })();\\n  }\\n  const observedAt = observation();\\n  for (const periodKind of kinds) {\\n    const compact = results[periodKind];\\n    results[periodKind] = {type:'IssuerRevenueComparison',version:1,observedAt,asOf,periodKind,datePolicy:'filing-date-cutoff-on-received-sources',comparability:comparability(compact.issuers),issuers:compact.issuers,evidencePackets:compact.evidencePackets};\\n  }\\n  const cohort = {type:'IssuerRevenuePreparedCohort',version:1,observedAt,asOf,results};\\n  try {\\n    if (new TextEncoder().encode(JSON.stringify(cohort)).byteLength > configuration.maximumCohortBytes) throw new Error('overflow');\\n  } catch { throw sourceError('compact-output-overflow',false); }\\n  return cohort;\\n}\\n\\n/** Read the trusted prepared cache once and admit its unchanged selected result; no source fallback or storage write.\\n * @param {*} body Public periodKind-only request.\\n * @param {*} env Host environment supplying ISSUER_EVIDENCE.get.\\n * @param {*} configuration Host-owned supplier configuration.\\n * @returns {Promise<object>} Unchanged ready comparison; unavailable cache throws retryable 503.\\n */\\nexport async function readPreparedIssuerRevenueComparison(body, env, configuration) {\\n  const request = validateIssuerRevenueComparisonRequest(body,configuration);\\n  let cohort;\\n  try {\\n    const binding = env?.ISSUER_EVIDENCE;\\n    if (!binding || typeof binding.get !== 'function') throw new Error('missing-binding');\\n    const object = await binding.get(configuration.cacheKey);\\n    if (!object) throw new Error('missing-cache');\\n    if (object.size !== undefined && (!Number.isSafeInteger(object.size) || object.size < 0 || object.size > configuration.maximumCohortBytes)) {\\n      Promise.resolve().then(() => object.body?.cancel()).catch(() => {});\\n      throw new Error('byte-overflow');\\n    }\\n    cohort = parseBytes(await boundedBytes(object.body,configuration.maximumCohortBytes));\\n  } catch { throw unavailable(); }\\n  return selectPreparedIssuerRevenueComparison({body:request,configuration,cohort,now:Date.now()});\\n}\\n\",\"question\":null}",
+                          "tool_calls": []
+                        },
+                        "finish_reason": "unknown"
+                      }
+                    ],
+                    "usage": {
+                      "prompt_tokens": 48459,
+                      "completion_tokens": 6557
+                    }
+                  }
+                ],
+                "toolInvocations": [],
+                "exchanges": [
+                  {
+                    "finishReason": "unknown",
+                    "usage": {
+                      "promptTokens": 48459,
+                      "outputTokens": 6557,
+                      "totalTokens": null,
+                      "reportedCost": null
+                    },
+                    "message": {
+                      "role": "assistant",
+                      "content": "{\"source\":\"import { formIssuerEvidencePacket } from '@red-cup-engineering/issuer-research-media-service';\\nimport { reconcileIssuerRevenueFacts } from '@red-cup-engineering/issuer-research-media-service/revenue-reconciliation';\\nimport { addressContent } from '@red-cup-engineering/computer-content-address-engineering-services-section/content-address';\\nimport { isNiUri } from '@red-cup-engineering/uri-services-section/ni-uri';\\n\\n/*\\n * src/prepared-cohort.mjs — issuer-revenue-prepared-cohort, specification v2.\\n * Source: specifications/prepared-cohort.work-order.md:1–63,\\n * sha256:e75971efd344abd8b712d549f3b3a0c7185c8554ac0557c9f2a8a3990c2b4098;\\n * specification NI: ni:///sha-256;zbn4SQ9WNdZOfYKUijH2WcQ_G-RV5xB3nLt4i4nqdEk.\\n * Normative authority and applicability:\\n * source-integrity (line 15): Data source custody, raw-carrier RFC6920,\\n * https://www.rfc-editor.org/rfc/rfc6920, applies to raw-byte addressing and\\n * packet citations: observation/reporting dates differ; original constructor IDs.\\n * source-demand (17): Red Cup Engineering, a48f45313af1e7525041d17ac3ff9a7ccdf24580,\\n * ./behavior.md, applies to this independent issuer owner/supplier. Science's paid\\n * stale-SEC-tag study and scoped companyfacts observations ground the original\\n * Group/Coesite annual AAPL/MSFT offer; no USD20/day forecast or earned revenue.\\n * sec-source (18): US SEC, current API/fair-access docs,\\n * https://www.sec.gov/search-filings/edgar-application-programming-interfaces,\\n * applies to official acquisition: identifying User-Agent and aggregate fair\\n * access; local spacing cannot establish fleet-global coordinator admission.\\n * native-fabrication (19): Red Cup Engineering, computer-systems-fabrication-engine\\n * v0.4.14; jsnode-package v0.5.1-dev.1 source d1e4905,\\n * https://github.com/red-cup-engineering/computer-systems-fabrication-engineering-services-section,\\n * applies to source-free fullmodule derivation/preassay: additional exports are\\n * authorized; pure JSON examples certify no I/O effects; no fake fixture mode.\\n * async-contract-1..7 (20–26): Issuer research Engineering, prepared-cohort design,\\n * ./behavior.md; applies to additional named async interfaces and independent I/O\\n * acceptance. Trusted background preparation validates config/clock, fixes UTC\\n * day, uses sequential single GETs with completed-acquisition spacing, fixed\\n * headers/origin, redirect:error and full acquisition timeout; no retry. Errors\\n * preserve literal Retry-After; bounds apply to actual bytes; fatal UTF8/JSON.\\n * Address actual raw bytes; reuse native kernel and packet supplier. Retain only\\n * compact both-period outputs per source; preserve missing/stale/ambiguous states.\\n * Complete bounded cohort only, no storage write. Existing controller owns\\n * atomic publication, budgets, single EarningClock coordinator and settlement.\\n * Storage consumer reads its trusted key once, bounds actual R2 bytes, never\\n * falls back to SEC or reissues packets. Independent source/storage, deployment\\n * CPU/edge/DO closure and outside customer receiving precede commercial promotion.\\n * source-module-interfaces, source-supplier-closure, source-pure-effects,\\n * source-no-substitutes (27–30): Issuer research Engineering, full module source\\n * contract, ./design.md; mandatory generated-source constraints independently\\n * received under io-receiving, outside JSON case-ID assay. Five named interfaces;\\n * native self-reference is not self-dependency; declared suppliers only. Pure\\n * plan/selector have no implicit clock, network, filesystem, env, credential,\\n * inference, payment, mutation or writes. No duplicate parser/kernel/packet\\n * identity/canonical JSON, broker/rate-limit platform, procurement, hidden retry,\\n * copied raw facts, ranking, prediction, investment instruction or quote conversion.\\n * Requirements v2: configuration(3), acquisition-plan(4), public-request(5),\\n * selector-input(6), cohort-boundary(7), configured-cohort(8), financial-freshness(9),\\n * prepared-packets(10), return-unchanged(11); prohibition no-request-override(13).\\n * Each traces to ALL constraints above, jsnode-modules projection(46–48), and\\n * pure-receiving(50–52): independent positive/counterexample plan/selector tests\\n * for request/config, cache age/future/identity, missing/stale/ambiguity, period\\n * age and packet citations, purity and exact unchanged ready-result return.\\n * io-receiving(50–52) remains separately required: actual headers/URL/redirect/\\n * signal, GET count/spacing, failures/malformed/oversize/timeout/midnight without\\n * partial cache, original-byte NI, kernel/packet reuse, compact bound/private-byte\\n * absence, R2 key/count/bounds, nonsettled unavailable, coordinator/budgets/atomic\\n * storage, deployment closure and independent customer acceptance. No test or\\n * acceptance result is asserted here.\\n * Claims(34–44): bounded-operation; configured count 2..5 and interval >=100ms\\n * are source-owned restrictions, not capacity/quota claims. Dependencies are\\n * measured source candidates: issuer service 0.1.3-dev.1 at a48f453 (not registry\\n * publication), content-address 0.2.0, uri 0.1.3. Received kernel digest\\n * sha256:603fe0d654e3b899f785c51ad9d00c2ca028237ca16988f344aa39e749e9e298\\n * fixes inclusive quarter 70..110 and annual 330..380 calendar days; actual dates,\\n * never fy/fp. Concepts: Revenues, SalesRevenueNet,\\n * RevenueFromContractWithCustomerExcludingAssessedTax under us-gaap USD; eligible\\n * forms 10-Q,10-Q/A,10-K,10-K/A. Supplier implementations remain authoritative.\\n */\\nconst DAY = 86400000;\\nconst kinds = ['quarter', 'annual'];\\nconst record = x => x !== null && typeof x === 'object' && !Array.isArray(x);\\nconst text = x => typeof x === 'string' && x.trim().length > 0;\\nconst positive = x => Number.isSafeInteger(x) && x > 0;\\nconst url = cik => 'https://data.sec.gov/api/xbrl/companyfacts/CIK' + cik + '.json';\\nfunction configurationCheck(c) {\\n  const bad = () => { throw new TypeError('Invalid trusted issuer revenue configuration'); };\\n  if (!record(c) || !Number.isInteger(c.maximumIssuers) || c.maximumIssuers < 2 || c.maximumIssuers > 5) bad();\\n  if (!Array.isArray(c.issuers) || c.issuers.length < 2 || c.issuers.length > c.maximumIssuers) bad();\\n  const seen = new Set();\\n  for (const i of c.issuers) {\\n    if (!record(i) || typeof i.cik !== 'string' || !/^\\\\d{10}$/.test(i.cik) || seen.has(i.cik) || !text(i.ticker)) bad();\\n    seen.add(i.cik);\\n  }\\n  if (!text(c.userAgent) || /[\\\\r\\\\n]/.test(c.userAgent) || !c.userAgent.includes('@')) bad();\\n  for (const key of ['maximumBytes','timeoutMs','maximumSnapshotAgeMs','maximumCohortBytes']) if (!positive(c[key])) bad();\\n  if (!record(c.maximumAgeDays) || !positive(c.maximumAgeDays.quarter) || !positive(c.maximumAgeDays.annual)) bad();\\n  if (!Number.isInteger(c.minimumIntervalMs) || c.minimumIntervalMs < 100 || !text(c.cacheKey)) bad();\\n  if (!Array.isArray(c.allowedPeriodKinds) || !c.allowedPeriodKinds.length || new Set(c.allowedPeriodKinds).size !== c.allowedPeriodKinds.length || !c.allowedPeriodKinds.every(k => kinds.includes(k)) || typeof c.allowAmbiguousEvidence !== 'boolean') bad();\\n}\\nfunction instant(v) {\\n  if (typeof v === 'number' && Number.isFinite(v) && Number.isInteger(v) && Number.isFinite(new Date(v).getTime())) return v;\\n  if (typeof v === 'string' && /^\\\\d{4}-\\\\d{2}-\\\\d{2}T\\\\d{2}:\\\\d{2}:\\\\d{2}\\\\.\\\\d{3}Z$/.test(v)) {\\n    const n = Date.parse(v);\\n    if (Number.isFinite(n) && new Date(n).toISOString() === v) return n;\\n  }\\n  throw new TypeError('Invalid explicit UTC instant');\\n}\\nfunction stamp(n) {\\n  const s = new Date(n).toISOString();\\n  if (!/^\\\\d{4}-/.test(s)) throw new TypeError('UTC instant outside supported calendar');\\n  return s;\\n}\\nfunction observed(v) {\\n  if (typeof v !== 'string') throw new Error('Invalid observation');\\n  return instant(v);\\n}\\nfunction date(v) {\\n  if (typeof v !== 'string' || !/^\\\\d{4}-\\\\d{2}-\\\\d{2}$/.test(v)) throw new Error('Invalid date');\\n  const n = Date.parse(v + 'T00:00:00.000Z');\\n  if (!Number.isFinite(n) || new Date(n).toISOString().slice(0,10) !== v) throw new Error('Invalid date');\\n  return n;\\n}\\nfunction unavailable() {\\n  return Object.assign(new Error('Prepared issuer revenue comparison unavailable'), {code:'issuer-revenue-unavailable',status:503,retryable:true});\\n}\\nfunction sourceError(reason, retryable, retryAfter) {\\n  const e = Object.assign(new Error('Issuer revenue source unavailable: ' + reason), {code:'issuer-revenue-source-unavailable',status:503,retryable,reason});\\n  if (typeof retryAfter === 'string') e.retryAfter = retryAfter;\\n  return e;\\n}\\nfunction demand(v) { if (!v) throw new Error('Invalid prepared boundary'); }\\nfunction ni(v) { return text(v) && isNiUri(v); }\\nfunction comparability(issuers) {\\n  if (!issuers.every(i => i.status === 'current')) return 'unresolved';\\n  const p = issuers[0].period;\\n  return issuers.every(i => i.period && p && i.period.start === p.start && i.period.end === p.end) ? 'aligned-periods' : 'different-periods';\\n}\\nfunction periodCheck(p, kind, asOf, today, maximumAgeDays) {\\n  demand(record(p));\\n  const a = date(p.start), b = date(p.end);\\n  const days = (b-a)/DAY+1;\\n  const [lo,hi] = kind === 'quarter' ? [70,110] : [330,380];\\n  demand(a <= b && b <= asOf && b <= today && p.durationDays === days && days >= lo && days <= hi && (today-b)/DAY <= maximumAgeDays);\\n}\\nfunction samePeriod(a,b) { return a.start === b.start && a.end === b.end && a.durationDays === b.durationDays; }\\n\\n/** Pure trusted configuration validation and bounded official SEC acquisition plan; grants no execution or quota.\\n * @param {*} configuration Host-owned supplier configuration.\\n * @returns {object} Fresh IssuerRevenueAcquisitionPlan.\\n */\\nexport function planIssuerRevenueAcquisition(configuration) {\\n  configurationCheck(configuration);\\n  const c = configuration;\\n  return {type:'IssuerRevenueAcquisitionPlan',version:1,minimumIntervalMs:c.minimumIntervalMs,maximumCohortBytes:c.maximumCohortBytes,requests:c.issuers.map(i => ({cik:i.cik,ticker:i.ticker,url:url(i.cik),headers:{'User-Agent':c.userAgent,Accept:'application/json'},timeoutMs:c.timeoutMs,maximumBytes:c.maximumBytes}))};\\n}\\n\\n/** Validate the only public request field after complete trusted configuration validation; performs no I/O.\\n * @param {*} body Public request record containing only periodKind.\\n * @param {*} configuration Host-owned supplier configuration.\\n * @returns {{periodKind:string}} Fresh admitted request.\\n */\\nexport function validateIssuerRevenueComparisonRequest(body, configuration) {\\n  configurationCheck(configuration);\\n  if (!record(body) || Reflect.ownKeys(body).length !== 1 || !Object.hasOwn(body,'periodKind') || !configuration.allowedPeriodKinds.includes(body.periodKind)) throw new TypeError('Only an explicitly allowed periodKind is admitted');\\n  return {periodKind:body.periodKind};\\n}\\n\\n/** Pure typed cache-boundary and freshness admission; returns the exact selected received result without reissuing evidence.\\n * @param {*} input Explicit body, configuration, cohort and now.\\n * @returns {object} The unchanged admitted IssuerRevenueComparison; otherwise throws.\\n */\\nexport function selectPreparedIssuerRevenueComparison(input) {\\n  const {body,configuration:c,cohort,now} = input ?? {};\\n  const {periodKind:k} = validateIssuerRevenueComparisonRequest(body,c);\\n  const n = instant(now);\\n  const todayString = stamp(n).slice(0,10);\\n  try {\\n    const today = date(todayString);\\n    demand(record(cohort) && cohort.type === 'IssuerRevenuePreparedCohort' && cohort.version === 1);\\n    const t = observed(cohort.observedAt), asOf = date(cohort.asOf);\\n    demand(cohort.asOf === cohort.observedAt.slice(0,10) && t <= n && n-t <= c.maximumSnapshotAgeMs);\\n    demand(record(cohort.results) && Object.hasOwn(cohort.results,'quarter') && Object.hasOwn(cohort.results,'annual'));\\n    const r = cohort.results[k];\\n    demand(record(r) && r.type === 'IssuerRevenueComparison' && r.version === 1 && r.observedAt === cohort.observedAt && r.asOf === cohort.asOf && r.periodKind === k && r.datePolicy === 'filing-date-cutoff-on-received-sources');\\n    demand(Array.isArray(r.issuers) && Array.isArray(r.evidencePackets) && r.issuers.length === c.issuers.length && r.evidencePackets.length === c.issuers.length);\\n    for (let j=0;j<c.issuers.length;j++) {\\n      const configured = c.issuers[j], i = r.issuers[j], p = r.evidencePackets[j];\\n      demand(record(i) && i.type === 'IssuerRevenueReconciliation' && i.version === 1 && i.cik === configured.cik && i.ticker === configured.ticker && i.asOf === cohort.asOf && i.periodKind === k && text(i.issuer) && i.unit === 'USD');\\n      const s = i.source;\\n      demand(record(s) && s.uri === url(configured.cik) && ni(s.digest) && positive(s.bytes) && s.bytes <= c.maximumBytes);\\n      const st = observed(s.observedAt);\\n      demand(st <= t && n-st <= c.maximumSnapshotAgeMs);\\n      demand(i.status === 'current' || (i.status === 'ambiguous' && c.allowAmbiguousEvidence));\\n      demand(Array.isArray(i.witnesses) && i.witnesses.length > 0);\\n      for (const w of i.witnesses) {\\n        periodCheck(w,k,asOf,today,c.maximumAgeDays[k]);\\n        demand(Number.isFinite(w.value) && w.unit === 'USD' && ['10-Q','10-Q/A','10-K','10-K/A'].includes(w.form) && date(w.filed) <= asOf && text(w.accession) && text(w.concept));\\n      }\\n      if (i.status === 'current') demand(Number.isFinite(i.value) && i.period !== null);\\n      else demand(i.value === null && i.revision === 'ambiguous');\\n      if (i.period !== null) {\\n        periodCheck(i.period,k,asOf,today,c.maximumAgeDays[k]);\\n        demand(i.witnesses.every(w => samePeriod(w,i.period)));\\n      } else {\\n        demand(i.status === 'ambiguous' && new Set(i.witnesses.map(w => w.end)).size === 1 && new Set(i.witnesses.map(w => w.start)).size > 1);\\n      }\\n      demand(record(p) && p.type === 'IssuerEvidencePacket' && p.version === 1 && p.ticker === String(configured.ticker).toUpperCase() && p.issuer === i.issuer && p.asOf === r.asOf && ni(p.id) && p.brokerageEffect === false);\\n      demand(Array.isArray(p.sources) && p.sources.length === 1);\\n      const ps = p.sources[0];\\n      demand(record(ps) && ps.uri === s.uri && ps.digest === s.digest && ps.observedAt === s.observedAt);\\n      demand(Array.isArray(p.claims) && p.claims.length > 0 && p.claims.every(cl => record(cl) && text(cl.statement) && Array.isArray(cl.sourceDigests) && cl.sourceDigests.length > 0 && cl.sourceDigests.every(d => d === s.digest)));\\n    }\\n    demand(r.comparability === comparability(r.issuers));\\n    return r;\\n  } catch { throw unavailable(); }\\n}\\n\\nasync function boundedBytes(stream, limit, signal) {\\n  if (!stream || typeof stream.getReader !== 'function') throw new Error('invalid-stream');\\n  const reader = stream.getReader();\\n  const parts = [];\\n  let size = 0;\\n  let rejectAbort;\\n  const aborted = new Promise((_,reject) => { rejectAbort = reject; });\\n  const onAbort = () => {\\n    rejectAbort(signal.reason ?? new Error('timeout'));\\n    Promise.resolve().then(() => reader.cancel(signal.reason)).catch(() => {});\\n  };\\n  if (signal) {\\n    signal.addEventListener('abort',onAbort,{once:true});\\n    if (signal.aborted) onAbort();\\n  }\\n  try {\\n    while (true) {\\n      const item = await (signal ? Promise.race([reader.read(),aborted]) : reader.read());\\n      if (item.done) break;\\n      if (!(item.value instanceof Uint8Array)) throw new Error('invalid-stream');\\n      size += item.value.byteLength;\\n      if (size > limit) {\\n        Promise.resolve().then(() => reader.cancel('byte-overflow')).catch(() => {});\\n        throw new Error('byte-overflow');\\n      }\\n      parts.push(item.value.slice());\\n    }\\n    const bytes = new Uint8Array(size);\\n    let offset = 0;\\n    for (const p of parts) { bytes.set(p,offset); offset += p.byteLength; }\\n    return bytes;\\n  } finally {\\n    if (signal) signal.removeEventListener('abort',onAbort);\\n    try { reader.releaseLock(); } catch {}\\n  }\\n}\\nfunction parseBytes(bytes) { return JSON.parse(new TextDecoder('utf-8',{fatal:true}).decode(bytes)); }\\nasync function ordinarySleep(ms) {\\n  let remaining = ms;\\n  while (remaining > 0) {\\n    const part = Math.min(remaining,2147483647);\\n    await new Promise(resolve => setTimeout(resolve,part));\\n    remaining -= part;\\n  }\\n}\\nasync function acquire(request, fetcher) {\\n  let retryAfter;\\n  let signal;\\n  try {\\n    signal = AbortSignal.timeout(request.timeoutMs);\\n    let response;\\n    const aborted = new Promise((_,reject) => {\\n      const rejectNow = () => reject(signal.reason);\\n      signal.addEventListener('abort',rejectNow,{once:true});\\n    });\\n    response = await Promise.race([Promise.resolve().then(() => fetcher(request.url,{method:'GET',headers:request.headers,redirect:'error',signal})),aborted]);\\n    retryAfter = response.headers?.get?.('Retry-After');\\n    if (response.status !== 200) {\\n      Promise.resolve().then(() => response.body?.cancel()).catch(() => {});\\n      throw sourceError('http-'+String(response.status),response.status === 429 || response.status >= 500,retryAfter);\\n    }\\n    const header = response.headers?.get?.('Content-Length');\\n    if (typeof header === 'string' && /^\\\\d+$/.test(header) && BigInt(header) > BigInt(request.maximumBytes)) {\\n      Promise.resolve().then(() => response.body?.cancel()).catch(() => {});\\n      throw sourceError('byte-overflow',false,retryAfter);\\n    }\\n    const bytes = await boundedBytes(response.body,request.maximumBytes,signal);\\n    signal.throwIfAborted();\\n    return bytes;\\n  } catch (e) {\\n    if (e?.code === 'issuer-revenue-source-unavailable') throw e;\\n    if (signal?.aborted) throw sourceError('timeout',true,retryAfter);\\n    if (e?.message === 'byte-overflow' || e?.message === 'invalid-stream') throw sourceError(e.message,false,retryAfter);\\n    throw sourceError('network',true,retryAfter);\\n  }\\n}\\n\\n/** Prepare one complete compact both-period cohort through trusted sequential official-source acquisition. No cache write or retry.\\n * @param {*} configuration Host-owned supplier configuration.\\n * @param {object} [adapters={}] Trusted fetch, now and sleep adapters.\\n * @returns {Promise<object>} Complete bounded IssuerRevenuePreparedCohort; source refusals throw.\\n */\\nexport async function prepareIssuerRevenueCohort(configuration, adapters = {}) {\\n  const plan = planIssuerRevenueAcquisition(configuration);\\n  if (!record(adapters)) throw new TypeError('Invalid trusted adapters');\\n  const clock = adapters.now ?? Date.now;\\n  const fetcher = adapters.fetch ?? globalThis.fetch;\\n  const sleep = adapters.sleep ?? ordinarySleep;\\n  if (typeof clock !== 'function' || typeof fetcher !== 'function' || typeof sleep !== 'function') throw new TypeError('Invalid trusted adapters');\\n  const started = instant(clock());\\n  const asOf = stamp(started).slice(0,10);\\n  let last = started;\\n  function observation() {\\n    let n, s;\\n    try { n = instant(clock()); s = stamp(n); } catch { throw sourceError('invalid-clock',false); }\\n    if (s.slice(0,10) !== asOf) throw sourceError('utc-day-changed',true);\\n    if (n < last) throw sourceError('clock-regressed',false);\\n    last = n;\\n    return s;\\n  }\\n  const results = {quarter:{issuers:[],evidencePackets:[]},annual:{issuers:[],evidencePackets:[]}};\\n  for (let j=0;j<plan.requests.length;j++) {\\n    if (j > 0) {\\n      try { await sleep(plan.minimumIntervalMs); } catch { throw sourceError('spacing-failed',true); }\\n    }\\n    const request = plan.requests[j];\\n    await (async () => {\\n      const bytes = await acquire(request,fetcher);\\n      const observedAt = observation();\\n      let companyfacts;\\n      try { companyfacts = parseBytes(bytes); } catch { throw sourceError('malformed-source',false); }\\n      let address;\\n      try {\\n        address = await addressContent(bytes,{mediaType:'application/json'});\\n        demand(address.kind === 'semiotic-content.raw-carrier-address' && address.version === 1 && address.algorithm === 'sha-256' && address.size === bytes.byteLength && address.mediaType === 'application/json' && ni(address.ni));\\n      } catch { throw sourceError('invalid-source-address',false); }\\n      const source = {uri:request.url,digest:address.ni,bytes:address.size,observedAt};\\n      for (const periodKind of kinds) {\\n        let kernel;\\n        try { kernel = reconcileIssuerRevenueFacts({cik:request.cik,asOf,periodKind,maximumAgeDays:configuration.maximumAgeDays[periodKind],companyfacts}); } catch { throw sourceError('invalid-source-identity',false); }\\n        const result = {...kernel,ticker:request.ticker,source:{...source}};\\n        const statement = 'Received SEC companyfacts and reconciled '+periodKind+' USD revenue; status='+result.status+'; period='+(result.period ? result.period.start+'..'+result.period.end : 'none')+'; value='+String(result.value)+'; revision='+result.revision+'.';\\n        let packet;\\n        try { packet = await formIssuerEvidencePacket({ticker:request.ticker,issuer:result.issuer,asOf,sources:[{uri:source.uri,observedAt:source.observedAt,digest:source.digest}],claims:[{statement,sourceDigests:[source.digest]}]}); } catch { throw sourceError('packet-construction-failed',false); }\\n        results[periodKind].issuers.push(result);\\n        results[periodKind].evidencePackets.push(packet);\\n      }\\n    })();\\n  }\\n  const observedAt = observation();\\n  for (const periodKind of kinds) {\\n    const compact = results[periodKind];\\n    results[periodKind] = {type:'IssuerRevenueComparison',version:1,observedAt,asOf,periodKind,datePolicy:'filing-date-cutoff-on-received-sources',comparability:comparability(compact.issuers),issuers:compact.issuers,evidencePackets:compact.evidencePackets};\\n  }\\n  const cohort = {type:'IssuerRevenuePreparedCohort',version:1,observedAt,asOf,results};\\n  try {\\n    if (new TextEncoder().encode(JSON.stringify(cohort)).byteLength > configuration.maximumCohortBytes) throw new Error('overflow');\\n  } catch { throw sourceError('compact-output-overflow',false); }\\n  return cohort;\\n}\\n\\n/** Read the trusted prepared cache once and admit its unchanged selected result; no source fallback or storage write.\\n * @param {*} body Public periodKind-only request.\\n * @param {*} env Host environment supplying ISSUER_EVIDENCE.get.\\n * @param {*} configuration Host-owned supplier configuration.\\n * @returns {Promise<object>} Unchanged ready comparison; unavailable cache throws retryable 503.\\n */\\nexport async function readPreparedIssuerRevenueComparison(body, env, configuration) {\\n  const request = validateIssuerRevenueComparisonRequest(body,configuration);\\n  let cohort;\\n  try {\\n    const binding = env?.ISSUER_EVIDENCE;\\n    if (!binding || typeof binding.get !== 'function') throw new Error('missing-binding');\\n    const object = await binding.get(configuration.cacheKey);\\n    if (!object) throw new Error('missing-cache');\\n    if (object.size !== undefined && (!Number.isSafeInteger(object.size) || object.size < 0 || object.size > configuration.maximumCohortBytes)) {\\n      Promise.resolve().then(() => object.body?.cancel()).catch(() => {});\\n      throw new Error('byte-overflow');\\n    }\\n    cohort = parseBytes(await boundedBytes(object.body,configuration.maximumCohortBytes));\\n  } catch { throw unavailable(); }\\n  return selectPreparedIssuerRevenueComparison({body:request,configuration,cohort,now:Date.now()});\\n}\\n\",\"question\":null}",
+                      "tool_calls": []
+                    }
+                  }
+                ],
+                "tokenUsage": [
+                  {
+                    "promptTokens": 48459,
+                    "outputTokens": 6557,
+                    "totalTokens": null,
+                    "reportedCost": null
+                  }
+                ],
+                "measuredResources": {
+                  "scope": {
+                    "providerIdentity": "urn:ame:bare-cedar-fog-codex-inference-team",
+                    "accountIdentity": null,
+                    "windowIdentity": null,
+                    "measurementCoverage": "completed-exchanges"
+                  },
+                  "resources": [
+                    {
+                      "resource": "requests",
+                      "unit": "request",
+                      "amount": {
+                        "numerator": "1",
+                        "denominator": "1"
+                      }
+                    },
+                    {
+                      "resource": "input-tokens",
+                      "unit": "token",
+                      "amount": {
+                        "numerator": "48459",
+                        "denominator": "1"
+                      }
+                    },
+                    {
+                      "resource": "output-tokens",
+                      "unit": "token",
+                      "amount": {
+                        "numerator": "6557",
+                        "denominator": "1"
+                      }
+                    },
+                    {
+                      "resource": "duration",
+                      "unit": "millisecond",
+                      "amount": {
+                        "numerator": "113377",
+                        "denominator": "1"
+                      }
+                    }
+                  ],
+                  "partialResources": [],
+                  "callerObservedResources": [],
+                  "uncertainty": [
+                    "total-token-usage-incomplete",
+                    "provider-reported-cost-incomplete",
+                    "account-window-identity-unknown"
+                  ]
+                },
+                "sharedBudgetRemaining": {}
+              },
+              "customerAssay": "chat-completion-turn-accepted",
+              "providerSchemaEnforcement": {
+                "attempted": false
+              },
+              "directLaneRefusals": [],
+              "integrationAccepted": false,
+              "receiverAcceptanceRequired": true,
+              "nextAct": "Codex may decide its own routine purchase and delivery outcome after an executable assay without Leader approval; only a later effect on another Actor crosses into that Actor's induction boundary.",
+              "contextOptimization": {
+                "mode": "automatic",
+                "estimated": true,
+                "budget": null,
+                "beforeBytes": 61607,
+                "afterBytes": 61607,
+                "retained": [
+                  "objective",
+                  "chat-completion"
+                ],
+                "dropped": [],
+                "rawRecall": []
+              },
+              "timing": {
+                "solicitation": 0,
+                "routeDecision": 4945,
+                "execution": 118643,
+                "assay": 0,
+                "receipt": 0,
+                "total": 153267
+              },
+              "acceptanceScope": "delivery-to-codex-customer-office-only",
+              "placement": {
+                "type": "WorkPlacementEvidenceProjection",
+                "version": 1,
+                "decisionType": "WorkPlacementDecision",
+                "disposition": "selected",
+                "selected": {
+                  "offerId": "urn:offer:direct-endpoint:urn:ame:bare-cedar-fog-codex-inference-team:l3k78btuNzmvmueURzT7MdqkmwlytwQnwHyX9Emsbxk:code-fabrication",
+                  "provider": "urn:ame:bare-cedar-fog-codex-inference-team",
+                  "executionClass": "local-command-inference",
+                  "mode": "execute",
+                  "reuseReceipt": null,
+                  "plannedResources": [
+                    {
+                      "resource": "provider-attention",
+                      "unit": "bounded-lot",
+                      "amount": {
+                        "numerator": "1",
+                        "denominator": "1"
+                      }
+                    }
+                  ],
+                  "observationBasis": {
+                    "attempts": 0,
+                    "accepted": 0,
+                    "resourceBasis": "source-declared-resources",
+                    "acceptedServiceEnergyIntensity": "unknown-no-source-admitted-meter-and-independent-service-denominator",
+                    "receipts": [],
+                    "qualityPrior": {
+                      "observations": 0,
+                      "accepted": 0,
+                      "sourceReceipts": []
+                    }
+                  }
+                },
+                "attemptPlan": [
+                  {
+                    "rank": 0,
+                    "relation": "single",
+                    "offers": [
+                      {
+                        "offerId": "urn:offer:direct-endpoint:urn:ame:bare-cedar-fog-codex-inference-team:l3k78btuNzmvmueURzT7MdqkmwlytwQnwHyX9Emsbxk:code-fabrication",
+                        "provider": "urn:ame:bare-cedar-fog-codex-inference-team",
+                        "executionClass": "local-command-inference",
+                        "mode": "execute",
+                        "reuseReceipt": null,
+                        "plannedResources": [
+                          {
+                            "resource": "provider-attention",
+                            "unit": "bounded-lot",
+                            "amount": {
+                              "numerator": "1",
+                              "denominator": "1"
+                            }
+                          }
+                        ],
+                        "observationBasis": {
+                          "attempts": 0,
+                          "accepted": 0,
+                          "resourceBasis": "source-declared-resources",
+                          "acceptedServiceEnergyIntensity": "unknown-no-source-admitted-meter-and-independent-service-denominator",
+                          "receipts": [],
+                          "qualityPrior": {
+                            "observations": 0,
+                            "accepted": 0,
+                            "sourceReceipts": []
+                          }
+                        }
+                      }
+                    ],
+                    "execution": "explicit-sequential-authority-required",
+                    "implicitFallbackPermitted": false,
+                    "speculativeExecutionPermitted": false,
+                    "stopCondition": "customer-assayed-acceptance"
+                  }
+                ],
+                "refusals": [],
+                "rationale": [
+                  "exact-feasibility-first",
+                  "fresh-execution-required",
+                  "customer-ordered-pareto-selection",
+                  "provider-and-model-identities-are-provenance-only"
+                ],
+                "offers": [
+                  {
+                    "type": "NormalizedWorkOffer",
+                    "id": "urn:offer:direct-endpoint:urn:ame:bare-cedar-fog-codex-inference-team:l3k78btuNzmvmueURzT7MdqkmwlytwQnwHyX9Emsbxk:code-fabrication",
+                    "provider": "urn:ame:bare-cedar-fog-codex-inference-team",
+                    "executionClass": "local-command-inference",
+                    "operation": "code-fabrication",
+                    "implementationIdentity": "ni:///sha-256;l3k78btuNzmvmueURzT7MdqkmwlytwQnwHyX9Emsbxk",
+                    "configurationIdentity": "ni:///sha-256;l3k78btuNzmvmueURzT7MdqkmwlytwQnwHyX9Emsbxk",
+                    "capabilities": [
+                      "chat",
+                      "reasoning",
+                      "long-context",
+                      "json-output",
+                      "json-schema-output",
+                      "code",
+                      "classification",
+                      "extraction",
+                      "summarization",
+                      "inquiry",
+                      "software-engineering",
+                      "code-review",
+                      "text-output",
+                      "tool-calling"
+                    ],
+                    "qualityTiers": [
+                      "frontier-subscription"
+                    ],
+                    "authorityScopes": [
+                      "urn:scope:bounded-inference-candidate"
+                    ],
+                    "effects": [
+                      "read-only"
+                    ],
+                    "idempotence": [
+                      "idempotent"
+                    ],
+                    "dataConstraints": [],
+                    "custodyConstraints": [],
+                    "outputContractIdentities": [
+                      "ni:///sha-256;7IAXjNB0Sjczx3UutNZuD-puIhF9MCOp5lLHPi30PYc"
+                    ],
+                    "availability": "available",
+                    "availableCapacity": 1,
+                    "bounds": {},
+                    "consideration": [
+                      {
+                        "kind": "credit",
+                        "asset": "urn:union:consideration:provider-invocation",
+                        "unit": "provider-invocation",
+                        "amount": {
+                          "numerator": "1",
+                          "denominator": "1"
+                        }
+                      },
+                      {
+                        "kind": "currency",
+                        "asset": "urn:currency:usd",
+                        "unit": "cent",
+                        "amount": {
+                          "numerator": "0",
+                          "denominator": "1"
+                        }
+                      }
+                    ],
+                    "declaredResources": [
+                      {
+                        "resource": "provider-attention",
+                        "unit": "bounded-lot",
+                        "amount": {
+                          "numerator": "1",
+                          "denominator": "1"
+                        }
+                      }
+                    ],
+                    "semantics": {
+                      "reuse": "none"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          "outcome": "composition-refused",
+          "evidence": "isolated module assay: invalid exact dependencies",
+          "dependencyResolutions": [
+            {
+              "type": "InstalledNpmPackageResolutionRead",
+              "version": 1,
+              "expectedName": "@red-cup-engineering/issuer-research-media-service",
+              "expectedVersion": "0.1.3-dev.1",
+              "projectRoot": "/home/emsenn/info/lib/emsenn/services/561-group/services/engineering-services-section/services/computer-engineering-services-section/services/computer-systems-engineering-services-section/services/computer-web-engineering-services-section/services/web-platform-services-section/services/web2-platform-services-section/services/web2-financial-platform-services-section/services/web2-financial-brokerage-platform-services-section/services/alpaca-services-section",
+              "entry": {
+                "kind": "package"
+              },
+              "entryPath": null,
+              "packageRoot": "/home/emsenn/bare-cedar-fog/lib/phezi-ochage/services/561-group/services/engineering-services-section/services/computer-engineering-services-section/services/computer-systems-engineering-services-section/services/computer-web-engineering-services-section/services/web-platform-services-section/services/web2-platform-services-section/services/web2-financial-platform-services-section/services/web2-financial-brokerage-platform-services-section/services/alpaca-services-section/services/issuer-research-media-service",
+              "name": "@red-cup-engineering/issuer-research-media-service",
+              "packageVersion": "0.1.3-dev.1",
+              "conformant": true,
+              "defects": []
+            },
+            {
+              "type": "InstalledNpmPackageResolutionRead",
+              "version": 1,
+              "expectedName": "@red-cup-engineering/computer-content-address-engineering-services-section",
+              "expectedVersion": "0.2.0",
+              "projectRoot": "/home/emsenn/info/lib/emsenn/services/561-group/services/engineering-services-section/services/computer-engineering-services-section/services/computer-systems-engineering-services-section/services/computer-web-engineering-services-section/services/web-platform-services-section/services/web2-platform-services-section/services/web2-financial-platform-services-section/services/web2-financial-brokerage-platform-services-section/services/alpaca-services-section",
+              "entry": {
+                "kind": "package"
+              },
+              "entryPath": null,
+              "packageRoot": "/home/emsenn/bare-cedar-fog/lib/phezi-ochage/services/561-group/services/engineering-services-section/services/computer-engineering-services-section/services/computer-data-engineering-services-section/services/computer-content-engineering-services-section/services/computer-content-address-engineering-services-section",
+              "name": "@red-cup-engineering/computer-content-address-engineering-services-section",
+              "packageVersion": "0.2.0",
+              "conformant": true,
+              "defects": []
+            },
+            {
+              "type": "InstalledNpmPackageResolutionRead",
+              "version": 1,
+              "expectedName": "@red-cup-engineering/uri-services-section",
+              "expectedVersion": "0.1.3",
+              "projectRoot": "/home/emsenn/info/lib/emsenn/services/561-group/services/engineering-services-section/services/computer-engineering-services-section/services/computer-systems-engineering-services-section/services/computer-web-engineering-services-section/services/web-platform-services-section/services/web2-platform-services-section/services/web2-financial-platform-services-section/services/web2-financial-brokerage-platform-services-section/services/alpaca-services-section",
+              "entry": {
+                "kind": "package"
+              },
+              "entryPath": null,
+              "packageRoot": "/home/emsenn/bare-cedar-fog/lib/phezi-ochage/services/561-group/services/engineering-services-section/services/computer-engineering-services-section/services/computer-data-engineering-services-section/services/computer-content-engineering-services-section/services/computer-content-address-engineering-services-section/services/uri-services-section",
+              "name": "@red-cup-engineering/uri-services-section",
+              "packageVersion": "0.1.3",
+              "conformant": true,
+              "defects": []
+            }
+          ]
+        }
+      ],
+      "proofing": {
+        "type": "JsnodeDerivationProofing",
+        "version": 1,
+        "writer": {
+          "id": "ni:///sha-256;6j34aV8gJooke7IzncjrFu9jpaewg6iCQKXI3YDYCYM",
+          "method": "source-derivation",
+          "carrier": "default",
+          "evidence": "ni:///sha-256;-DeZ_jwIStPyi1pUsZIVXXp8mQjJ94K1fmzuIsR0D4Y"
+        },
+        "channels": [
+          {
+            "id": "ni:///sha-256;JT3TiC84cPn-kIXpUQkwt1UlNCm1JFroZpUyK_Qol7U",
+            "method": "admitted-examples",
+            "carrier": "work-order-author",
+            "evidence": "ni:///sha-256;2YVd7dweh-U5IkUmbFg6SHkeRKycjUiaFg5vjF_i3jM",
+            "independent": false,
+            "reason": "the writer was shown these checks"
+          },
+          {
+            "id": "ni:///sha-256;6j34aV8gJooke7IzncjrFu9jpaewg6iCQKXI3YDYCYM",
+            "method": "clause-assays",
+            "carrier": "default",
+            "evidence": "ni:///sha-256;-DeZ_jwIStPyi1pUsZIVXXp8mQjJ94K1fmzuIsR0D4Y",
+            "independent": false,
+            "reason": "same carrier on the same evidence as the writer: one channel"
+          },
+          {
+            "id": "ni:///sha-256;1UtSYDe9RlK4SFo3BeLRPcfVquy8MuzsKPz4dhYVtQ8",
+            "method": "module-set-composition",
+            "carrier": "node-test-runner",
+            "evidence": "ni:///sha-256;3GBr4JSvHsULu9VXcWGdJNeVSU8vQUo98-sKten6Ryg",
+            "independent": true,
+            "reason": "different carrier"
+          },
+          {
+            "id": "ni:///sha-256;j2en-jkN19EDZcadu1Mj-xjqBHNz9XHc1dEqKyQkX8Q",
+            "method": "delivery-admission",
+            "carrier": "jsnode-delivery-schema",
+            "evidence": "ni:///sha-256;MTI4YG1Y_OcUasUiY_jURBE5rO1ydMeCgW0TWdFgdnc",
+            "independent": true,
+            "reason": "different carrier"
+          },
+          {
+            "id": "ni:///sha-256;ClvmaLYKGiJyHWafFDx1tBYNg5NcQKV15B0YvFxZrmY",
+            "method": "fold-check",
+            "carrier": "jsnode-misfold-reader",
+            "evidence": "ni:///sha-256;S62qJS_Vb73SdvumnHyt6WNwkWNUYhcP6IWY37EBUNE",
+            "independent": true,
+            "reason": "different carrier"
+          }
+        ],
+        "catches": [
+          {
+            "defect": "isolated module assay: invalid exact dependencies",
+            "method": "module-set-composition",
+            "caughtBy": "ni:///sha-256;1UtSYDe9RlK4SFo3BeLRPcfVquy8MuzsKPz4dhYVtQ8"
+          }
+        ],
+        "independentBehavioralChannels": 0
+      }
+    },
+    "workOrderSpecificationDigest": "ni:///sha-256;zbn4SQ9WNdZOfYKUijH2WcQ_G-RV5xB3nLt4i4nqdEk",
+    "source": {
+      "type": "ArtifactFabricationSource",
+      "version": 1,
+      "identity": {
+        "type": "ArtifactFabricationSourceIdentity",
+        "id": "issuer-revenue-prepared-cohort"
+      },
+      "provenance": {
+        "type": "ArtifactFabricationSourceProvenance",
+        "locator": "/home/emsenn/bare-cedar-fog/lib/phezi-ochage/services/561-group/services/engineering-services-section/services/computer-engineering-services-section/services/computer-systems-engineering-services-section/services/computer-web-engineering-services-section/services/web-platform-services-section/services/web2-platform-services-section/services/web2-financial-platform-services-section/services/web2-financial-brokerage-platform-services-section/services/alpaca-services-section/services/issuer-research-media-service/specifications/prepared-cohort.work-order.md",
+        "digest": "sha256:e75971efd344abd8b712d549f3b3a0c7185c8554ac0557c9f2a8a3990c2b4098",
+        "sourceSpan": {
+          "type": "ArtifactFabricationSourceSpan",
+          "startLine": 1,
+          "endLine": 63
+        }
+      }
+    }
+  }
+}

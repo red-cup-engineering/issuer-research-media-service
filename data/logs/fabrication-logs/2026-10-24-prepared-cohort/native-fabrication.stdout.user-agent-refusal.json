@@ -1,0 +1,814 @@
+{
+  "specificationDigest": "ni:///sha-256;zO8bW_MI2aZw4M8b703VHkHrTMWbHE8A0iFvVnv2FjE",
+  "plan": {
+    "type": "ArtifactFabricationRealizationPlan",
+    "version": 1,
+    "artifactId": "issuer-revenue-prepared-cohort",
+    "specificationDigest": "ni:///sha-256;zO8bW_MI2aZw4M8b703VHkHrTMWbHE8A0iFvVnv2FjE",
+    "projectionIds": [
+      "jsnode-modules"
+    ],
+    "acceptanceObligationIds": [
+      "io-receiving",
+      "pure-receiving"
+    ],
+    "traceability": [
+      {
+        "type": "ArtifactFabricationTrace",
+        "version": 1,
+        "requirementId": "configuration",
+        "constraintIds": [
+          "async-contract-1",
+          "async-contract-2",
+          "async-contract-3",
+          "async-contract-4",
+          "async-contract-5",
+          "async-contract-6",
+          "async-contract-7",
+          "native-fabrication",
+          "sec-source",
+          "source-demand",
+          "source-integrity",
+          "source-module-interfaces",
+          "source-no-substitutes",
+          "source-pure-effects",
+          "source-supplier-closure"
+        ],
+        "projectionIds": [
+          "jsnode-modules"
+        ],
+        "acceptanceObligationIds": [
+          "pure-receiving"
+        ]
+      },
+      {
+        "type": "ArtifactFabricationTrace",
+        "version": 1,
+        "requirementId": "acquisition-plan",
+        "constraintIds": [
+          "async-contract-1",
+          "async-contract-2",
+          "async-contract-3",
+          "async-contract-4",
+          "async-contract-5",
+          "async-contract-6",
+          "async-contract-7",
+          "native-fabrication",
+          "sec-source",
+          "source-demand",
+          "source-integrity",
+          "source-module-interfaces",
+          "source-no-substitutes",
+          "source-pure-effects",
+          "source-supplier-closure"
+        ],
+        "projectionIds": [
+          "jsnode-modules"
+        ],
+        "acceptanceObligationIds": [
+          "pure-receiving"
+        ]
+      },
+      {
+        "type": "ArtifactFabricationTrace",
+        "version": 1,
+        "requirementId": "public-request",
+        "constraintIds": [
+          "async-contract-1",
+          "async-contract-2",
+          "async-contract-3",
+          "async-contract-4",
+          "async-contract-5",
+          "async-contract-6",
+          "async-contract-7",
+          "native-fabrication",
+          "sec-source",
+          "source-demand",
+          "source-integrity",
+          "source-module-interfaces",
+          "source-no-substitutes",
+          "source-pure-effects",
+          "source-supplier-closure"
+        ],
+        "projectionIds": [
+          "jsnode-modules"
+        ],
+        "acceptanceObligationIds": [
+          "pure-receiving"
+        ]
+      },
+      {
+        "type": "ArtifactFabricationTrace",
+        "version": 1,
+        "requirementId": "selector-input",
+        "constraintIds": [
+          "async-contract-1",
+          "async-contract-2",
+          "async-contract-3",
+          "async-contract-4",
+          "async-contract-5",
+          "async-contract-6",
+          "async-contract-7",
+          "native-fabrication",
+          "sec-source",
+          "source-demand",
+          "source-integrity",
+          "source-module-interfaces",
+          "source-no-substitutes",
+          "source-pure-effects",
+          "source-supplier-closure"
+        ],
+        "projectionIds": [
+          "jsnode-modules"
+        ],
+        "acceptanceObligationIds": [
+          "pure-receiving"
+        ]
+      },
+      {
+        "type": "ArtifactFabricationTrace",
+        "version": 1,
+        "requirementId": "cohort-boundary",
+        "constraintIds": [
+          "async-contract-1",
+          "async-contract-2",
+          "async-contract-3",
+          "async-contract-4",
+          "async-contract-5",
+          "async-contract-6",
+          "async-contract-7",
+          "native-fabrication",
+          "sec-source",
+          "source-demand",
+          "source-integrity",
+          "source-module-interfaces",
+          "source-no-substitutes",
+          "source-pure-effects",
+          "source-supplier-closure"
+        ],
+        "projectionIds": [
+          "jsnode-modules"
+        ],
+        "acceptanceObligationIds": [
+          "pure-receiving"
+        ]
+      },
+      {
+        "type": "ArtifactFabricationTrace",
+        "version": 1,
+        "requirementId": "configured-cohort",
+        "constraintIds": [
+          "async-contract-1",
+          "async-contract-2",
+          "async-contract-3",
+          "async-contract-4",
+          "async-contract-5",
+          "async-contract-6",
+          "async-contract-7",
+          "native-fabrication",
+          "sec-source",
+          "source-demand",
+          "source-integrity",
+          "source-module-interfaces",
+          "source-no-substitutes",
+          "source-pure-effects",
+          "source-supplier-closure"
+        ],
+        "projectionIds": [
+          "jsnode-modules"
+        ],
+        "acceptanceObligationIds": [
+          "pure-receiving"
+        ]
+      },
+      {
+        "type": "ArtifactFabricationTrace",
+        "version": 1,
+        "requirementId": "financial-freshness",
+        "constraintIds": [
+          "async-contract-1",
+          "async-contract-2",
+          "async-contract-3",
+          "async-contract-4",
+          "async-contract-5",
+          "async-contract-6",
+          "async-contract-7",
+          "native-fabrication",
+          "sec-source",
+          "source-demand",
+          "source-integrity",
+          "source-module-interfaces",
+          "source-no-substitutes",
+          "source-pure-effects",
+          "source-supplier-closure"
+        ],
+        "projectionIds": [
+          "jsnode-modules"
+        ],
+        "acceptanceObligationIds": [
+          "pure-receiving"
+        ]
+      },
+      {
+        "type": "ArtifactFabricationTrace",
+        "version": 1,
+        "requirementId": "prepared-packets",
+        "constraintIds": [
+          "async-contract-1",
+          "async-contract-2",
+          "async-contract-3",
+          "async-contract-4",
+          "async-contract-5",
+          "async-contract-6",
+          "async-contract-7",
+          "native-fabrication",
+          "sec-source",
+          "source-demand",
+          "source-integrity",
+          "source-module-interfaces",
+          "source-no-substitutes",
+          "source-pure-effects",
+          "source-supplier-closure"
+        ],
+        "projectionIds": [
+          "jsnode-modules"
+        ],
+        "acceptanceObligationIds": [
+          "pure-receiving"
+        ]
+      },
+      {
+        "type": "ArtifactFabricationTrace",
+        "version": 1,
+        "requirementId": "return-unchanged",
+        "constraintIds": [
+          "async-contract-1",
+          "async-contract-2",
+          "async-contract-3",
+          "async-contract-4",
+          "async-contract-5",
+          "async-contract-6",
+          "async-contract-7",
+          "native-fabrication",
+          "sec-source",
+          "source-demand",
+          "source-integrity",
+          "source-module-interfaces",
+          "source-no-substitutes",
+          "source-pure-effects",
+          "source-supplier-closure"
+        ],
+        "projectionIds": [
+          "jsnode-modules"
+        ],
+        "acceptanceObligationIds": [
+          "pure-receiving"
+        ]
+      },
+      {
+        "type": "ArtifactFabricationTrace",
+        "version": 1,
+        "requirementId": "no-request-override",
+        "constraintIds": [
+          "async-contract-1",
+          "async-contract-2",
+          "async-contract-3",
+          "async-contract-4",
+          "async-contract-5",
+          "async-contract-6",
+          "async-contract-7",
+          "native-fabrication",
+          "sec-source",
+          "source-demand",
+          "source-integrity",
+          "source-module-interfaces",
+          "source-no-substitutes",
+          "source-pure-effects",
+          "source-supplier-closure"
+        ],
+        "projectionIds": [
+          "jsnode-modules"
+        ],
+        "acceptanceObligationIds": [
+          "pure-receiving"
+        ]
+      }
+    ]
+  },
+  "fabrication": {
+    "type": "JsnodeModuleDerivationRefusal",
+    "version": 1,
+    "phase": "derivation",
+    "code": "OPEN_QUESTION",
+    "message": "For configuration.userAgent, what exactly constitutes a contact email marker: is an @ character sufficient, or must it contain an email address matching a specified syntax? This determines whether configurations such as userAgent: 'Operator @' must throw TypeError.",
+    "cause": {
+      "type": "JsnodeClosureDerivationRefusal",
+      "version": 1,
+      "code": "OPEN_QUESTION",
+      "question": "For configuration.userAgent, what exactly constitutes a contact email marker: is an @ character sufficient, or must it contain an email address matching a specified syntax? This determines whether configurations such as userAgent: 'Operator @' must throw TypeError.",
+      "derivations": [
+        {
+          "phase": "clause-assays",
+          "outcome": "refused",
+          "evidence": "open assay question: For configuration.userAgent, what exactly constitutes a contact email marker: is an @ character sufficient, or must it contain an email address matching a specified syntax? This determines whether configurations such as userAgent: 'Operator @' must throw TypeError.",
+          "lot": {
+            "workLot": "urn:work-lot:inference:MTlbkQblHEVWRdrcBzvP_tPa_o5ki84d9XEimuz1v3M",
+            "provider": "urn:ame:bare-cedar-fog-codex-inference-team",
+            "taskClass": "code-fabrication-assays",
+            "selectedOffer": "urn:offer:direct-endpoint:urn:ame:bare-cedar-fog-codex-inference-team:l3k78btuNzmvmueURzT7MdqkmwlytwQnwHyX9Emsbxk:code-fabrication-assays",
+            "receipt": "ni:///sha-256;UPMqCVv07ohTf6SATWcKQMlDbfXkC9bE2FupIlPKP5E",
+            "receiver": "actor:WWOM5azg-fTrn1Id0YVbz5AhppbnFny_W5Xl-rKgSs4",
+            "model": "default",
+            "configurationIdentity": "ni:///sha-256;l3k78btuNzmvmueURzT7MdqkmwlytwQnwHyX9Emsbxk",
+            "delivery": {
+              "outcome": "candidate-pending-codex-acceptance",
+              "workLot": "urn:work-lot:inference:MTlbkQblHEVWRdrcBzvP_tPa_o5ki84d9XEimuz1v3M",
+              "taskClass": "code-fabrication-assays",
+              "receiver": "actor:WWOM5azg-fTrn1Id0YVbz5AhppbnFny_W5Xl-rKgSs4",
+              "provider": "urn:ame:bare-cedar-fog-codex-inference-team",
+              "model": "default",
+              "selectedOffer": "urn:offer:direct-endpoint:urn:ame:bare-cedar-fog-codex-inference-team:l3k78btuNzmvmueURzT7MdqkmwlytwQnwHyX9Emsbxk:code-fabrication-assays",
+              "receipt": {
+                "id": "ni:///sha-256;UPMqCVv07ohTf6SATWcKQMlDbfXkC9bE2FupIlPKP5E"
+              },
+              "candidate": {
+                "id": "exchange-20261024-191926-995484",
+                "object": "chat.completion",
+                "model": "default",
+                "choices": [
+                  {
+                    "index": 0,
+                    "message": {
+                      "role": "assistant",
+                      "content": "{\"cases\":null,\"question\":\"For configuration.userAgent, what exactly constitutes a contact email marker: is an @ character sufficient, or must it contain an email address matching a specified syntax? This determines whether configurations such as userAgent: 'Operator @' must throw TypeError.\"}",
+                      "tool_calls": []
+                    },
+                    "finish_reason": "unknown"
+                  }
+                ],
+                "usage": {
+                  "prompt_tokens": 48283,
+                  "completion_tokens": 231
+                }
+              },
+              "endpointClass": "local-command-inference",
+              "configurationIdentity": "ni:///sha-256;l3k78btuNzmvmueURzT7MdqkmwlytwQnwHyX9Emsbxk",
+              "configuration": {
+                "provider": "urn:ame:bare-cedar-fog-codex-inference-team",
+                "model": "default",
+                "endpoint": "command:codex-exec",
+                "executionClass": "local-command-inference",
+                "mode": "assistant-turn:codex-exec:json-envelope:v1"
+              },
+              "selectionRule": "direct-endpoint-customer-ordered-pareto-route-after-a2a-market-residue",
+              "consideration": [
+                {
+                  "kind": "credit",
+                  "asset": "urn:union:consideration:provider-invocation",
+                  "unit": "provider-invocation",
+                  "amount": {
+                    "numerator": "1",
+                    "denominator": "1"
+                  }
+                }
+              ],
+              "declaredResources": [
+                {
+                  "resource": "provider-attention",
+                  "unit": "bounded-lot",
+                  "amount": {
+                    "numerator": "1",
+                    "denominator": "1"
+                  }
+                }
+              ],
+              "measuredResources": {
+                "scope": {
+                  "providerIdentity": "urn:ame:bare-cedar-fog-codex-inference-team",
+                  "accountIdentity": null,
+                  "windowIdentity": null,
+                  "measurementCoverage": "completed-exchanges"
+                },
+                "resources": [
+                  {
+                    "resource": "requests",
+                    "unit": "request",
+                    "amount": {
+                      "numerator": "1",
+                      "denominator": "1"
+                    }
+                  },
+                  {
+                    "resource": "input-tokens",
+                    "unit": "token",
+                    "amount": {
+                      "numerator": "48283",
+                      "denominator": "1"
+                    }
+                  },
+                  {
+                    "resource": "output-tokens",
+                    "unit": "token",
+                    "amount": {
+                      "numerator": "231",
+                      "denominator": "1"
+                    }
+                  },
+                  {
+                    "resource": "duration",
+                    "unit": "millisecond",
+                    "amount": {
+                      "numerator": "57094",
+                      "denominator": "1"
+                    }
+                  }
+                ],
+                "partialResources": [],
+                "callerObservedResources": [],
+                "uncertainty": [
+                  "total-token-usage-incomplete",
+                  "provider-reported-cost-incomplete",
+                  "account-window-identity-unknown"
+                ]
+              },
+              "settlement": "none-direct-endpoint-lane-carries-no-signed-compact-or-chain-settlement",
+              "durationMs": 57094,
+              "providerEvidence": {
+                "outputs": [
+                  {
+                    "id": "exchange-20261024-191926-995484",
+                    "object": "chat.completion",
+                    "model": "default",
+                    "choices": [
+                      {
+                        "index": 0,
+                        "message": {
+                          "role": "assistant",
+                          "content": "{\"cases\":null,\"question\":\"For configuration.userAgent, what exactly constitutes a contact email marker: is an @ character sufficient, or must it contain an email address matching a specified syntax? This determines whether configurations such as userAgent: 'Operator @' must throw TypeError.\"}",
+                          "tool_calls": []
+                        },
+                        "finish_reason": "unknown"
+                      }
+                    ],
+                    "usage": {
+                      "prompt_tokens": 48283,
+                      "completion_tokens": 231
+                    }
+                  }
+                ],
+                "toolInvocations": [],
+                "exchanges": [
+                  {
+                    "finishReason": "unknown",
+                    "usage": {
+                      "promptTokens": 48283,
+                      "outputTokens": 231,
+                      "totalTokens": null,
+                      "reportedCost": null
+                    },
+                    "message": {
+                      "role": "assistant",
+                      "content": "{\"cases\":null,\"question\":\"For configuration.userAgent, what exactly constitutes a contact email marker: is an @ character sufficient, or must it contain an email address matching a specified syntax? This determines whether configurations such as userAgent: 'Operator @' must throw TypeError.\"}",
+                      "tool_calls": []
+                    }
+                  }
+                ],
+                "tokenUsage": [
+                  {
+                    "promptTokens": 48283,
+                    "outputTokens": 231,
+                    "totalTokens": null,
+                    "reportedCost": null
+                  }
+                ],
+                "measuredResources": {
+                  "scope": {
+                    "providerIdentity": "urn:ame:bare-cedar-fog-codex-inference-team",
+                    "accountIdentity": null,
+                    "windowIdentity": null,
+                    "measurementCoverage": "completed-exchanges"
+                  },
+                  "resources": [
+                    {
+                      "resource": "requests",
+                      "unit": "request",
+                      "amount": {
+                        "numerator": "1",
+                        "denominator": "1"
+                      }
+                    },
+                    {
+                      "resource": "input-tokens",
+                      "unit": "token",
+                      "amount": {
+                        "numerator": "48283",
+                        "denominator": "1"
+                      }
+                    },
+                    {
+                      "resource": "output-tokens",
+                      "unit": "token",
+                      "amount": {
+                        "numerator": "231",
+                        "denominator": "1"
+                      }
+                    },
+                    {
+                      "resource": "duration",
+                      "unit": "millisecond",
+                      "amount": {
+                        "numerator": "57094",
+                        "denominator": "1"
+                      }
+                    }
+                  ],
+                  "partialResources": [],
+                  "callerObservedResources": [],
+                  "uncertainty": [
+                    "total-token-usage-incomplete",
+                    "provider-reported-cost-incomplete",
+                    "account-window-identity-unknown"
+                  ]
+                },
+                "sharedBudgetRemaining": {}
+              },
+              "customerAssay": "chat-completion-turn-accepted",
+              "providerSchemaEnforcement": {
+                "attempted": false
+              },
+              "directLaneRefusals": [],
+              "integrationAccepted": false,
+              "receiverAcceptanceRequired": true,
+              "nextAct": "Codex may decide its own routine purchase and delivery outcome after an executable assay without Leader approval; only a later effect on another Actor crosses into that Actor's induction boundary.",
+              "contextOptimization": {
+                "mode": "automatic",
+                "estimated": true,
+                "budget": null,
+                "beforeBytes": 60823,
+                "afterBytes": 60823,
+                "retained": [
+                  "objective",
+                  "chat-completion"
+                ],
+                "dropped": [],
+                "rawRecall": []
+              },
+              "timing": {
+                "solicitation": 0,
+                "routeDecision": 7419,
+                "execution": 62137,
+                "assay": 0,
+                "receipt": 0,
+                "total": 87686
+              },
+              "acceptanceScope": "delivery-to-codex-customer-office-only",
+              "placement": {
+                "type": "WorkPlacementEvidenceProjection",
+                "version": 1,
+                "decisionType": "WorkPlacementDecision",
+                "disposition": "selected",
+                "selected": {
+                  "offerId": "urn:offer:direct-endpoint:urn:ame:bare-cedar-fog-codex-inference-team:l3k78btuNzmvmueURzT7MdqkmwlytwQnwHyX9Emsbxk:code-fabrication-assays",
+                  "provider": "urn:ame:bare-cedar-fog-codex-inference-team",
+                  "executionClass": "local-command-inference",
+                  "mode": "execute",
+                  "reuseReceipt": null,
+                  "plannedResources": [
+                    {
+                      "amount": {
+                        "numerator": "73487",
+                        "denominator": "1"
+                      },
+                      "resource": "duration",
+                      "unit": "millisecond"
+                    },
+                    {
+                      "amount": {
+                        "numerator": "200481",
+                        "denominator": "5"
+                      },
+                      "resource": "input-tokens",
+                      "unit": "token"
+                    },
+                    {
+                      "amount": {
+                        "numerator": "1112",
+                        "denominator": "5"
+                      },
+                      "resource": "output-tokens",
+                      "unit": "token"
+                    },
+                    {
+                      "amount": {
+                        "numerator": "1",
+                        "denominator": "1"
+                      },
+                      "resource": "requests",
+                      "unit": "request"
+                    }
+                  ],
+                  "observationBasis": {
+                    "attempts": 5,
+                    "accepted": 0,
+                    "resourceBasis": "mean-per-attempt-including-refusals",
+                    "acceptedServiceEnergyIntensity": "unknown-no-source-admitted-meter-and-independent-service-denominator",
+                    "receipts": [
+                      "ni:///sha-256;E4JrJzUNUt0QLIrcRBZs2r8koH9aCUuUwlhuk1CKPho",
+                      "ni:///sha-256;FcgksnNDH26SayqDCpa0oGzWH4M8bIOcDltKEkxc2Mo",
+                      "ni:///sha-256;SyMIUCmfrg9Mi5mnthJbN1LYDJ5zr7PC8qruq5QEl60",
+                      "ni:///sha-256;n0fv48n5VyMzKRGOUxQAD66ihdEvq7EiHh8QvAKgJDY",
+                      "ni:///sha-256;vlLTIFdOUC0wBMLDxRzGDDizDhXU9STvaK73whC6H7o"
+                    ],
+                    "qualityPrior": {
+                      "observations": 0,
+                      "accepted": 0,
+                      "sourceReceipts": []
+                    }
+                  }
+                },
+                "attemptPlan": [
+                  {
+                    "rank": 0,
+                    "relation": "single",
+                    "offers": [
+                      {
+                        "offerId": "urn:offer:direct-endpoint:urn:ame:bare-cedar-fog-codex-inference-team:l3k78btuNzmvmueURzT7MdqkmwlytwQnwHyX9Emsbxk:code-fabrication-assays",
+                        "provider": "urn:ame:bare-cedar-fog-codex-inference-team",
+                        "executionClass": "local-command-inference",
+                        "mode": "execute",
+                        "reuseReceipt": null,
+                        "plannedResources": [
+                          {
+                            "amount": {
+                              "numerator": "73487",
+                              "denominator": "1"
+                            },
+                            "resource": "duration",
+                            "unit": "millisecond"
+                          },
+                          {
+                            "amount": {
+                              "numerator": "200481",
+                              "denominator": "5"
+                            },
+                            "resource": "input-tokens",
+                            "unit": "token"
+                          },
+                          {
+                            "amount": {
+                              "numerator": "1112",
+                              "denominator": "5"
+                            },
+                            "resource": "output-tokens",
+                            "unit": "token"
+                          },
+                          {
+                            "amount": {
+                              "numerator": "1",
+                              "denominator": "1"
+                            },
+                            "resource": "requests",
+                            "unit": "request"
+                          }
+                        ],
+                        "observationBasis": {
+                          "attempts": 5,
+                          "accepted": 0,
+                          "resourceBasis": "mean-per-attempt-including-refusals",
+                          "acceptedServiceEnergyIntensity": "unknown-no-source-admitted-meter-and-independent-service-denominator",
+                          "receipts": [
+                            "ni:///sha-256;E4JrJzUNUt0QLIrcRBZs2r8koH9aCUuUwlhuk1CKPho",
+                            "ni:///sha-256;FcgksnNDH26SayqDCpa0oGzWH4M8bIOcDltKEkxc2Mo",
+                            "ni:///sha-256;SyMIUCmfrg9Mi5mnthJbN1LYDJ5zr7PC8qruq5QEl60",
+                            "ni:///sha-256;n0fv48n5VyMzKRGOUxQAD66ihdEvq7EiHh8QvAKgJDY",
+                            "ni:///sha-256;vlLTIFdOUC0wBMLDxRzGDDizDhXU9STvaK73whC6H7o"
+                          ],
+                          "qualityPrior": {
+                            "observations": 0,
+                            "accepted": 0,
+                            "sourceReceipts": []
+                          }
+                        }
+                      }
+                    ],
+                    "execution": "explicit-sequential-authority-required",
+                    "implicitFallbackPermitted": false,
+                    "speculativeExecutionPermitted": false,
+                    "stopCondition": "customer-assayed-acceptance"
+                  }
+                ],
+                "refusals": [],
+                "rationale": [
+                  "exact-feasibility-first",
+                  "fresh-execution-required",
+                  "customer-ordered-pareto-selection",
+                  "provider-and-model-identities-are-provenance-only"
+                ],
+                "offers": [
+                  {
+                    "type": "NormalizedWorkOffer",
+                    "id": "urn:offer:direct-endpoint:urn:ame:bare-cedar-fog-codex-inference-team:l3k78btuNzmvmueURzT7MdqkmwlytwQnwHyX9Emsbxk:code-fabrication-assays",
+                    "provider": "urn:ame:bare-cedar-fog-codex-inference-team",
+                    "executionClass": "local-command-inference",
+                    "operation": "code-fabrication-assays",
+                    "implementationIdentity": "ni:///sha-256;l3k78btuNzmvmueURzT7MdqkmwlytwQnwHyX9Emsbxk",
+                    "configurationIdentity": "ni:///sha-256;l3k78btuNzmvmueURzT7MdqkmwlytwQnwHyX9Emsbxk",
+                    "capabilities": [
+                      "chat",
+                      "reasoning",
+                      "long-context",
+                      "json-output",
+                      "json-schema-output",
+                      "code",
+                      "classification",
+                      "extraction",
+                      "summarization",
+                      "inquiry",
+                      "software-engineering",
+                      "code-review",
+                      "text-output",
+                      "tool-calling"
+                    ],
+                    "qualityTiers": [
+                      "frontier-subscription"
+                    ],
+                    "authorityScopes": [
+                      "urn:scope:bounded-inference-candidate"
+                    ],
+                    "effects": [
+                      "read-only"
+                    ],
+                    "idempotence": [
+                      "idempotent"
+                    ],
+                    "dataConstraints": [],
+                    "custodyConstraints": [],
+                    "outputContractIdentities": [
+                      "ni:///sha-256;7IAXjNB0Sjczx3UutNZuD-puIhF9MCOp5lLHPi30PYc"
+                    ],
+                    "availability": "available",
+                    "availableCapacity": 1,
+                    "bounds": {},
+                    "consideration": [
+                      {
+                        "kind": "credit",
+                        "asset": "urn:union:consideration:provider-invocation",
+                        "unit": "provider-invocation",
+                        "amount": {
+                          "numerator": "1",
+                          "denominator": "1"
+                        }
+                      },
+                      {
+                        "kind": "currency",
+                        "asset": "urn:currency:usd",
+                        "unit": "cent",
+                        "amount": {
+                          "numerator": "0",
+                          "denominator": "1"
+                        }
+                      }
+                    ],
+                    "declaredResources": [
+                      {
+                        "resource": "provider-attention",
+                        "unit": "bounded-lot",
+                        "amount": {
+                          "numerator": "1",
+                          "denominator": "1"
+                        }
+                      }
+                    ],
+                    "semantics": {
+                      "reuse": "none"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          "judged": "refused"
+        }
+      ]
+    },
+    "workOrderSpecificationDigest": "ni:///sha-256;zO8bW_MI2aZw4M8b703VHkHrTMWbHE8A0iFvVnv2FjE",
+    "source": {
+      "type": "ArtifactFabricationSource",
+      "version": 1,
+      "identity": {
+        "type": "ArtifactFabricationSourceIdentity",
+        "id": "issuer-revenue-prepared-cohort"
+      },
+      "provenance": {
+        "type": "ArtifactFabricationSourceProvenance",
+        "locator": "/home/emsenn/bare-cedar-fog/lib/phezi-ochage/services/561-group/services/engineering-services-section/services/computer-engineering-services-section/services/computer-systems-engineering-services-section/services/computer-web-engineering-services-section/services/web-platform-services-section/services/web2-platform-services-section/services/web2-financial-platform-services-section/services/web2-financial-brokerage-platform-services-section/services/alpaca-services-section/services/issuer-research-media-service/specifications/prepared-cohort.work-order.md",
+        "digest": "sha256:68c831205a06086610449151ecc85519dfbabaa76db6e4256ff8b8678dfcb151",
+        "sourceSpan": {
+          "type": "ArtifactFabricationSourceSpan",
+          "startLine": 1,
+          "endLine": 63
+        }
+      }
+    }
+  }
+}

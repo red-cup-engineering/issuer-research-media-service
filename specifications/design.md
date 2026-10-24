@@ -48,6 +48,15 @@ binding, cohort/version, date coverage and independent snapshot freshness;
 it never requests SEC or recomputes multi-megabyte facts. Field and adapter
 contracts require that next unit's source-bound admission before fabrication.
 JSON operation configuration never grants executable adapters or source URLs.
+Compact cache receiving also checks latest-per-concept witness values against
+the reported current value, while permitting earlier changed-value witnesses.
+It preserves genuine conflicts as ambiguity and checks the exact producer
+packet statement against structured metadata without rehashing the packet.
+The retained first full-module proposal failed independent source review on
+these invariants and remains REFUSED under its original source/specification
+identities; its bytes must not be hand-edited or activated. Corrected living
+requirements need native admission and whole-unit refinement after actual
+host resource admission. Retained-delivery replay purchases no new inference.
 The existing issuer package owns new exports and the unchanged live packet;
 Alpaca delegates its legacy public face through that independent package.
 Package exports and packet relocation are deterministic manifest/source

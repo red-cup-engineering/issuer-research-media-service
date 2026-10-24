@@ -1,0 +1,423 @@
+{
+  "specificationDigest": "ni:///sha-256;MvWc6dzK2g8QP2YyagVcDFaD-uUNnf32tfyoJBOQfsc",
+  "plan": {
+    "type": "ArtifactFabricationRealizationPlan",
+    "version": 1,
+    "artifactId": "issuer-revenue-prepared-cohort",
+    "specificationDigest": "ni:///sha-256;MvWc6dzK2g8QP2YyagVcDFaD-uUNnf32tfyoJBOQfsc",
+    "projectionIds": [
+      "jsnode-modules"
+    ],
+    "acceptanceObligationIds": [
+      "io-receiving",
+      "pure-receiving"
+    ],
+    "traceability": [
+      {
+        "type": "ArtifactFabricationTrace",
+        "version": 1,
+        "requirementId": "configuration",
+        "constraintIds": [
+          "async-contract-1",
+          "async-contract-2",
+          "async-contract-3",
+          "async-contract-4",
+          "async-contract-5",
+          "async-contract-6",
+          "async-contract-7",
+          "native-fabrication",
+          "sec-source",
+          "source-demand",
+          "source-integrity"
+        ],
+        "projectionIds": [
+          "jsnode-modules"
+        ],
+        "acceptanceObligationIds": [
+          "pure-receiving"
+        ]
+      },
+      {
+        "type": "ArtifactFabricationTrace",
+        "version": 1,
+        "requirementId": "acquisition-plan",
+        "constraintIds": [
+          "async-contract-1",
+          "async-contract-2",
+          "async-contract-3",
+          "async-contract-4",
+          "async-contract-5",
+          "async-contract-6",
+          "async-contract-7",
+          "native-fabrication",
+          "sec-source",
+          "source-demand",
+          "source-integrity"
+        ],
+        "projectionIds": [
+          "jsnode-modules"
+        ],
+        "acceptanceObligationIds": [
+          "pure-receiving"
+        ]
+      },
+      {
+        "type": "ArtifactFabricationTrace",
+        "version": 1,
+        "requirementId": "public-request",
+        "constraintIds": [
+          "async-contract-1",
+          "async-contract-2",
+          "async-contract-3",
+          "async-contract-4",
+          "async-contract-5",
+          "async-contract-6",
+          "async-contract-7",
+          "native-fabrication",
+          "sec-source",
+          "source-demand",
+          "source-integrity"
+        ],
+        "projectionIds": [
+          "jsnode-modules"
+        ],
+        "acceptanceObligationIds": [
+          "pure-receiving"
+        ]
+      },
+      {
+        "type": "ArtifactFabricationTrace",
+        "version": 1,
+        "requirementId": "selector-input",
+        "constraintIds": [
+          "async-contract-1",
+          "async-contract-2",
+          "async-contract-3",
+          "async-contract-4",
+          "async-contract-5",
+          "async-contract-6",
+          "async-contract-7",
+          "native-fabrication",
+          "sec-source",
+          "source-demand",
+          "source-integrity"
+        ],
+        "projectionIds": [
+          "jsnode-modules"
+        ],
+        "acceptanceObligationIds": [
+          "pure-receiving"
+        ]
+      },
+      {
+        "type": "ArtifactFabricationTrace",
+        "version": 1,
+        "requirementId": "cohort-boundary",
+        "constraintIds": [
+          "async-contract-1",
+          "async-contract-2",
+          "async-contract-3",
+          "async-contract-4",
+          "async-contract-5",
+          "async-contract-6",
+          "async-contract-7",
+          "native-fabrication",
+          "sec-source",
+          "source-demand",
+          "source-integrity"
+        ],
+        "projectionIds": [
+          "jsnode-modules"
+        ],
+        "acceptanceObligationIds": [
+          "pure-receiving"
+        ]
+      },
+      {
+        "type": "ArtifactFabricationTrace",
+        "version": 1,
+        "requirementId": "configured-cohort",
+        "constraintIds": [
+          "async-contract-1",
+          "async-contract-2",
+          "async-contract-3",
+          "async-contract-4",
+          "async-contract-5",
+          "async-contract-6",
+          "async-contract-7",
+          "native-fabrication",
+          "sec-source",
+          "source-demand",
+          "source-integrity"
+        ],
+        "projectionIds": [
+          "jsnode-modules"
+        ],
+        "acceptanceObligationIds": [
+          "pure-receiving"
+        ]
+      },
+      {
+        "type": "ArtifactFabricationTrace",
+        "version": 1,
+        "requirementId": "financial-freshness",
+        "constraintIds": [
+          "async-contract-1",
+          "async-contract-2",
+          "async-contract-3",
+          "async-contract-4",
+          "async-contract-5",
+          "async-contract-6",
+          "async-contract-7",
+          "native-fabrication",
+          "sec-source",
+          "source-demand",
+          "source-integrity"
+        ],
+        "projectionIds": [
+          "jsnode-modules"
+        ],
+        "acceptanceObligationIds": [
+          "pure-receiving"
+        ]
+      },
+      {
+        "type": "ArtifactFabricationTrace",
+        "version": 1,
+        "requirementId": "prepared-packets",
+        "constraintIds": [
+          "async-contract-1",
+          "async-contract-2",
+          "async-contract-3",
+          "async-contract-4",
+          "async-contract-5",
+          "async-contract-6",
+          "async-contract-7",
+          "native-fabrication",
+          "sec-source",
+          "source-demand",
+          "source-integrity"
+        ],
+        "projectionIds": [
+          "jsnode-modules"
+        ],
+        "acceptanceObligationIds": [
+          "pure-receiving"
+        ]
+      },
+      {
+        "type": "ArtifactFabricationTrace",
+        "version": 1,
+        "requirementId": "return-unchanged",
+        "constraintIds": [
+          "async-contract-1",
+          "async-contract-2",
+          "async-contract-3",
+          "async-contract-4",
+          "async-contract-5",
+          "async-contract-6",
+          "async-contract-7",
+          "native-fabrication",
+          "sec-source",
+          "source-demand",
+          "source-integrity"
+        ],
+        "projectionIds": [
+          "jsnode-modules"
+        ],
+        "acceptanceObligationIds": [
+          "pure-receiving"
+        ]
+      },
+      {
+        "type": "ArtifactFabricationTrace",
+        "version": 1,
+        "requirementId": "module-interfaces",
+        "constraintIds": [
+          "async-contract-1",
+          "async-contract-2",
+          "async-contract-3",
+          "async-contract-4",
+          "async-contract-5",
+          "async-contract-6",
+          "async-contract-7",
+          "native-fabrication",
+          "sec-source",
+          "source-demand",
+          "source-integrity"
+        ],
+        "projectionIds": [
+          "jsnode-modules"
+        ],
+        "acceptanceObligationIds": [
+          "io-receiving"
+        ]
+      },
+      {
+        "type": "ArtifactFabricationTrace",
+        "version": 1,
+        "requirementId": "supplier-closure",
+        "constraintIds": [
+          "async-contract-1",
+          "async-contract-2",
+          "async-contract-3",
+          "async-contract-4",
+          "async-contract-5",
+          "async-contract-6",
+          "async-contract-7",
+          "native-fabrication",
+          "sec-source",
+          "source-demand",
+          "source-integrity"
+        ],
+        "projectionIds": [
+          "jsnode-modules"
+        ],
+        "acceptanceObligationIds": [
+          "pure-receiving"
+        ]
+      },
+      {
+        "type": "ArtifactFabricationTrace",
+        "version": 1,
+        "requirementId": "pure-effects",
+        "constraintIds": [
+          "async-contract-1",
+          "async-contract-2",
+          "async-contract-3",
+          "async-contract-4",
+          "async-contract-5",
+          "async-contract-6",
+          "async-contract-7",
+          "native-fabrication",
+          "sec-source",
+          "source-demand",
+          "source-integrity"
+        ],
+        "projectionIds": [
+          "jsnode-modules"
+        ],
+        "acceptanceObligationIds": [
+          "pure-receiving"
+        ]
+      },
+      {
+        "type": "ArtifactFabricationTrace",
+        "version": 1,
+        "requirementId": "no-substitutes",
+        "constraintIds": [
+          "async-contract-1",
+          "async-contract-2",
+          "async-contract-3",
+          "async-contract-4",
+          "async-contract-5",
+          "async-contract-6",
+          "async-contract-7",
+          "native-fabrication",
+          "sec-source",
+          "source-demand",
+          "source-integrity"
+        ],
+        "projectionIds": [
+          "jsnode-modules"
+        ],
+        "acceptanceObligationIds": [
+          "pure-receiving"
+        ]
+      }
+    ]
+  },
+  "fabrication": {
+    "type": "JsnodeModuleDerivationRefusal",
+    "version": 1,
+    "phase": "derivation",
+    "code": "ASSAY_CONTEXT_UNAVAILABLE",
+    "message": "assay dependency unavailable: @red-cup-engineering/uri-services-section@0.1.1",
+    "cause": {
+      "type": "JsnodeClosureDerivationRefusal",
+      "version": 1,
+      "code": "ASSAY_CONTEXT_UNAVAILABLE",
+      "evidence": "assay dependency unavailable: @red-cup-engineering/uri-services-section@0.1.1",
+      "dependencyResolutions": [
+        {
+          "type": "InstalledNpmPackageResolutionRead",
+          "version": 1,
+          "expectedName": "@red-cup-engineering/issuer-research-media-service",
+          "expectedVersion": "0.1.3-dev.1",
+          "projectRoot": "/home/emsenn/info/lib/emsenn/services/561-group/services/engineering-services-section/services/computer-engineering-services-section/services/computer-systems-engineering-services-section/services/computer-web-engineering-services-section/services/web-platform-services-section/services/web2-platform-services-section/services/web2-financial-platform-services-section/services/web2-financial-brokerage-platform-services-section/services/alpaca-services-section",
+          "entry": {
+            "kind": "package"
+          },
+          "entryPath": null,
+          "packageRoot": "/home/emsenn/bare-cedar-fog/lib/phezi-ochage/services/561-group/services/engineering-services-section/services/computer-engineering-services-section/services/computer-systems-engineering-services-section/services/computer-web-engineering-services-section/services/web-platform-services-section/services/web2-platform-services-section/services/web2-financial-platform-services-section/services/web2-financial-brokerage-platform-services-section/services/alpaca-services-section/services/issuer-research-media-service",
+          "name": "@red-cup-engineering/issuer-research-media-service",
+          "packageVersion": "0.1.3-dev.1",
+          "conformant": true,
+          "defects": []
+        },
+        {
+          "type": "InstalledNpmPackageResolutionRead",
+          "version": 1,
+          "expectedName": "@red-cup-engineering/computer-content-address-engineering-services-section",
+          "expectedVersion": "0.2.0",
+          "projectRoot": "/home/emsenn/info/lib/emsenn/services/561-group/services/engineering-services-section/services/computer-engineering-services-section/services/computer-systems-engineering-services-section/services/computer-web-engineering-services-section/services/web-platform-services-section/services/web2-platform-services-section/services/web2-financial-platform-services-section/services/web2-financial-brokerage-platform-services-section/services/alpaca-services-section",
+          "entry": {
+            "kind": "package"
+          },
+          "entryPath": null,
+          "packageRoot": "/home/emsenn/bare-cedar-fog/lib/phezi-ochage/services/561-group/services/engineering-services-section/services/computer-engineering-services-section/services/computer-data-engineering-services-section/services/computer-content-engineering-services-section/services/computer-content-address-engineering-services-section",
+          "name": "@red-cup-engineering/computer-content-address-engineering-services-section",
+          "packageVersion": "0.2.0",
+          "conformant": true,
+          "defects": []
+        },
+        {
+          "type": "InstalledNpmPackageResolutionRead",
+          "version": 1,
+          "expectedName": "@red-cup-engineering/uri-services-section",
+          "expectedVersion": "0.1.1",
+          "projectRoot": "/home/emsenn/info/lib/emsenn/services/561-group/services/engineering-services-section/services/computer-engineering-services-section/services/computer-systems-engineering-services-section/services/computer-web-engineering-services-section/services/web-platform-services-section/services/web2-platform-services-section/services/web2-financial-platform-services-section/services/web2-financial-brokerage-platform-services-section/services/alpaca-services-section",
+          "entry": {
+            "kind": "package"
+          },
+          "entryPath": null,
+          "packageRoot": "/home/emsenn/bare-cedar-fog/lib/phezi-ochage/services/561-group/services/engineering-services-section/services/computer-engineering-services-section/services/computer-data-engineering-services-section/services/computer-content-engineering-services-section/services/computer-content-address-engineering-services-section/services/uri-services-section",
+          "name": "@red-cup-engineering/uri-services-section",
+          "packageVersion": "0.1.3",
+          "conformant": false,
+          "defects": [
+            {
+              "law": "installed-identity",
+              "expectedName": "@red-cup-engineering/uri-services-section",
+              "expectedVersion": "0.1.1",
+              "actualName": "@red-cup-engineering/uri-services-section",
+              "actualVersion": "0.1.3",
+              "packageRoot": "/home/emsenn/bare-cedar-fog/lib/phezi-ochage/services/561-group/services/engineering-services-section/services/computer-engineering-services-section/services/computer-data-engineering-services-section/services/computer-content-engineering-services-section/services/computer-content-address-engineering-services-section/services/uri-services-section",
+              "entryPath": null
+            }
+          ]
+        }
+      ],
+      "derivations": []
+    },
+    "workOrderSpecificationDigest": "ni:///sha-256;MvWc6dzK2g8QP2YyagVcDFaD-uUNnf32tfyoJBOQfsc",
+    "source": {
+      "type": "ArtifactFabricationSource",
+      "version": 1,
+      "identity": {
+        "type": "ArtifactFabricationSourceIdentity",
+        "id": "issuer-revenue-prepared-cohort"
+      },
+      "provenance": {
+        "type": "ArtifactFabricationSourceProvenance",
+        "locator": "/home/emsenn/info/lib/emsenn/services/561-group/services/engineering-services-section/services/computer-engineering-services-section/services/computer-systems-engineering-services-section/services/computer-web-engineering-services-section/services/web-platform-services-section/services/web2-platform-services-section/services/web2-financial-platform-services-section/services/web2-financial-brokerage-platform-services-section/services/alpaca-services-section/services/issuer-research-media-service/specifications/prepared-cohort.work-order.md",
+        "digest": "sha256:5ae4ddaf32899f9875269d544fe85e5d8f6134fb67ac033fddbbc095a1980bc9",
+        "sourceSpan": {
+          "type": "ArtifactFabricationSourceSpan",
+          "startLine": 1,
+          "endLine": 61
+        }
+      }
+    }
+  }
+}

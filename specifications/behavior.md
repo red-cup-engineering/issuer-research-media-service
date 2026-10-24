@@ -35,6 +35,12 @@ response, malformed JSON or CIK mismatch refuses before producing a new cohort;
 rate/temporary failure retains retryability and Retry-After. One source failure
 never yields a partially refreshed comparison.
 
+The structural User-Agent predicate is trim-nonempty text, no CR/LF and a
+literal @. It proves no mailbox grammar, deliverability or operator identity;
+the actual operator independently receives that identity. Extra trusted host
+control metadata is ignored by this supplier. The controller owns activation
+and resource admission.
+
 For each received source retain exact raw-octet content address, source URI and
 observation instant. Derive quarter and annual kernel results using the actual
 observed UTC day as asOf and their separately configured period-age bounds.
@@ -82,6 +88,15 @@ satisfy the same financial-period-age bound; ambiguity precedence in the kernel
 must not make ancient conflicting evidence saleable. Snapshot age and financial
 period age are separate. Return the selected prepared comparison unchanged;
 no original source or packet identity can be silently recertified at read time.
+
+Current value metadata must agree with every latest-filed witness within each
+concept. Conflicting latest values cannot be labeled current. Earlier witnesses
+may differ after a legitimate changed-value rereport and must remain retained.
+A same-period ambiguous report needs conflicting latest values; a null-period
+ambiguous report needs multiple starts sharing its selected end. The single
+packet claim must exactly match the producer's declared literal status, period,
+value and revision statement and cite that issuer's source. These are compact
+consistency checks, without raw-facts recomputation or identity recertification.
 
 Unavailability is an Error with code issuer-revenue-unavailable and status503;
 malformed caller/configuration uses TypeError before egress. Source acquisition

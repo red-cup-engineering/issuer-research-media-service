@@ -17,5 +17,8 @@
       "passed": 3,
       "originalFirstAttempt": "missing Data package import; integration owner restored declared resolution and test reran because closure changed"
     }
-  }
+  },
+  "status": "superseded-proposal",
+  "supersededBy": "source-owner-reconciliation.json",
+  "currentCustody": "Live packet constructor now belongs to this independent issuer package; Alpaca delegates through its declared child dependency. The historical child-to-parent relative import described above is not the selected source."
 }
