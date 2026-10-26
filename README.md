@@ -9,6 +9,20 @@
 
 Source-backed issuer evidence and fiscal-period/revision reconciliation.
 
+The `./issuer-concept-coherence` surface runs the distal bypass over one
+issuer's SEC filings for one XBRL concept. Each filing is a record, each period
+it reports is a cell, and Metrologic's settling cohomology decides where the
+filings disagree. A later filing that reports a different value is a border: the
+issuer revised its own account, and both values are kept. A filing that
+disagrees with itself, or same-day filings that disagree, is damage with its
+least-cost repair. Every obstruction is a certificate, and the sheet is
+content-addressed.
+
+- `issuerConceptCoherence(document)` decides over a received SEC
+  companyconcept document;
+- `readIssuerConceptCoherence({ ticker | cik, concept, taxonomy })` reads that
+  document from data.sec.gov and decides.
+
 The default export surface retains `formIssuerEvidencePacket`. The
 `./revenue-reconciliation` surface provides the pure
 `reconcileIssuerRevenueFacts` kernel. The `./prepared-cohort` surface provides:
