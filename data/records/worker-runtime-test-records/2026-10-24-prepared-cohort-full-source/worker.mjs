@@ -2100,7 +2100,7 @@ function portableSha256Bytes(bytes) {
   return hex;
 }
 
-// ../../../../../../../../../../../../../../../../../github-engineering-services-section/node_modules/@red-cup-engineering/uri-services-section/src/ni-uri.mjs
+// ../../../../../../../../../../../../../../../../../github-engineering-services-section/node_modules/@red-cup-engineering/uri-engineering-services-section/src/ni-uri.mjs
 function base64url(bytes) {
   let text2 = "";
   for (const byte of bytes) text2 += String.fromCharCode(byte);
@@ -2150,7 +2150,7 @@ function bytesCompare(left, right) {
   return left.length === right.length ? 0 : left.length < right.length ? -1 : 1;
 }
 
-// ../../../../../../../../../../../../../../../../../github-engineering-services-section/node_modules/@red-cup-engineering/cbor-services-section/src/cbor.mjs
+// ../../../../../../../../../../../../../../../../../github-engineering-services-section/node_modules/@red-cup-engineering/cbor-engineering-services-section/src/cbor.mjs
 var OPTIONS = Object.freeze({ ...defaultEncodeOptions, simplifyNegativeZero: true, ignoreOriginalEncoding: true, ignoreGlobalTags: true });
 function fail(code, message) {
   const error = new Error(message);
@@ -3213,7 +3213,7 @@ function semanticIdOf(objectKind) {
   return (value) => identifyJsonSemanticContent({ objectKind, value, witnessRoot: EMPTY_WITNESS_ROOT }).id;
 }
 
-// ../../../../../../../../../../../../../../../../../github-engineering-services-section/node_modules/@red-cup-engineering/json-services-section/scripts/canonical-json.mjs
+// ../../../../../../../../../../../../../../../../../github-engineering-services-section/node_modules/@red-cup-engineering/json-engineering-services-section/scripts/canonical-json.mjs
 var UNBOUNDED_JSON_ENVELOPE = Object.freeze({
   maxSourceBytes: Infinity,
   maxCanonicalBytes: Infinity,

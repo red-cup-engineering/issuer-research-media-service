@@ -1,7 +1,7 @@
 import { formIssuerEvidencePacket } from '@red-cup-engineering/issuer-research-media-service';
 import { reconcileIssuerRevenueFacts } from '@red-cup-engineering/issuer-research-media-service/revenue-reconciliation';
 import { addressContent } from '@red-cup-engineering/computer-content-address-engineering-services-section/content-address';
-import { isNiUri } from '@red-cup-engineering/uri-services-section/ni-uri';
+import { isNiUri } from '@red-cup-engineering/uri-engineering-services-section/ni-uri';
 
 /*
  * Source: issuer-revenue-prepared-cohort, prepared-cohort.work-order.md:1-64,

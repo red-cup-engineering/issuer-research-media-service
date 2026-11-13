@@ -3,7 +3,7 @@
   "version": 1,
   "status": "READY_WAITING_OPERATOR_RESOURCE_PLACEMENT_RECEIPT",
   "scope": "Replay/receiving of exact newly delivered corrected source and original assays, not a new provider lot or purchase.",
-  "nativeModuleAPI": "@red-cup-engineering/jsnode-package-services-section/derive-jsnode-package-from-closure#deriveJsnodeModules",
+  "nativeModuleAPI": "@red-cup-engineering/jsnode-package-engineering-services-section/derive-jsnode-package-from-closure#deriveJsnodeModules",
   "hostAPI": "computer-code-development-engine/src/fabrication/isolated-module-assay.mjs#createIsolatedModuleAssayExecutor",
   "candidate": "data/records/fabrication-run-records/2026-10-24-prepared-cohort/refinement/artifact.candidate.json",
   "candidateSha256": "b6077869ae9f167d611f9237312acfea25c6c2ed2700e9cab8a0e0f240dc8a9e",

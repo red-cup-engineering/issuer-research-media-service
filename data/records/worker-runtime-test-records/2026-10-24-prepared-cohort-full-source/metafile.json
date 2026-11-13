@@ -321,12 +321,12 @@
       "imports": [],
       "format": "esm"
     },
-    "../../../../../../../../../../../../../../../../../github-engineering-services-section/node_modules/@red-cup-engineering/json-services-section/src/json-byte-carrier.mjs": {
+    "../../../../../../../../../../../../../../../../../github-engineering-services-section/node_modules/@red-cup-engineering/json-engineering-services-section/src/json-byte-carrier.mjs": {
       "bytes": 3658,
       "imports": [],
       "format": "esm"
     },
-    "../../../../../../../../../../../../../../../../../github-engineering-services-section/node_modules/@red-cup-engineering/uri-services-section/src/ni-uri.mjs": {
+    "../../../../../../../../../../../../../../../../../github-engineering-services-section/node_modules/@red-cup-engineering/uri-engineering-services-section/src/ni-uri.mjs": {
       "bytes": 5749,
       "imports": [
         {
@@ -335,9 +335,9 @@
           "original": "@red-cup-engineering/cryptographic-computer-data-engineering-services-section/portable-sha256"
         },
         {
-          "path": "../../../../../../../../../../../../../../../../../github-engineering-services-section/node_modules/@red-cup-engineering/json-services-section/src/json-byte-carrier.mjs",
+          "path": "../../../../../../../../../../../../../../../../../github-engineering-services-section/node_modules/@red-cup-engineering/json-engineering-services-section/src/json-byte-carrier.mjs",
           "kind": "import-statement",
-          "original": "@red-cup-engineering/json-services-section/json-byte-carrier"
+          "original": "@red-cup-engineering/json-engineering-services-section/json-byte-carrier"
         }
       ],
       "format": "esm"
@@ -347,7 +347,7 @@
       "imports": [],
       "format": "esm"
     },
-    "../../../../../../../../../../../../../../../../../github-engineering-services-section/node_modules/@red-cup-engineering/cbor-services-section/src/cbor.mjs": {
+    "../../../../../../../../../../../../../../../../../github-engineering-services-section/node_modules/@red-cup-engineering/cbor-engineering-services-section/src/cbor.mjs": {
       "bytes": 8363,
       "imports": [
         {
@@ -371,9 +371,9 @@
           "original": "cbor2/tag"
         },
         {
-          "path": "../../../../../../../../../../../../../../../../../github-engineering-services-section/node_modules/@red-cup-engineering/uri-services-section/src/ni-uri.mjs",
+          "path": "../../../../../../../../../../../../../../../../../github-engineering-services-section/node_modules/@red-cup-engineering/uri-engineering-services-section/src/ni-uri.mjs",
           "kind": "import-statement",
-          "original": "@red-cup-engineering/uri-services-section/ni-uri"
+          "original": "@red-cup-engineering/uri-engineering-services-section/ni-uri"
         },
         {
           "path": "../../../../../../../../../../../../../../../../../github-engineering-services-section/node_modules/@red-cup-engineering/cryptographic-computer-data-engineering-services-section/src/portable-bytes.mjs",
@@ -387,14 +387,14 @@
       "bytes": 9144,
       "imports": [
         {
-          "path": "../../../../../../../../../../../../../../../../../github-engineering-services-section/node_modules/@red-cup-engineering/cbor-services-section/src/cbor.mjs",
+          "path": "../../../../../../../../../../../../../../../../../github-engineering-services-section/node_modules/@red-cup-engineering/cbor-engineering-services-section/src/cbor.mjs",
           "kind": "import-statement",
-          "original": "@red-cup-engineering/cbor-services-section"
+          "original": "@red-cup-engineering/cbor-engineering-services-section"
         },
         {
-          "path": "../../../../../../../../../../../../../../../../../github-engineering-services-section/node_modules/@red-cup-engineering/uri-services-section/src/ni-uri.mjs",
+          "path": "../../../../../../../../../../../../../../../../../github-engineering-services-section/node_modules/@red-cup-engineering/uri-engineering-services-section/src/ni-uri.mjs",
           "kind": "import-statement",
-          "original": "@red-cup-engineering/uri-services-section/ni-uri"
+          "original": "@red-cup-engineering/uri-engineering-services-section/ni-uri"
         },
         {
           "path": "../../../../../../../../../../../../../../../../../github-engineering-services-section/node_modules/@red-cup-engineering/cryptographic-computer-data-engineering-services-section/src/portable-sha256.mjs",
@@ -486,9 +486,9 @@
           "original": "./notation.mjs"
         },
         {
-          "path": "../../../../../../../../../../../../../../../../../github-engineering-services-section/node_modules/@red-cup-engineering/cbor-services-section/src/cbor.mjs",
+          "path": "../../../../../../../../../../../../../../../../../github-engineering-services-section/node_modules/@red-cup-engineering/cbor-engineering-services-section/src/cbor.mjs",
           "kind": "import-statement",
-          "original": "@red-cup-engineering/cbor-services-section"
+          "original": "@red-cup-engineering/cbor-engineering-services-section"
         }
       ],
       "format": "esm"
@@ -518,9 +518,9 @@
           "original": "@red-cup-engineering/computer-content-address-engineering-services-section/semiotic-content-address"
         },
         {
-          "path": "../../../../../../../../../../../../../../../../../github-engineering-services-section/node_modules/@red-cup-engineering/uri-services-section/src/ni-uri.mjs",
+          "path": "../../../../../../../../../../../../../../../../../github-engineering-services-section/node_modules/@red-cup-engineering/uri-engineering-services-section/src/ni-uri.mjs",
           "kind": "import-statement",
-          "original": "@red-cup-engineering/uri-services-section/ni-uri"
+          "original": "@red-cup-engineering/uri-engineering-services-section/ni-uri"
         },
         {
           "path": "../../../../../../../../../../../../../../../../../github-engineering-services-section/node_modules/@red-cup-engineering/computer-data-engineering-services-section/src/semiotic-expression-notation/json-codec.mjs",
@@ -533,14 +533,14 @@
           "original": "./typing.mjs"
         },
         {
-          "path": "../../../../../../../../../../../../../../../../../github-engineering-services-section/node_modules/@red-cup-engineering/json-services-section/src/json-byte-carrier.mjs",
+          "path": "../../../../../../../../../../../../../../../../../github-engineering-services-section/node_modules/@red-cup-engineering/json-engineering-services-section/src/json-byte-carrier.mjs",
           "kind": "import-statement",
-          "original": "@red-cup-engineering/json-services-section/json-byte-carrier"
+          "original": "@red-cup-engineering/json-engineering-services-section/json-byte-carrier"
         }
       ],
       "format": "esm"
     },
-    "../../../../../../../../../../../../../../../../../github-engineering-services-section/node_modules/@red-cup-engineering/json-services-section/scripts/canonical-json.mjs": {
+    "../../../../../../../../../../../../../../../../../github-engineering-services-section/node_modules/@red-cup-engineering/json-engineering-services-section/scripts/canonical-json.mjs": {
       "bytes": 19693,
       "imports": [],
       "format": "esm"
@@ -554,9 +554,9 @@
           "original": "@red-cup-engineering/computer-data-engineering-services-section/semiotic-expression-notation/semantic-content-identity"
         },
         {
-          "path": "../../../../../../../../../../../../../../../../../github-engineering-services-section/node_modules/@red-cup-engineering/json-services-section/scripts/canonical-json.mjs",
+          "path": "../../../../../../../../../../../../../../../../../github-engineering-services-section/node_modules/@red-cup-engineering/json-engineering-services-section/scripts/canonical-json.mjs",
           "kind": "import-statement",
-          "original": "@red-cup-engineering/json-services-section/canonical-json"
+          "original": "@red-cup-engineering/json-engineering-services-section/canonical-json"
         }
       ],
       "format": "esm"
@@ -587,7 +587,7 @@
         {
           "path": "../../../../../../../../../../../../../../../computer-data-engineering-services-section/services/computer-content-engineering-services-section/services/computer-serialized-content-engineering-services-section/services/json-services-section/src/json-byte-carrier.mjs",
           "kind": "import-statement",
-          "original": "@red-cup-engineering/json-services-section/json-byte-carrier"
+          "original": "@red-cup-engineering/json-engineering-services-section/json-byte-carrier"
         }
       ],
       "format": "esm"
@@ -598,7 +598,7 @@
         {
           "path": "../../../../../../../../../../../../../../../computer-data-engineering-services-section/services/computer-content-engineering-services-section/services/computer-content-address-engineering-services-section/services/uri-services-section/src/ni-uri.mjs",
           "kind": "import-statement",
-          "original": "@red-cup-engineering/uri-services-section/ni-uri"
+          "original": "@red-cup-engineering/uri-engineering-services-section/ni-uri"
         }
       ],
       "format": "esm"
@@ -624,7 +624,7 @@
         {
           "path": "../../../../../../../../../../../../../../../computer-data-engineering-services-section/services/computer-content-engineering-services-section/services/computer-content-address-engineering-services-section/services/uri-services-section/src/ni-uri.mjs",
           "kind": "import-statement",
-          "original": "@red-cup-engineering/uri-services-section/ni-uri"
+          "original": "@red-cup-engineering/uri-engineering-services-section/ni-uri"
         }
       ],
       "format": "esm"
@@ -724,13 +724,13 @@
         "../../../../../../../../../../../../../../../../../github-engineering-services-section/node_modules/@red-cup-engineering/cryptographic-computer-data-engineering-services-section/src/portable-sha256.mjs": {
           "bytesInOutput": 2939
         },
-        "../../../../../../../../../../../../../../../../../github-engineering-services-section/node_modules/@red-cup-engineering/uri-services-section/src/ni-uri.mjs": {
+        "../../../../../../../../../../../../../../../../../github-engineering-services-section/node_modules/@red-cup-engineering/uri-engineering-services-section/src/ni-uri.mjs": {
           "bytesInOutput": 1282
         },
         "../../../../../../../../../../../../../../../../../github-engineering-services-section/node_modules/@red-cup-engineering/cryptographic-computer-data-engineering-services-section/src/portable-bytes.mjs": {
           "bytesInOutput": 699
         },
-        "../../../../../../../../../../../../../../../../../github-engineering-services-section/node_modules/@red-cup-engineering/cbor-services-section/src/cbor.mjs": {
+        "../../../../../../../../../../../../../../../../../github-engineering-services-section/node_modules/@red-cup-engineering/cbor-engineering-services-section/src/cbor.mjs": {
           "bytesInOutput": 2713
         },
         "../../../../../../../../../../../../../../../../../github-engineering-services-section/node_modules/@red-cup-engineering/computer-content-address-engineering-services-section/src/semiotic-content-address.mjs": {
@@ -757,7 +757,7 @@
         "../../../../../../../../../../../../../../../../../github-engineering-services-section/node_modules/@red-cup-engineering/computer-data-engineering-services-section/src/semiotic-expression-notation/semantic-content-identity.mjs": {
           "bytesInOutput": 5831
         },
-        "../../../../../../../../../../../../../../../../../github-engineering-services-section/node_modules/@red-cup-engineering/json-services-section/scripts/canonical-json.mjs": {
+        "../../../../../../../../../../../../../../../../../github-engineering-services-section/node_modules/@red-cup-engineering/json-engineering-services-section/scripts/canonical-json.mjs": {
           "bytesInOutput": 9535
         },
         "src/evidence-packet.mjs": {

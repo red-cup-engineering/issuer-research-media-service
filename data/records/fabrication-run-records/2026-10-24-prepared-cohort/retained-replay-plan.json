@@ -7,7 +7,7 @@
   "cliArguments": [
     "--input-type=module"
   ],
-  "nativeModuleAPI": "@red-cup-engineering/jsnode-package-services-section/derive-jsnode-package-from-closure#deriveJsnodeModules",
+  "nativeModuleAPI": "@red-cup-engineering/jsnode-package-engineering-services-section/derive-jsnode-package-from-closure#deriveJsnodeModules",
   "hostAPI": "computer-code-development-engine/src/fabrication/isolated-module-assay.mjs#createIsolatedModuleAssayExecutor",
   "originalCandidate": "data/records/fabrication-run-records/2026-10-24-prepared-cohort/artifact.candidate.before-value-receiving.json",
   "originalSourceSpecification": "ni:///sha-256;zbn4SQ9WNdZOfYKUijH2WcQ_G-RV5xB3nLt4i4nqdEk",
@@ -32,6 +32,6 @@
     "No hand edits to generated source; no src/prepared-cohort.mjs is active; no public enablement or R2 writes"
   ],
   "nativeCLIStatus": "Existing fabricate-jsnode-closure.mjs is the provider-purchase CLI and has no retained-delivery recall flag. Do not invent one or rerun it as replay.",
-  "nativeModuleSource": "/home/emsenn/info/lib/emsenn/services/561-group/services/engineering-services-section/services/computer-engineering-services-section/services/computer-systems-engineering-services-section/services/computer-code-development-system-services-section/apps/computer-code-development-engine/node_modules/@red-cup-engineering/jsnode-package-services-section/src/derive-jsnode-package-from-closure.mjs",
+  "nativeModuleSource": "/home/emsenn/info/lib/emsenn/services/561-group/services/engineering-services-section/services/computer-engineering-services-section/services/computer-systems-engineering-services-section/services/computer-code-development-system-services-section/apps/computer-code-development-engine/node_modules/@red-cup-engineering/jsnode-package-engineering-services-section/src/derive-jsnode-package-from-closure.mjs",
   "hostModuleSource": "/home/emsenn/info/lib/emsenn/services/561-group/services/engineering-services-section/services/computer-engineering-services-section/services/computer-systems-engineering-services-section/services/computer-code-development-system-services-section/apps/computer-code-development-engine/src/fabrication/isolated-module-assay.mjs"
 }

@@ -28,7 +28,7 @@
       "closure": "ni:///sha-256;dmFbwAT3uHzHBGZLNBgyWhWzLSkuknJ5FYS5SnlvJn4"
     },
     {
-      "name": "@red-cup-engineering/uri-services-section",
+      "name": "@red-cup-engineering/uri-engineering-services-section",
       "face": "./ni-uri",
       "sourceModules": 3,
       "sourceBytes": 14709,
