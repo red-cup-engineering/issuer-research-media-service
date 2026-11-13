@@ -3727,7 +3727,7 @@ function portableSha256Bytes2(bytes) {
   return hex;
 }
 
-// ../../../../../../../../../../../../../../../computer-data-engineering-services-section/services/computer-content-engineering-services-section/services/computer-content-address-engineering-services-section/services/uri-services-section/src/ni-uri.mjs
+// ../../../../../../../../../../../../../../../computer-data-engineering-services-section/services/computer-content-engineering-services-section/services/computer-content-address-engineering-services-section/services/uri-engineering-services-section/src/ni-uri.mjs
 function base64url2(bytes) {
   let text2 = "";
   for (const byte of bytes) text2 += String.fromCharCode(byte);

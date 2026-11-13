@@ -571,12 +571,12 @@
       "imports": [],
       "format": "esm"
     },
-    "../../../../../../../../../../../../../../../computer-data-engineering-services-section/services/computer-content-engineering-services-section/services/computer-serialized-content-engineering-services-section/services/json-services-section/src/json-byte-carrier.mjs": {
+    "../../../../../../../../../../../../../../../computer-data-engineering-services-section/services/computer-content-engineering-services-section/services/computer-serialized-content-engineering-services-section/services/json-engineering-services-section/src/json-byte-carrier.mjs": {
       "bytes": 3658,
       "imports": [],
       "format": "esm"
     },
-    "../../../../../../../../../../../../../../../computer-data-engineering-services-section/services/computer-content-engineering-services-section/services/computer-content-address-engineering-services-section/services/uri-services-section/src/ni-uri.mjs": {
+    "../../../../../../../../../../../../../../../computer-data-engineering-services-section/services/computer-content-engineering-services-section/services/computer-content-address-engineering-services-section/services/uri-engineering-services-section/src/ni-uri.mjs": {
       "bytes": 7456,
       "imports": [
         {
@@ -585,7 +585,7 @@
           "original": "@red-cup-engineering/cryptographic-computer-data-engineering-services-section/portable-sha256"
         },
         {
-          "path": "../../../../../../../../../../../../../../../computer-data-engineering-services-section/services/computer-content-engineering-services-section/services/computer-serialized-content-engineering-services-section/services/json-services-section/src/json-byte-carrier.mjs",
+          "path": "../../../../../../../../../../../../../../../computer-data-engineering-services-section/services/computer-content-engineering-services-section/services/computer-serialized-content-engineering-services-section/services/json-engineering-services-section/src/json-byte-carrier.mjs",
           "kind": "import-statement",
           "original": "@red-cup-engineering/json-engineering-services-section/json-byte-carrier"
         }
@@ -596,7 +596,7 @@
       "bytes": 1861,
       "imports": [
         {
-          "path": "../../../../../../../../../../../../../../../computer-data-engineering-services-section/services/computer-content-engineering-services-section/services/computer-content-address-engineering-services-section/services/uri-services-section/src/ni-uri.mjs",
+          "path": "../../../../../../../../../../../../../../../computer-data-engineering-services-section/services/computer-content-engineering-services-section/services/computer-content-address-engineering-services-section/services/uri-engineering-services-section/src/ni-uri.mjs",
           "kind": "import-statement",
           "original": "@red-cup-engineering/uri-engineering-services-section/ni-uri"
         }
@@ -622,7 +622,7 @@
           "original": "@red-cup-engineering/computer-content-address-engineering-services-section/content-address"
         },
         {
-          "path": "../../../../../../../../../../../../../../../computer-data-engineering-services-section/services/computer-content-engineering-services-section/services/computer-content-address-engineering-services-section/services/uri-services-section/src/ni-uri.mjs",
+          "path": "../../../../../../../../../../../../../../../computer-data-engineering-services-section/services/computer-content-engineering-services-section/services/computer-content-address-engineering-services-section/services/uri-engineering-services-section/src/ni-uri.mjs",
           "kind": "import-statement",
           "original": "@red-cup-engineering/uri-engineering-services-section/ni-uri"
         }
@@ -769,7 +769,7 @@
         "../../../../../../../../../../../../../../../computer-data-engineering-services-section/services/cryptographic-computer-data-engineering-services-section/src/portable-sha256.mjs": {
           "bytesInOutput": 2960
         },
-        "../../../../../../../../../../../../../../../computer-data-engineering-services-section/services/computer-content-engineering-services-section/services/computer-content-address-engineering-services-section/services/uri-services-section/src/ni-uri.mjs": {
+        "../../../../../../../../../../../../../../../computer-data-engineering-services-section/services/computer-content-engineering-services-section/services/computer-content-address-engineering-services-section/services/uri-engineering-services-section/src/ni-uri.mjs": {
           "bytesInOutput": 829
         },
         "../../../../../../../../../../../../../../../computer-data-engineering-services-section/services/computer-content-engineering-services-section/services/computer-content-address-engineering-services-section/src/content-address.mjs": {
