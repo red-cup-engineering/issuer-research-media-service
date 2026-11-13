@@ -383,7 +383,7 @@
       ],
       "format": "esm"
     },
-    "../../../../../../../../../../../../../../../../../github-engineering-services-section/node_modules/@red-cup-engineering/computer-content-address-engineering-services-section/src/semiotic-content-address.mjs": {
+    "../../../../../../../../../../../../../../../../../github-engineering-services-section/node_modules/@red-cup-engineering/computer-content-address-engineering-services-section/src/semiotic-content-address-system.mjs": {
       "bytes": 9144,
       "imports": [
         {
@@ -497,9 +497,9 @@
       "bytes": 11605,
       "imports": [
         {
-          "path": "../../../../../../../../../../../../../../../../../github-engineering-services-section/node_modules/@red-cup-engineering/computer-content-address-engineering-services-section/src/semiotic-content-address.mjs",
+          "path": "../../../../../../../../../../../../../../../../../github-engineering-services-section/node_modules/@red-cup-engineering/computer-content-address-engineering-services-section/src/semiotic-content-address-system.mjs",
           "kind": "import-statement",
-          "original": "@red-cup-engineering/computer-content-address-engineering-services-section/semiotic-content-address"
+          "original": "@red-cup-engineering/computer-content-address-engineering-services-section/semiotic-content-address-system"
         },
         {
           "path": "../../../../../../../../../../../../../../../../../github-engineering-services-section/node_modules/@red-cup-engineering/computer-data-engineering-services-section/src/semiotic-expression-notation/notation.mjs",
@@ -513,9 +513,9 @@
       "bytes": 16528,
       "imports": [
         {
-          "path": "../../../../../../../../../../../../../../../../../github-engineering-services-section/node_modules/@red-cup-engineering/computer-content-address-engineering-services-section/src/semiotic-content-address.mjs",
+          "path": "../../../../../../../../../../../../../../../../../github-engineering-services-section/node_modules/@red-cup-engineering/computer-content-address-engineering-services-section/src/semiotic-content-address-system.mjs",
           "kind": "import-statement",
-          "original": "@red-cup-engineering/computer-content-address-engineering-services-section/semiotic-content-address"
+          "original": "@red-cup-engineering/computer-content-address-engineering-services-section/semiotic-content-address-system"
         },
         {
           "path": "../../../../../../../../../../../../../../../../../github-engineering-services-section/node_modules/@red-cup-engineering/uri-engineering-services-section/src/ni-uri.mjs",
@@ -712,7 +712,7 @@
         "../../../../../../../../../../../../../../../../../github-engineering-services-section/node_modules/@red-cup-engineering/cbor-engineering-services-section/src/cbor.mjs": {
           "bytesInOutput": 2713
         },
-        "../../../../../../../../../../../../../../../../../github-engineering-services-section/node_modules/@red-cup-engineering/computer-content-address-engineering-services-section/src/semiotic-content-address.mjs": {
+        "../../../../../../../../../../../../../../../../../github-engineering-services-section/node_modules/@red-cup-engineering/computer-content-address-engineering-services-section/src/semiotic-content-address-system.mjs": {
           "bytesInOutput": 4381
         },
         "../../../../../../../../../../../../../../../../../github-engineering-services-section/node_modules/@red-cup-engineering/computer-data-engineering-services-section/src/semiotic-expression-notation/notation/forms.mjs": {

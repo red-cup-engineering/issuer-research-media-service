@@ -2209,7 +2209,7 @@ function encodeCanonical(value) {
   return encode2(value);
 }
 
-// ../../../../../../../../../../../../../../../../../github-engineering-services-section/node_modules/@red-cup-engineering/computer-content-address-engineering-services-section/src/semiotic-content-address.mjs
+// ../../../../../../../../../../../../../../../../../github-engineering-services-section/node_modules/@red-cup-engineering/computer-content-address-engineering-services-section/src/semiotic-content-address-system.mjs
 var canonicalSnapshots = /* @__PURE__ */ new WeakSet();
 var retainedSnapshots = /* @__PURE__ */ new WeakSet();
 var copyBytes = (value) => value.constructor === Uint8Array ? Uint8Array.from(value) : ownedBytes(value);
