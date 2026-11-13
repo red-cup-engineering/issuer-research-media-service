@@ -629,13 +629,13 @@
       ],
       "format": "esm"
     },
-    "../../../../../../../../../../../../../../../../../../../../../../../../../info/lib/emsenn/services/561-group/services/engineering-services-section/services/computer-engineering-services-section/services/computer-systems-engineering-services-section/services/computer-web-engineering-services-section/services/web-platform-services-section/services/web2-platform-services-section/services/web2-financial-platform-services-section/services/web2-financial-brokerage-platform-services-section/services/alpaca-services-section/services/issuer-research-media-service/data/logs/native-consumer-assay-logs/2026-10-24-prepared-cohort/prepared-cohort-workerd.mjs": {
+    "../../../../../../../../../../../../../../../../../../../../../../../../../info/lib/emsenn/services/561-group/services/engineering-services-section/services/computer-engineering-services-section/services/computer-systems-engineering-services-section/services/computer-web-engineering-services-section/services/web-platform-services-section/services/web2-platform-services-section/services/web2-financial-platform-services-section/services/web2-financial-brokerage-platform-services-section/services/alpaca-engineering-services-section/services/issuer-research-media-service/data/logs/native-consumer-assay-logs/2026-10-24-prepared-cohort/prepared-cohort-workerd.mjs": {
       "bytes": 5642,
       "imports": [
         {
           "path": "data/logs/fabrication-logs/2026-10-24-prepared-cohort/edge-refinement/retained-proposal.source.mjs",
           "kind": "import-statement",
-          "original": "/home/emsenn/info/lib/emsenn/services/561-group/services/engineering-services-section/services/computer-engineering-services-section/services/computer-systems-engineering-services-section/services/computer-web-engineering-services-section/services/web-platform-services-section/services/web2-platform-services-section/services/web2-financial-platform-services-section/services/web2-financial-brokerage-platform-services-section/services/alpaca-services-section/services/issuer-research-media-service/data/logs/fabrication-logs/2026-10-24-prepared-cohort/edge-refinement/retained-proposal.source.mjs"
+          "original": "/home/emsenn/info/lib/emsenn/services/561-group/services/engineering-services-section/services/computer-engineering-services-section/services/computer-systems-engineering-services-section/services/computer-web-engineering-services-section/services/web-platform-services-section/services/web2-platform-services-section/services/web2-financial-platform-services-section/services/web2-financial-brokerage-platform-services-section/services/alpaca-engineering-services-section/services/issuer-research-media-service/data/logs/fabrication-logs/2026-10-24-prepared-cohort/edge-refinement/retained-proposal.source.mjs"
         }
       ],
       "format": "esm"
@@ -650,7 +650,7 @@
         "manualSourcePreparation",
         "retryAfterIdentityObservation"
       ],
-      "entryPoint": "../../../../../../../../../../../../../../../../../../../../../../../../../info/lib/emsenn/services/561-group/services/engineering-services-section/services/computer-engineering-services-section/services/computer-systems-engineering-services-section/services/computer-web-engineering-services-section/services/web-platform-services-section/services/web2-platform-services-section/services/web2-financial-platform-services-section/services/web2-financial-brokerage-platform-services-section/services/alpaca-services-section/services/issuer-research-media-service/data/logs/native-consumer-assay-logs/2026-10-24-prepared-cohort/prepared-cohort-workerd.mjs",
+      "entryPoint": "../../../../../../../../../../../../../../../../../../../../../../../../../info/lib/emsenn/services/561-group/services/engineering-services-section/services/computer-engineering-services-section/services/computer-systems-engineering-services-section/services/computer-web-engineering-services-section/services/web-platform-services-section/services/web2-platform-services-section/services/web2-financial-platform-services-section/services/web2-financial-brokerage-platform-services-section/services/alpaca-engineering-services-section/services/issuer-research-media-service/data/logs/native-consumer-assay-logs/2026-10-24-prepared-cohort/prepared-cohort-workerd.mjs",
       "inputs": {
         "../../../../../../../../../../../../../../../../../github-engineering-services-section/node_modules/cbor2/lib/typeEncoderMap.js": {
           "bytesInOutput": 1096
@@ -757,7 +757,7 @@
         "data/logs/fabrication-logs/2026-10-24-prepared-cohort/edge-refinement/retained-proposal.source.mjs": {
           "bytesInOutput": 17451
         },
-        "../../../../../../../../../../../../../../../../../../../../../../../../../info/lib/emsenn/services/561-group/services/engineering-services-section/services/computer-engineering-services-section/services/computer-systems-engineering-services-section/services/computer-web-engineering-services-section/services/web-platform-services-section/services/web2-platform-services-section/services/web2-financial-platform-services-section/services/web2-financial-brokerage-platform-services-section/services/alpaca-services-section/services/issuer-research-media-service/data/logs/native-consumer-assay-logs/2026-10-24-prepared-cohort/prepared-cohort-workerd.mjs": {
+        "../../../../../../../../../../../../../../../../../../../../../../../../../info/lib/emsenn/services/561-group/services/engineering-services-section/services/computer-engineering-services-section/services/computer-systems-engineering-services-section/services/computer-web-engineering-services-section/services/web-platform-services-section/services/web2-platform-services-section/services/web2-financial-platform-services-section/services/web2-financial-brokerage-platform-services-section/services/alpaca-engineering-services-section/services/issuer-research-media-service/data/logs/native-consumer-assay-logs/2026-10-24-prepared-cohort/prepared-cohort-workerd.mjs": {
           "bytesInOutput": 5015
         }
       },

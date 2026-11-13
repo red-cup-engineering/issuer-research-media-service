@@ -11,7 +11,7 @@
       },
       "provenance": {
         "type": "ArtifactFabricationSourceProvenance",
-        "locator": "/home/emsenn/info/lib/emsenn/services/561-group/services/engineering-services-section/services/computer-engineering-services-section/services/computer-systems-engineering-services-section/services/computer-web-engineering-services-section/services/web-platform-services-section/services/web2-platform-services-section/services/web2-financial-platform-services-section/services/web2-financial-brokerage-platform-services-section/services/alpaca-services-section/services/issuer-research-media-service/specifications/prepared-cohort.work-order.md",
+        "locator": "/home/emsenn/info/lib/emsenn/services/561-group/services/engineering-services-section/services/computer-engineering-services-section/services/computer-systems-engineering-services-section/services/computer-web-engineering-services-section/services/web-platform-services-section/services/web2-platform-services-section/services/web2-financial-platform-services-section/services/web2-financial-brokerage-platform-services-section/services/alpaca-engineering-services-section/services/issuer-research-media-service/specifications/prepared-cohort.work-order.md",
         "digest": "sha256:7a42477b0b90a190ebd63aa219220613c55d8aa3af792134dbce9a77fb3d9d0c",
         "sourceSpan": {
           "type": "ArtifactFabricationSourceSpan",
@@ -163,7 +163,7 @@
         "quantity": null,
         "basis": {
           "type": "ArtifactFabricationMeasuredBasis",
-          "locator": "/home/emsenn/info/lib/emsenn/services/561-group/services/engineering-services-section/services/computer-engineering-services-section/services/computer-systems-engineering-services-section/services/computer-web-engineering-services-section/services/web-platform-services-section/services/web2-platform-services-section/services/web2-financial-platform-services-section/services/web2-financial-brokerage-platform-services-section/services/alpaca-services-section/services/issuer-research-media-service/package.json",
+          "locator": "/home/emsenn/info/lib/emsenn/services/561-group/services/engineering-services-section/services/computer-engineering-services-section/services/computer-systems-engineering-services-section/services/computer-web-engineering-services-section/services/web-platform-services-section/services/web2-platform-services-section/services/web2-financial-platform-services-section/services/web2-financial-brokerage-platform-services-section/services/alpaca-engineering-services-section/services/issuer-research-media-service/package.json",
           "digest": "sha256:d4bb785016c3f12cd8505573f9bf15b32c753945d643b61cdd2ca3ce2a6fef24",
           "derivation": "Read actual selected package metadata and named source exports; exact source-candidate/native installed context, not inferred registry receipt."
         },
@@ -184,7 +184,7 @@
         "quantity": null,
         "basis": {
           "type": "ArtifactFabricationMeasuredBasis",
-          "locator": "/home/emsenn/info/lib/emsenn/services/561-group/services/engineering-services-section/services/computer-engineering-services-section/services/computer-systems-engineering-services-section/services/computer-web-engineering-services-section/services/web-platform-services-section/services/web2-platform-services-section/services/web2-financial-platform-services-section/services/web2-financial-brokerage-platform-services-section/services/alpaca-services-section/node_modules/@red-cup-engineering/computer-content-address-engineering-services-section/package.json",
+          "locator": "/home/emsenn/info/lib/emsenn/services/561-group/services/engineering-services-section/services/computer-engineering-services-section/services/computer-systems-engineering-services-section/services/computer-web-engineering-services-section/services/web-platform-services-section/services/web2-platform-services-section/services/web2-financial-platform-services-section/services/web2-financial-brokerage-platform-services-section/services/alpaca-engineering-services-section/node_modules/@red-cup-engineering/computer-content-address-engineering-services-section/package.json",
           "digest": "sha256:48fc7fccbd53b3af849bf2a9d4e38f1362e167dea3fee5e342eb453e9b83cd05",
           "derivation": "Read actual selected package metadata and named source exports; exact source-candidate/native installed context, not inferred registry receipt."
         },
@@ -205,7 +205,7 @@
         "quantity": null,
         "basis": {
           "type": "ArtifactFabricationMeasuredBasis",
-          "locator": "/home/emsenn/info/lib/emsenn/services/561-group/services/engineering-services-section/services/computer-engineering-services-section/services/computer-systems-engineering-services-section/services/computer-web-engineering-services-section/services/web-platform-services-section/services/web2-platform-services-section/services/web2-financial-platform-services-section/services/web2-financial-brokerage-platform-services-section/services/alpaca-services-section/node_modules/@red-cup-engineering/uri-engineering-services-section/package.json",
+          "locator": "/home/emsenn/info/lib/emsenn/services/561-group/services/engineering-services-section/services/computer-engineering-services-section/services/computer-systems-engineering-services-section/services/computer-web-engineering-services-section/services/web-platform-services-section/services/web2-platform-services-section/services/web2-financial-platform-services-section/services/web2-financial-brokerage-platform-services-section/services/alpaca-engineering-services-section/node_modules/@red-cup-engineering/uri-engineering-services-section/package.json",
           "digest": "sha256:f06c71cdb7216556d5308a5de7b887e0c19c3cf5f15b881db0b6a930083fae81",
           "derivation": "Read actual selected package metadata and named source exports; exact source-candidate/native installed context, not inferred registry receipt."
         },

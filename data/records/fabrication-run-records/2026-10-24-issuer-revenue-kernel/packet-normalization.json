@@ -1,6 +1,6 @@
 {
   "scope": "source-compatible normalization of preexisting duplicate private packet supplier",
-  "source": "/home/emsenn/info/lib/emsenn/services/561-group/services/engineering-services-section/services/computer-engineering-services-section/services/computer-systems-engineering-services-section/services/computer-web-engineering-services-section/services/web-platform-services-section/services/web2-platform-services-section/services/web2-financial-platform-services-section/services/web2-financial-brokerage-platform-services-section/services/alpaca-services-section/services/issuer-research-media-service/src/evidence-packet.mjs",
+  "source": "/home/emsenn/info/lib/emsenn/services/561-group/services/engineering-services-section/services/computer-engineering-services-section/services/computer-systems-engineering-services-section/services/computer-web-engineering-services-section/services/web-platform-services-section/services/web2-platform-services-section/services/web2-financial-platform-services-section/services/web2-financial-brokerage-platform-services-section/services/alpaca-engineering-services-section/services/issuer-research-media-service/src/evidence-packet.mjs",
   "originalSha256": "9fadb89adf0010dd33dce02f01ed11e8cdcce55122ce8409bced46cc7a6389da",
   "normalizedSha256": "6d7806530addaf61ed391e3dac751f255d11ac5839d2da4aa97c970426a123bb",
   "authoritativeSupplier": "../../../scripts/evidence-packet.mjs",

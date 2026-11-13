@@ -2,7 +2,7 @@ import {
   prepareIssuerRevenueCohort,
   selectPreparedIssuerRevenueComparison,
   readPreparedIssuerRevenueComparison,
-} from "/home/emsenn/info/lib/emsenn/services/561-group/services/engineering-services-section/services/computer-engineering-services-section/services/computer-systems-engineering-services-section/services/computer-web-engineering-services-section/services/web-platform-services-section/services/web2-platform-services-section/services/web2-financial-platform-services-section/services/web2-financial-brokerage-platform-services-section/services/alpaca-services-section/services/issuer-research-media-service/data/logs/fabrication-logs/2026-10-24-prepared-cohort/edge-refinement/retained-proposal.source.mjs";
+} from "/home/emsenn/info/lib/emsenn/services/561-group/services/engineering-services-section/services/computer-engineering-services-section/services/computer-systems-engineering-services-section/services/computer-web-engineering-services-section/services/web-platform-services-section/services/web2-platform-services-section/services/web2-financial-platform-services-section/services/web2-financial-brokerage-platform-services-section/services/alpaca-engineering-services-section/services/issuer-research-media-service/data/logs/fabrication-logs/2026-10-24-prepared-cohort/edge-refinement/retained-proposal.source.mjs";
 
 function expect(value, message) { if (!value) throw new Error(message); }
 function configuration() {

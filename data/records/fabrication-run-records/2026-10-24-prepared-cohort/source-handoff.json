@@ -3,7 +3,7 @@
   "version": 1,
   "observedAt": "2026-10-24T19:46:36.307880+00:00",
   "owner": "red-cup-engineering/issuer-research-media-service",
-  "ownerRoot": "/home/emsenn/bare-cedar-fog/lib/phezi-ochage/services/561-group/services/engineering-services-section/services/computer-engineering-services-section/services/computer-systems-engineering-services-section/services/computer-web-engineering-services-section/services/web-platform-services-section/services/web2-platform-services-section/services/web2-financial-platform-services-section/services/web2-financial-brokerage-platform-services-section/services/alpaca-services-section/services/issuer-research-media-service",
+  "ownerRoot": "/home/emsenn/bare-cedar-fog/lib/phezi-ochage/services/561-group/services/engineering-services-section/services/computer-engineering-services-section/services/computer-systems-engineering-services-section/services/computer-web-engineering-services-section/services/web-platform-services-section/services/web2-platform-services-section/services/web2-financial-platform-services-section/services/web2-financial-brokerage-platform-services-section/services/alpaca-engineering-services-section/services/issuer-research-media-service",
   "localBranch": "main",
   "localHeadBeforeReceivingRecord": "a48f45313af1e7525041d17ac3ff9a7ccdf24580",
   "remoteMainLastObserved": "a48f45313af1e7525041d17ac3ff9a7ccdf24580",

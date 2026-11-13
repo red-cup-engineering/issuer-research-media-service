@@ -10,7 +10,7 @@
     },
     "provenance": {
       "type": "ArtifactFabricationSourceProvenance",
-      "locator": "/home/emsenn/info/lib/emsenn/services/561-group/services/engineering-services-section/services/computer-engineering-services-section/services/computer-systems-engineering-services-section/services/computer-web-engineering-services-section/services/web-platform-services-section/services/web2-platform-services-section/services/web2-financial-platform-services-section/services/web2-financial-brokerage-platform-services-section/services/alpaca-services-section/services/issuer-research-media-service/specifications/issuer-revenue-kernel.work-order.md",
+      "locator": "/home/emsenn/info/lib/emsenn/services/561-group/services/engineering-services-section/services/computer-engineering-services-section/services/computer-systems-engineering-services-section/services/computer-web-engineering-services-section/services/web-platform-services-section/services/web2-platform-services-section/services/web2-financial-platform-services-section/services/web2-financial-brokerage-platform-services-section/services/alpaca-engineering-services-section/services/issuer-research-media-service/specifications/issuer-revenue-kernel.work-order.md",
       "digest": "sha256:9ca966e325cc885ef3b08993a9a1609a8a86fc3ff8f7f86cf607c7c2a0784e65",
       "sourceSpan": {
         "type": "ArtifactFabricationSourceSpan",
